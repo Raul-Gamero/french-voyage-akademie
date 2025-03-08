@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export", // Necesario para que Next.js exporte el sitio como estático
 };
 
 export default nextConfig;
