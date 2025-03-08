@@ -8,8 +8,10 @@
  * See a full list of supported triggers at https://firebase.google.com/docs/functions
  */
 
-import {onRequest} from "firebase-functions/v2/https";
-import * as logger from "firebase-functions/logger";
+// las 2 lineas de abajo son las que he comentado para que no de error
+
+//import {onRequest} from "firebase-functions/v2/https";
+//import * as logger from "firebase-functions/logger";
 
 // Start writing functions
 // https://firebase.google.com/docs/functions/typescript
