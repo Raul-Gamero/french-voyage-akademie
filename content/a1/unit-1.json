@@ -1,0 +1,1150 @@
+{
+  "level": "A1",
+  "slug": "a1-unit-1",
+  "position": 1,
+  "published": true,
+  "title": {
+    "en": "Unit 1 — First contact",
+    "fr": "Unité 1 — Premier contact"
+  },
+  "description": {
+    "en": "Introduce yourself, say the alphabet, count, tell the time, describe people, talk about your family, your travel plans and your first purchases.",
+    "fr": "Se présenter, épeler, compter, dire l'heure, décrire une personne, parler de sa famille, de ses déplacements et de ses premiers achats."
+  },
+  "lessons": [
+    {
+      "slug": "a1-u1-l01-se-presenter",
+      "position": 1,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Introducing yourself", "fr": "Se présenter" },
+      "summary": {
+        "en": "Say your name, where you are from, and use the two most important French verbs.",
+        "fr": "Dire son nom, son origine, et employer les deux verbes les plus importants du français."
+      },
+      "objective": {
+        "en": "Can introduce themselves and others, and ask and answer simple questions about personal details.",
+        "fr": "Peut se présenter et présenter quelqu'un, poser des questions simples sur des informations personnelles et y répondre."
+      },
+      "sections": [
+        {
+          "type": "INTRODUCTION",
+          "title": { "en": "The first sentences you will need", "fr": "Les premières phrases utiles" },
+          "body": {
+            "en": "Four sentences already let you open a conversation:\n\n- **Bonjour.** — Hello.\n- **Je m'appelle Ana.** — My name is Ana.\n- **Je suis salvadorienne.** — I am Salvadoran.\n- **Et vous ?** — And you?\n\nIn French, **vous** is the polite form. Use it with anyone you do not know: at the town hall, at the doctor's, at a job interview. **Tu** is for family, friends and children.",
+            "fr": "Quatre phrases suffisent déjà pour ouvrir une conversation :\n\n- **Bonjour.**\n- **Je m'appelle Ana.**\n- **Je suis salvadorienne.**\n- **Et vous ?**\n\nEn français, **vous** est la forme de politesse. On l'emploie avec toute personne que l'on ne connaît pas : à la mairie, chez le médecin, lors d'un entretien d'embauche. **Tu** est réservé à la famille, aux amis et aux enfants."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Être and avoir in the present tense", "fr": "Être et avoir au présent" },
+          "media": { "url": "https://www.youtube.com/watch?v=Lvs2OvBKSGU", "type": "VIDEO" },
+          "body": {
+            "en": "These two verbs are irregular, and you cannot avoid them: they build almost every other tense.\n\n| | être (to be) | avoir (to have) |\n|---|---|---|\n| je | suis | ai |\n| tu | es | as |\n| il / elle | est | a |\n| nous | sommes | avons |\n| vous | êtes | avez |\n| ils / elles | sont | ont |\n\nWatch the difference with English: French says **j'ai 30 ans** (*I have 30 years*), never *je suis 30 ans*. The same goes for hunger, thirst and cold: **j'ai faim, j'ai soif, j'ai froid**.",
+            "fr": "Ces deux verbes sont irréguliers et incontournables : presque tous les autres temps se construisent avec eux.\n\n| | être | avoir |\n|---|---|---|\n| je | suis | ai |\n| tu | es | as |\n| il / elle | est | a |\n| nous | sommes | avons |\n| vous | êtes | avez |\n| ils / elles | sont | ont |\n\nAttention : on dit **j'ai 30 ans**, jamais *je suis 30 ans*. De même pour les sensations : **j'ai faim, j'ai soif, j'ai froid**."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Useful classroom phrases", "fr": "Phrases utiles en classe" },
+          "media": { "url": "https://www.youtube.com/watch?v=8dOny8bh8bQ", "type": "VIDEO" },
+          "body": {
+            "en": "Learn these before anything else. They let you keep going when you do not understand:\n\n- **Je ne comprends pas.** — I don't understand.\n- **Pouvez-vous répéter, s'il vous plaît ?** — Can you repeat, please?\n- **Comment dit-on … en français ?** — How do you say … in French?\n- **Qu'est-ce que ça veut dire ?** — What does that mean?\n\nSaying *je ne comprends pas* is not a failure. It is the sentence that keeps the conversation alive.",
+            "fr": "À apprendre avant tout le reste : ces phrases permettent de continuer quand on ne comprend pas.\n\n- **Je ne comprends pas.**\n- **Pouvez-vous répéter, s'il vous plaît ?**\n- **Comment dit-on … en français ?**\n- **Qu'est-ce que ça veut dire ?**\n\nDire *je ne comprends pas* n'est pas un échec : c'est la phrase qui maintient la conversation en vie."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "bonjour", "phonetic": "bɔ̃.ʒuʁ", "example": "Bonjour, madame.", "gloss": { "en": "hello, good morning", "fr": "salutation employée pendant la journée" } },
+        { "term": "bonsoir", "phonetic": "bɔ̃.swaʁ", "example": "Bonsoir, monsieur.", "gloss": { "en": "good evening", "fr": "salutation employée à partir de la fin d'après-midi" } },
+        { "term": "s'appeler", "phonetic": "sa.p(ə).le", "example": "Je m'appelle Ana. Et vous, comment vous appelez-vous ?", "gloss": { "en": "to be called", "fr": "avoir pour nom" } },
+        { "term": "enchanté(e)", "phonetic": "ɑ̃.ʃɑ̃.te", "example": "— Je m'appelle Karim. — Enchantée !", "gloss": { "en": "pleased to meet you", "fr": "formule de politesse lors d'une première rencontre" } },
+        { "term": "s'il vous plaît", "phonetic": "sil.vu.plɛ", "example": "Un café, s'il vous plaît.", "gloss": { "en": "please (polite form)", "fr": "formule de politesse pour demander quelque chose" } },
+        { "term": "merci", "phonetic": "mɛʁ.si", "example": "Merci beaucoup !", "gloss": { "en": "thank you", "fr": "formule de remerciement" } },
+        { "term": "au revoir", "phonetic": "o.ʁə.vwaʁ", "example": "Au revoir et bonne journée !", "gloss": { "en": "goodbye", "fr": "formule que l'on emploie en partant" } },
+        { "term": "un prénom", "phonetic": "pʁe.nɔ̃", "example": "Mon prénom est Ana, mon nom est Ramos.", "gloss": { "en": "a first name", "fr": "le nom personnel, placé avant le nom de famille" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je ___ étudiante. »", "fr": "Complétez : « Je ___ étudiante. »" },
+          "explanation": {
+            "en": "With a noun describing who you are, French uses être: je suis étudiante.",
+            "fr": "Pour dire qui l'on est, on emploie le verbe être : je suis étudiante."
+          },
+          "options": [["suis", true], ["ai", false], ["es", false], ["est", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « J'___ vingt-cinq ans. »", "fr": "Complétez : « J'___ vingt-cinq ans. »" },
+          "explanation": {
+            "en": "Age uses avoir in French: j'ai vingt-cinq ans. Saying « je suis vingt-cinq ans » is a very common first-language interference.",
+            "fr": "L'âge se dit avec avoir : j'ai vingt-cinq ans. « Je suis vingt-cinq ans » est un calque fréquent de l'anglais et de l'espagnol."
+          },
+          "options": [["ai", true], ["suis", false], ["as", false], ["est", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Write in French: « My name is Marie. » (use s'appeler)", "fr": "Écrivez en français : « Mon nom est Marie. » (employez s'appeler)" },
+          "explanation": {
+            "en": "S'appeler is a reflexive verb: the pronoun me comes before the verb — je m'appelle Marie.",
+            "fr": "S'appeler est un verbe pronominal : le pronom me précède le verbe — je m'appelle Marie."
+          },
+          "answers": ["je m'appelle marie", "je mappelle marie"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "At the town hall, you should address the clerk with « tu ».",
+            "fr": "À la mairie, on s'adresse à l'agent avec « tu »."
+          },
+          "explanation": {
+            "en": "False. In any administrative or professional setting, use vous. Tu with a stranger sounds abrupt.",
+            "fr": "Faux. Dans tout cadre administratif ou professionnel, on emploie vous. Le tutoiement d'un inconnu est perçu comme brusque."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "You did not understand what someone said. What do you say?",
+            "fr": "Vous n'avez pas compris ce qu'on vous a dit. Que dites-vous ?"
+          },
+          "explanation": {
+            "en": "« Pouvez-vous répéter, s'il vous plaît ? » is polite and clear. Keep it ready — you will use it every day.",
+            "fr": "« Pouvez-vous répéter, s'il vous plaît ? » est poli et clair. Gardez cette phrase à portée : elle sert tous les jours."
+          },
+          "options": [
+            ["Pouvez-vous répéter, s'il vous plaît ?", true],
+            ["Je m'appelle, s'il vous plaît.", false],
+            ["Au revoir, merci.", false]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l02-alphabet-et-sons",
+      "position": 2,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "The alphabet and French sounds", "fr": "L'alphabet et les sons" },
+      "summary": {
+        "en": "Spell your name on the phone and recognise the sounds that do not exist in your language.",
+        "fr": "Épeler son nom au téléphone et reconnaître les sons qui n'existent pas dans sa langue."
+      },
+      "objective": {
+        "en": "Can spell their name and address, and distinguish the main French vowel sounds.",
+        "fr": "Peut épeler son nom et son adresse, et distinguer les principaux sons vocaliques du français."
+      },
+      "sections": [
+        {
+          "type": "PRONUNCIATION",
+          "title": { "en": "The alphabet", "fr": "L'alphabet" },
+          "media": { "url": "https://www.youtube.com/watch?v=akKplmnr01M", "type": "VIDEO" },
+          "body": {
+            "en": "Spelling out loud is a survival skill: every administrative desk will ask you to spell your surname.\n\nThe letters that cause the most trouble:\n\n| Letter | Sounds like | Do not confuse with |\n|---|---|---|\n| E | *euh* | A (*ah*) |\n| G | *jé* | J (*ji*) |\n| I | *i* | E |\n| U | *u* (lips rounded) | OU |\n| Y | *i grec* | I |\n| W | *double vé* | V |\n\nUseful phrase: **Ça s'écrit R-A-M-O-S.** — It is spelled R-A-M-O-S.",
+            "fr": "Épeler est une compétence de survie : tout guichet administratif vous demandera d'épeler votre nom de famille.\n\nLes lettres les plus délicates :\n\n| Lettre | Se prononce | Ne pas confondre avec |\n|---|---|---|\n| E | *euh* | A |\n| G | *jé* | J (*ji*) |\n| I | *i* | E |\n| U | *u*, lèvres arrondies | OU |\n| Y | *i grec* | I |\n| W | *double vé* | V |\n\nPhrase utile : **Ça s'écrit R-A-M-O-S.**"
+          }
+        },
+        {
+          "type": "PRONUNCIATION",
+          "title": { "en": "Three sounds to master early", "fr": "Trois sons à travailler tôt" },
+          "media": { "url": "https://www.youtube.com/watch?v=-NfSx_Egico", "type": "VIDEO" },
+          "body": {
+            "en": "**1. [u] versus [y]** — *tout* (all) and *tu* (you) differ only in lip position. For [y], say *i* and round your lips.\n\n**2. The nasal vowels** — [ɑ̃] in *grand*, [ɔ̃] in *bon*, [ɛ̃] in *pain*. The air passes through the nose; the final n is not pronounced as a consonant.\n\n**3. The silent final letters** — *petit*, *grand*, *vous parlez*: the final consonant is usually silent. A final **e** is silent too, but it makes the preceding consonant audible: *petit* [pəti] / *petite* [pətit].",
+            "fr": "**1. [u] contre [y]** — *tout* et *tu* ne diffèrent que par la position des lèvres. Pour [y], dites *i* puis arrondissez les lèvres.\n\n**2. Les voyelles nasales** — [ɑ̃] dans *grand*, [ɔ̃] dans *bon*, [ɛ̃] dans *pain*. L'air passe par le nez et le n final ne se prononce pas comme une consonne.\n\n**3. Les lettres finales muettes** — *petit*, *grand*, *vous parlez* : la consonne finale est le plus souvent muette. Le **e** final est muet lui aussi, mais il rend audible la consonne qui le précède : *petit* [pəti] / *petite* [pətit]."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Accents change the sound, and sometimes the word", "fr": "Les accents changent le son, parfois le mot" },
+          "body": {
+            "en": "- **é** (accent aigu) — closed sound: *café*, *étudiant*\n- **è / ê** (accent grave / circonflexe) — open sound: *père*, *fenêtre*\n- **ç** (cédille) — c pronounced [s] before a, o, u: *français*, *ça*\n- **à / où** — the accent separates two different words: *a* (has) / *à* (to), *ou* (or) / *où* (where)\n\nOn a phone keyboard, hold a vowel down to get its accented forms.",
+            "fr": "- **é** (accent aigu) — son fermé : *café*, *étudiant*\n- **è / ê** (accent grave, circonflexe) — son ouvert : *père*, *fenêtre*\n- **ç** (cédille) — le c se prononce [s] devant a, o, u : *français*, *ça*\n- **à / où** — l'accent distingue deux mots différents : *a* (verbe avoir) / *à* (préposition), *ou* (choix) / *où* (lieu)\n\nSur un clavier de téléphone, maintenez une voyelle enfoncée pour obtenir ses formes accentuées."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "épeler", "phonetic": "e.p(ə).le", "example": "Pouvez-vous épeler votre nom ?", "gloss": { "en": "to spell", "fr": "dire un mot lettre par lettre" } },
+        { "term": "une lettre", "phonetic": "lɛtʁ", "example": "Le mot « chat » a quatre lettres.", "gloss": { "en": "a letter", "fr": "signe de l'alphabet" } },
+        { "term": "un accent", "phonetic": "ak.sɑ̃", "example": "« Café » prend un accent aigu.", "gloss": { "en": "an accent mark", "fr": "signe placé sur une voyelle" } },
+        { "term": "une majuscule", "phonetic": "ma.ʒys.kyl", "example": "Les noms propres prennent une majuscule.", "gloss": { "en": "a capital letter", "fr": "grande lettre, comme A ou B" } },
+        { "term": "un mot", "phonetic": "mo", "example": "Je ne connais pas ce mot.", "gloss": { "en": "a word", "fr": "unité de la langue" } },
+        { "term": "une phrase", "phonetic": "fʁɑz", "example": "Écrivez une phrase complète.", "gloss": { "en": "a sentence", "fr": "suite de mots qui a un sens complet" } },
+        { "term": "un nom de famille", "phonetic": "nɔ̃.d(ə).fa.mij", "example": "Mon nom de famille est Ramos.", "gloss": { "en": "a surname, family name", "fr": "nom transmis par la famille" } },
+        { "term": "s'écrire", "phonetic": "se.kʁiʁ", "example": "Comment ça s'écrit ?", "gloss": { "en": "to be written, to be spelled", "fr": "avoir telle orthographe" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which pair differs only by the position of the lips?", "fr": "Quelle paire ne se distingue que par la position des lèvres ?" },
+          "explanation": {
+            "en": "tout [tu] / tu [ty]. For [y], the tongue stays in the [i] position while the lips round.",
+            "fr": "tout [tu] / tu [ty]. Pour [y], la langue reste en position [i] pendant que les lèvres s'arrondissent."
+          },
+          "options": [["tout / tu", true], ["chat / chien", false], ["père / mère", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which word contains a nasal vowel?", "fr": "Quel mot contient une voyelle nasale ?" },
+          "explanation": {
+            "en": "In « pain », the air passes through the nose and the n is not pronounced separately.",
+            "fr": "Dans « pain », l'air passe par le nez et le n ne se prononce pas séparément."
+          },
+          "options": [["pain", true], ["papa", false], ["ville", false], ["café", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 1,
+          "prompt": {
+            "en": "Add the missing accent: « Je suis etudiant. »",
+            "fr": "Rétablissez l'accent manquant : « Je suis etudiant. »"
+          },
+          "explanation": {
+            "en": "étudiant, with an accent aigu. The é is a closed sound; without the accent the word does not exist.",
+            "fr": "étudiant, avec un accent aigu. Le é est un son fermé ; sans l'accent, le mot n'existe pas."
+          },
+          "answers": ["étudiant", "etudiant"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "In « petit », the final t is pronounced.",
+            "fr": "Dans « petit », le t final se prononce."
+          },
+          "explanation": {
+            "en": "False. It stays silent — but it is heard in the feminine « petite », because the final e makes it audible.",
+            "fr": "Faux. Il reste muet — mais on l'entend au féminin « petite », car le e final le rend audible."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "A clerk asks « Comment ça s'écrit ? ». What do they want?",
+            "fr": "Un agent vous demande « Comment ça s'écrit ? ». Que veut-il ?"
+          },
+          "explanation": {
+            "en": "They want you to spell the word, letter by letter.",
+            "fr": "Il vous demande d'épeler le mot, lettre par lettre."
+          },
+          "options": [
+            ["Que vous épeliez le mot", true],
+            ["Que vous répétiez plus fort", false],
+            ["Que vous traduisiez le mot", false]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l03-nombres-et-heure",
+      "position": 3,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Numbers, days and telling the time", "fr": "Les nombres, les jours et l'heure" },
+      "summary": {
+        "en": "Count, give a date, read an appointment letter and understand opening hours.",
+        "fr": "Compter, donner une date, lire une convocation et comprendre des horaires d'ouverture."
+      },
+      "objective": {
+        "en": "Can handle numbers, quantities, dates and times in everyday transactions.",
+        "fr": "Peut manier les nombres, les quantités, les dates et les heures dans les échanges quotidiens."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Numbers from 0 to 100", "fr": "Les nombres de 0 à 100" },
+          "media": { "url": "https://www.youtube.com/watch?v=Y3E9xLNZ9iE", "type": "VIDEO" },
+          "body": {
+            "en": "0 zéro · 1 un · 2 deux · 3 trois · 4 quatre · 5 cinq · 6 six · 7 sept · 8 huit · 9 neuf · 10 dix\n11 onze · 12 douze · 13 treize · 14 quatorze · 15 quinze · 16 seize · 17 dix-sept · 18 dix-huit · 19 dix-neuf · 20 vingt\n\nThen 30 trente, 40 quarante, 50 cinquante, 60 soixante.\n\nFrom 70 on, French counts in a way that surprises everyone at first:\n\n- 70 = **soixante-dix** (60 + 10)\n- 80 = **quatre-vingts** (4 × 20)\n- 90 = **quatre-vingt-dix** (4 × 20 + 10)\n- 97 = **quatre-vingt-dix-sept**\n\nIn Belgium and Switzerland you will hear *septante* (70) and *nonante* (90) instead — both are correct French.",
+            "fr": "0 zéro · 1 un · 2 deux · 3 trois · 4 quatre · 5 cinq · 6 six · 7 sept · 8 huit · 9 neuf · 10 dix\n11 onze · 12 douze · 13 treize · 14 quatorze · 15 quinze · 16 seize · 17 dix-sept · 18 dix-huit · 19 dix-neuf · 20 vingt\n\nPuis 30 trente, 40 quarante, 50 cinquante, 60 soixante.\n\nÀ partir de 70, le français compte d'une manière qui surprend tout le monde :\n\n- 70 = **soixante-dix** (60 + 10)\n- 80 = **quatre-vingts** (4 × 20)\n- 90 = **quatre-vingt-dix** (4 × 20 + 10)\n- 97 = **quatre-vingt-dix-sept**\n\nEn Belgique et en Suisse, on entend *septante* (70) et *nonante* (90) : ces formes sont également correctes."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Days, months and seasons", "fr": "Les jours, les mois et les saisons" },
+          "media": { "url": "https://www.youtube.com/watch?v=CrX86g3IooQ", "type": "VIDEO" },
+          "body": {
+            "en": "**Days** — lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.\n\n**Months** — janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre.\n\n**Seasons** — le printemps, l'été, l'automne, l'hiver.\n\nDays and months take **no capital letter** in French. Dates are written day first: **le 14 juillet 2026**, that is 14/07/2026. An appointment letter reading *le 3/4* means 3 April, not 4 March — a mistake worth avoiding.",
+            "fr": "**Les jours** — lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.\n\n**Les mois** — janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre.\n\n**Les saisons** — le printemps, l'été, l'automne, l'hiver.\n\nLes jours et les mois **ne prennent pas de majuscule**. La date s'écrit en commençant par le jour : **le 14 juillet 2026**, soit 14/07/2026. Une convocation indiquant *le 3/4* désigne le 3 avril, non le 4 mars — une confusion qu'il vaut mieux éviter."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Telling the time", "fr": "Dire l'heure" },
+          "media": { "url": "https://www.youtube.com/watch?v=5wH0W88MiT0", "type": "VIDEO" },
+          "body": {
+            "en": "Ask: **Quelle heure est-il ?** Answer: **Il est …**\n\n- 8:00 — il est huit heures\n- 8:15 — il est huit heures quinze / et quart\n- 8:30 — il est huit heures trente / et demie\n- 8:45 — il est huit heures quarante-cinq / neuf heures moins le quart\n\nOfficial contexts — trains, appointments, opening hours — use the **24-hour clock**: *le train part à 18 h 40*, *le bureau ferme à 17 h*. Note that *midi* is 12:00 and *minuit* is 00:00.",
+            "fr": "Question : **Quelle heure est-il ?** Réponse : **Il est …**\n\n- 8 h 00 — il est huit heures\n- 8 h 15 — il est huit heures quinze / et quart\n- 8 h 30 — il est huit heures trente / et demie\n- 8 h 45 — il est huit heures quarante-cinq / neuf heures moins le quart\n\nLes contextes officiels — trains, rendez-vous, horaires d'ouverture — emploient l'**heure sur 24 heures** : *le train part à 18 h 40*, *le bureau ferme à 17 h*. Retenez aussi *midi* (12 h) et *minuit* (0 h)."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "un rendez-vous", "phonetic": "ʁɑ̃.de.vu", "example": "J'ai un rendez-vous à la préfecture mardi.", "gloss": { "en": "an appointment", "fr": "rencontre fixée à une date et une heure" } },
+        { "term": "aujourd'hui", "phonetic": "o.ʒuʁ.dɥi", "example": "Aujourd'hui, nous sommes lundi.", "gloss": { "en": "today", "fr": "le jour où l'on parle" } },
+        { "term": "demain", "phonetic": "d(ə).mɛ̃", "example": "Le bureau ouvre demain à neuf heures.", "gloss": { "en": "tomorrow", "fr": "le jour suivant" } },
+        { "term": "hier", "phonetic": "jɛʁ", "example": "Hier, j'ai reçu une lettre.", "gloss": { "en": "yesterday", "fr": "le jour précédent" } },
+        { "term": "une semaine", "phonetic": "s(ə).mɛn", "example": "La semaine prochaine, je commence les cours.", "gloss": { "en": "a week", "fr": "période de sept jours" } },
+        { "term": "ouvert / fermé", "phonetic": "u.vɛʁ / fɛʁ.me", "example": "La mairie est fermée le dimanche.", "gloss": { "en": "open / closed", "fr": "accessible au public / inaccessible" } },
+        { "term": "midi", "phonetic": "mi.di", "example": "Le magasin ferme à midi.", "gloss": { "en": "noon, 12:00", "fr": "douze heures, le milieu de la journée" } },
+        { "term": "en retard", "phonetic": "ɑ̃.ʁ(ə).taʁ", "example": "Excusez-moi, je suis en retard.", "gloss": { "en": "late", "fr": "après l'heure prévue" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "How do you say 80 in standard French?", "fr": "Comment dit-on 80 en français standard ?" },
+          "explanation": {
+            "en": "quatre-vingts, literally « four twenties ». In Belgium and Switzerland, huitante or octante also exist.",
+            "fr": "quatre-vingts, littéralement « quatre fois vingt ». En Belgique et en Suisse, on entend aussi huitante ou octante."
+          },
+          "options": [["quatre-vingts", true], ["huitante", false], ["octante", false], ["quatre-dix", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Write 75 in words.", "fr": "Écrivez 75 en toutes lettres." },
+          "explanation": {
+            "en": "soixante-quinze — 60 + 15. From 70 to 79, French keeps counting on from soixante.",
+            "fr": "soixante-quinze — 60 + 15. De 70 à 79, le français continue de compter à partir de soixante."
+          },
+          "answers": ["soixante-quinze", "soixante quinze"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Your appointment letter says « le 05/09 ». Which date is it?",
+            "fr": "Votre convocation indique « le 05/09 ». De quelle date s'agit-il ?"
+          },
+          "explanation": {
+            "en": "5 September. In French the day comes first, then the month — the opposite of the US format.",
+            "fr": "Le 5 septembre. En français, le jour précède le mois — l'inverse du format états-unien."
+          },
+          "options": [["Le 5 septembre", true], ["Le 9 mai", false], ["Le 9 septembre", false]]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "Days of the week take a capital letter in French.",
+            "fr": "Les jours de la semaine prennent une majuscule en français."
+          },
+          "explanation": {
+            "en": "False. Unlike English, French writes lundi, mardi, janvier without a capital.",
+            "fr": "Faux. Contrairement à l'anglais, on écrit lundi, mardi, janvier sans majuscule."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "« Le train part à 18 h 40. » What time is that?", "fr": "« Le train part à 18 h 40. » Quelle heure est-ce ?" },
+          "explanation": {
+            "en": "6:40 p.m. Timetables always use the 24-hour clock.",
+            "fr": "Six heures quarante du soir. Les horaires officiels emploient toujours l'heure sur 24 heures."
+          },
+          "options": [["18 h 40 (6:40 du soir)", true], ["8 h 40 du matin", false], ["Minuit quarante", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l04-decrire-une-personne",
+      "position": 4,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Describing people", "fr": "Décrire une personne" },
+      "summary": {
+        "en": "Colours, the body and adjectives that agree — describe yourself and others.",
+        "fr": "Les couleurs, le corps et l'accord des adjectifs — se décrire et décrire les autres."
+      },
+      "objective": {
+        "en": "Can describe people, their appearance and their basic state of health.",
+        "fr": "Peut décrire des personnes, leur apparence et leur état de santé élémentaire."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Adjectives agree — and usually follow the noun", "fr": "L'adjectif s'accorde — et se place le plus souvent après le nom" },
+          "media": { "url": "https://www.youtube.com/watch?v=FU7rYQfLiwY", "type": "VIDEO" },
+          "body": {
+            "en": "A French adjective changes with the noun it describes:\n\n| | masculine | feminine |\n|---|---|---|\n| singular | un homme grand | une femme grande |\n| plural | des hommes grands | des femmes grandes |\n\nThe general rule: **+ e** for the feminine, **+ s** for the plural.\n\nMost adjectives come **after** the noun — *une voiture rouge*, *un café chaud*. A small, very frequent group comes before: **beau, bon, grand, petit, jeune, vieux, joli, nouveau**. So: *une petite maison*, but *une maison blanche*.",
+            "fr": "L'adjectif français varie avec le nom qu'il qualifie :\n\n| | masculin | féminin |\n|---|---|---|\n| singulier | un homme grand | une femme grande |\n| pluriel | des hommes grands | des femmes grandes |\n\nRègle générale : **+ e** au féminin, **+ s** au pluriel.\n\nLa plupart des adjectifs se placent **après** le nom — *une voiture rouge*, *un café chaud*. Un petit groupe très fréquent se place avant : **beau, bon, grand, petit, jeune, vieux, joli, nouveau**. On dira donc *une petite maison*, mais *une maison blanche*."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Colours", "fr": "Les couleurs" },
+          "media": { "url": "https://www.youtube.com/watch?v=13yD_eIzecg", "type": "VIDEO" },
+          "body": {
+            "en": "blanc / blanche · noir / noire · rouge · bleu / bleue · vert / verte · jaune · gris / grise · marron · rose · orange\n\n**rouge, jaune, rose** already end in -e: they do not change in the feminine.\n**marron** and **orange** come from nouns (a chestnut, an orange) and never change at all: *des chaussures marron*.",
+            "fr": "blanc / blanche · noir / noire · rouge · bleu / bleue · vert / verte · jaune · gris / grise · marron · rose · orange\n\n**rouge, jaune, rose** se terminent déjà par -e : ils ne changent pas au féminin.\n**marron** et **orange** viennent de noms (un marron, une orange) et restent invariables : *des chaussures marron*."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "The body — and saying where it hurts", "fr": "Le corps — et dire où l'on a mal" },
+          "media": { "url": "https://www.youtube.com/watch?v=mlpYaf4UY5E", "type": "VIDEO" },
+          "body": {
+            "en": "la tête · les yeux · le nez · la bouche · les dents · la gorge · le dos · le ventre · le bras · la jambe · le pied · la main\n\nAt the doctor's, one structure does most of the work:\n\n**J'ai mal à …** — *j'ai mal à la tête*, *j'ai mal au dos*, *j'ai mal aux dents*.\n\nWatch the contraction: à + le = **au**, à + les = **aux**.",
+            "fr": "la tête · les yeux · le nez · la bouche · les dents · la gorge · le dos · le ventre · le bras · la jambe · le pied · la main\n\nChez le médecin, une seule structure suffit dans la plupart des cas :\n\n**J'ai mal à …** — *j'ai mal à la tête*, *j'ai mal au dos*, *j'ai mal aux dents*.\n\nAttention à la contraction : à + le = **au**, à + les = **aux**."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "grand(e)", "phonetic": "ɡʁɑ̃ / ɡʁɑ̃d", "example": "Ma sœur est grande.", "gloss": { "en": "tall, big", "fr": "de taille élevée" } },
+        { "term": "petit(e)", "phonetic": "p(ə).ti / p(ə).tit", "example": "J'habite dans un petit appartement.", "gloss": { "en": "small, short", "fr": "de taille réduite" } },
+        { "term": "les cheveux", "phonetic": "ʃ(ə).vø", "example": "Elle a les cheveux noirs.", "gloss": { "en": "hair", "fr": "ce qui pousse sur la tête" } },
+        { "term": "les yeux", "phonetic": "jø", "example": "Il a les yeux verts.", "gloss": { "en": "eyes", "fr": "organes de la vue ; singulier : un œil" } },
+        { "term": "avoir mal à", "phonetic": "a.vwaʁ.mal.a", "example": "J'ai mal à la gorge depuis hier.", "gloss": { "en": "to have a pain in, to hurt", "fr": "ressentir une douleur quelque part" } },
+        { "term": "fatigué(e)", "phonetic": "fa.ti.ɡe", "example": "Je suis très fatigué aujourd'hui.", "gloss": { "en": "tired", "fr": "qui manque d'énergie" } },
+        { "term": "sympathique", "phonetic": "sɛ̃.pa.tik", "example": "Mon voisin est très sympathique.", "gloss": { "en": "nice, friendly", "fr": "agréable, aimable ; familier : sympa" } },
+        { "term": "un médecin", "phonetic": "med.sɛ̃", "example": "Je dois voir un médecin.", "gloss": { "en": "a doctor", "fr": "personne qui soigne les malades" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Marie est ___. »", "fr": "Complétez : « Marie est ___. »" },
+          "explanation": {
+            "en": "Marie is feminine, so the adjective takes an e: grande.",
+            "fr": "Marie est un nom féminin : l'adjectif prend un e — grande."
+          },
+          "options": [["grande", true], ["grand", false], ["grands", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which phrase is correct?", "fr": "Quelle expression est correcte ?" },
+          "explanation": {
+            "en": "une voiture rouge — most adjectives, and colours in particular, follow the noun.",
+            "fr": "une voiture rouge — la plupart des adjectifs, et les couleurs en particulier, suivent le nom."
+          },
+          "options": [["une voiture rouge", true], ["une rouge voiture", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "At the doctor's, say that your back hurts.",
+            "fr": "Chez le médecin, dites que vous avez mal au dos."
+          },
+          "explanation": {
+            "en": "j'ai mal au dos — à + le contracts to au. « à le dos » is never correct.",
+            "fr": "j'ai mal au dos — à + le se contracte en au. « à le dos » n'est jamais correct."
+          },
+          "answers": ["j'ai mal au dos", "jai mal au dos"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« marron » changes in the feminine: une veste marronne.",
+            "fr": "« marron » varie au féminin : une veste marronne."
+          },
+          "explanation": {
+            "en": "False. Colours taken from nouns — marron, orange — never change: une veste marron.",
+            "fr": "Faux. Les couleurs issues de noms — marron, orange — restent invariables : une veste marron."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « J'ai mal ___ dents. »", "fr": "Complétez : « J'ai mal ___ dents. »" },
+          "explanation": {
+            "en": "aux dents — à + les becomes aux before a plural noun.",
+            "fr": "aux dents — à + les devient aux devant un nom pluriel."
+          },
+          "options": [["aux", true], ["à les", false], ["au", false], ["à la", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l05-present-et-habiter",
+      "position": 5,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "The present tense and saying where you live", "fr": "Le présent de l'indicatif et dire où l'on habite" },
+      "summary": {
+        "en": "Regular -er verbs, and the prepositions that go with countries and cities.",
+        "fr": "Les verbes réguliers en -er, et les prépositions des villes et des pays."
+      },
+      "objective": {
+        "en": "Can talk about where they live and come from, and describe habitual actions.",
+        "fr": "Peut dire où il ou elle habite et d'où il ou elle vient, et décrire des actions habituelles."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Regular -er verbs: one pattern, hundreds of verbs", "fr": "Les verbes en -er : un seul modèle, des centaines de verbes" },
+          "media": { "url": "https://www.youtube.com/watch?v=5noY8tSjmDk", "type": "VIDEO" },
+          "body": {
+            "en": "About 90 % of French verbs end in **-er** and follow one single pattern. Learn it once and you can conjugate *parler, habiter, travailler, aimer, chercher, regarder*…\n\n| parler | |\n|---|---|\n| je | parl**e** |\n| tu | parl**es** |\n| il / elle | parl**e** |\n| nous | parl**ons** |\n| vous | parl**ez** |\n| ils / elles | parl**ent** |\n\nGood news for speaking: **parle, parles, parlent** are pronounced exactly the same. Only *nous* and *vous* sound different.",
+            "fr": "Environ 90 % des verbes français se terminent en **-er** et suivent un modèle unique. Apprenez-le une fois et vous conjuguez *parler, habiter, travailler, aimer, chercher, regarder*…\n\n| parler | |\n|---|---|\n| je | parl**e** |\n| tu | parl**es** |\n| il / elle | parl**e** |\n| nous | parl**ons** |\n| vous | parl**ez** |\n| ils / elles | parl**ent** |\n\nBonne nouvelle à l'oral : **parle, parles, parlent** se prononcent exactement de la même façon. Seuls *nous* et *vous* s'entendent différemment."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Prepositions with cities and countries", "fr": "Les prépositions avec les villes et les pays" },
+          "media": { "url": "https://www.youtube.com/watch?v=sXM1FoMLqo4", "type": "VIDEO" },
+          "body": {
+            "en": "| | where you are / are going | where you come from |\n|---|---|---|\n| city | **à** Paris | **de** Paris |\n| feminine country (ends in -e) | **en** France, en Espagne | **de** France |\n| masculine country | **au** Portugal, au Canada | **du** Portugal |\n| plural country | **aux** États-Unis | **des** États-Unis |\n\nAlmost every country ending in **-e** is feminine — with one famous exception: **le Mexique**. So: *je vais au Mexique*, but *je vais en Colombie*.",
+            "fr": "| | lieu où l'on est / où l'on va | lieu d'où l'on vient |\n|---|---|---|\n| ville | **à** Paris | **de** Paris |\n| pays féminin (en -e) | **en** France, en Espagne | **de** France |\n| pays masculin | **au** Portugal, au Canada | **du** Portugal |\n| pays pluriel | **aux** États-Unis | **des** États-Unis |\n\nPresque tous les pays terminés par **-e** sont féminins — avec une exception célèbre : **le Mexique**. On dit donc *je vais au Mexique*, mais *je vais en Colombie*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Depuis, pendant, il y a, dans", "fr": "Depuis, pendant, il y a, dans" },
+          "media": { "url": "https://www.youtube.com/watch?v=VniHVrRJ0-4", "type": "VIDEO" },
+          "body": {
+            "en": "These four words place an action in time, and they are not interchangeable:\n\n- **depuis** — started in the past, still going on: *j'habite en France **depuis** deux ans* (and I still do).\n- **pendant** — a finished duration: *j'ai travaillé **pendant** six mois*.\n- **il y a** — how long ago: *je suis arrivé **il y a** trois mois*.\n- **dans** — how far in the future: *je commence **dans** une semaine*.\n\n*Depuis* with the present tense is the one that most often surprises English and Spanish speakers: French says *j'habite ici depuis deux ans*, not *j'ai habité*.",
+            "fr": "Ces quatre mots situent une action dans le temps, et ils ne sont pas interchangeables :\n\n- **depuis** — action commencée dans le passé et toujours en cours : *j'habite en France **depuis** deux ans* (et j'y habite encore).\n- **pendant** — durée achevée : *j'ai travaillé **pendant** six mois*.\n- **il y a** — il y a combien de temps : *je suis arrivé **il y a** trois mois*.\n- **dans** — dans combien de temps : *je commence **dans** une semaine*.\n\n*Depuis* accompagné du présent est ce qui surprend le plus les hispanophones et les anglophones : on dit *j'habite ici depuis deux ans*, et non *j'ai habité*."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "habiter", "phonetic": "a.bi.te", "example": "J'habite à Lyon depuis un an.", "gloss": { "en": "to live (somewhere)", "fr": "avoir son logement quelque part" } },
+        { "term": "travailler", "phonetic": "tʁa.va.je", "example": "Je travaille dans un restaurant.", "gloss": { "en": "to work", "fr": "exercer une activité professionnelle" } },
+        { "term": "parler", "phonetic": "paʁ.le", "example": "Je parle espagnol et un peu français.", "gloss": { "en": "to speak", "fr": "s'exprimer par la parole" } },
+        { "term": "chercher", "phonetic": "ʃɛʁ.ʃe", "example": "Je cherche un logement.", "gloss": { "en": "to look for", "fr": "essayer de trouver" } },
+        { "term": "un quartier", "phonetic": "kaʁ.tje", "example": "J'habite dans un quartier calme.", "gloss": { "en": "a neighbourhood", "fr": "partie d'une ville" } },
+        { "term": "un logement", "phonetic": "lɔʒ.mɑ̃", "example": "Le logement est cher dans cette ville.", "gloss": { "en": "housing, accommodation", "fr": "lieu où l'on habite" } },
+        { "term": "depuis", "phonetic": "d(ə).pɥi", "example": "J'apprends le français depuis six mois.", "gloss": { "en": "since, for (still ongoing)", "fr": "à partir d'un moment passé, et encore maintenant" } },
+        { "term": "un pays", "phonetic": "pe.i", "example": "Mon pays d'origine est le Salvador.", "gloss": { "en": "a country", "fr": "territoire d'une nation" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Nous ___ français. »", "fr": "Complétez : « Nous ___ français. »" },
+          "explanation": {
+            "en": "With nous, an -er verb takes -ons: nous parlons.",
+            "fr": "Avec nous, le verbe en -er prend la terminaison -ons : nous parlons."
+          },
+          "options": [["parlons", true], ["parlez", false], ["parlent", false], ["parle", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « J'habite ___ Portugal. »", "fr": "Complétez : « J'habite ___ Portugal. »" },
+          "explanation": {
+            "en": "Le Portugal is masculine, so à + le gives au Portugal.",
+            "fr": "Le Portugal est masculin : à + le donne au Portugal."
+          },
+          "options": [["au", true], ["en", false], ["à", false], ["aux", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Elle habite ___ Belgique. »", "fr": "Complétez : « Elle habite ___ Belgique. »" },
+          "explanation": {
+            "en": "La Belgique is a feminine country, so the preposition is en.",
+            "fr": "La Belgique est un pays féminin : la préposition est en."
+          },
+          "options": [["en", true], ["au", false], ["à", false], ["dans la", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete: « J'habite en France ___ deux ans. » (the action continues today)",
+            "fr": "Complétez : « J'habite en France ___ deux ans. » (l'action continue aujourd'hui)"
+          },
+          "explanation": {
+            "en": "depuis — the action started two years ago and is still true. Pendant would close the period.",
+            "fr": "depuis — l'action a commencé il y a deux ans et dure encore. Pendant refermerait la période."
+          },
+          "answers": ["depuis"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« Je suis arrivé il y a trois mois » means the arrival is still happening.",
+            "fr": "« Je suis arrivé il y a trois mois » signifie que l'arrivée est encore en cours."
+          },
+          "explanation": {
+            "en": "False. Il y a points to a finished event in the past: the arrival took place three months ago.",
+            "fr": "Faux. Il y a situe un événement achevé dans le passé : l'arrivée a eu lieu il y a trois mois."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l06-la-famille",
+      "position": 6,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Family and possessive adjectives", "fr": "La famille et les adjectifs possessifs" },
+      "summary": {
+        "en": "Say who belongs to your family — and why « mon » is used with a feminine word.",
+        "fr": "Dire qui compose sa famille — et comprendre pourquoi on dit « mon » devant un mot féminin."
+      },
+      "objective": {
+        "en": "Can describe their family and immediate circle in simple terms.",
+        "fr": "Peut décrire sa famille et son entourage proche en termes simples."
+      },
+      "sections": [
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "The family", "fr": "La famille" },
+          "media": { "url": "https://www.youtube.com/watch?v=OdGl0SW088Q", "type": "VIDEO" },
+          "body": {
+            "en": "le père · la mère · les parents · le fils · la fille · le frère · la sœur · le mari · la femme · le grand-père · la grand-mère · l'oncle · la tante · le cousin / la cousine · les enfants\n\nTwo traps worth noting:\n- **la femme** means both *woman* and *wife*; **le mari** means only *husband*.\n- **la fille** means both *girl* and *daughter*. Context decides.\n\nOn administrative forms you will also meet: *situation de famille*, *célibataire*, *marié(e)*, *divorcé(e)*, *personne à charge*.",
+            "fr": "le père · la mère · les parents · le fils · la fille · le frère · la sœur · le mari · la femme · le grand-père · la grand-mère · l'oncle · la tante · le cousin / la cousine · les enfants\n\nDeux pièges à retenir :\n- **la femme** désigne à la fois la femme et l'épouse ; **le mari** ne désigne que l'époux.\n- **la fille** désigne à la fois la jeune fille et la fille de quelqu'un. Le contexte tranche.\n\nSur les formulaires administratifs, on rencontre aussi : *situation de famille*, *célibataire*, *marié(e)*, *divorcé(e)*, *personne à charge*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Possessive adjectives", "fr": "Les adjectifs possessifs" },
+          "media": { "url": "https://www.youtube.com/watch?v=-QLWXMXeiUs", "type": "VIDEO" },
+          "body": {
+            "en": "| owner | masculine | feminine | plural |\n|---|---|---|---|\n| je | mon frère | ma sœur | mes parents |\n| tu | ton frère | ta sœur | tes parents |\n| il / elle | son frère | sa sœur | ses parents |\n| nous | notre frère | notre sœur | nos parents |\n| vous | votre frère | votre sœur | vos parents |\n| ils / elles | leur frère | leur sœur | leurs parents |\n\nThe key point, and the one that surprises Spanish and English speakers: the form agrees with the **thing owned**, not with the owner. *Son frère* can mean *his brother* or *her brother* — French does not say.",
+            "fr": "| possesseur | masculin | féminin | pluriel |\n|---|---|---|---|\n| je | mon frère | ma sœur | mes parents |\n| tu | ton frère | ta sœur | tes parents |\n| il / elle | son frère | sa sœur | ses parents |\n| nous | notre frère | notre sœur | nos parents |\n| vous | votre frère | votre sœur | vos parents |\n| ils / elles | leur frère | leur sœur | leurs parents |\n\nLe point essentiel : la forme s'accorde avec **l'objet possédé**, non avec le possesseur. *Son frère* peut désigner le frère de Paul comme celui de Marie — le français ne le précise pas."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Why « mon amie » and not « ma amie »", "fr": "Pourquoi « mon amie » et non « ma amie »" },
+          "body": {
+            "en": "Before a feminine word beginning with a **vowel or a silent h**, French replaces *ma, ta, sa* with **mon, ton, son** — purely to avoid two vowels colliding.\n\n- une amie → **mon** amie\n- une école → **mon** école\n- une histoire → **mon** histoire\n\nThe word stays feminine; only the sound changes. This is the same instinct behind *l'école* instead of *la école*.",
+            "fr": "Devant un mot féminin commençant par une **voyelle ou un h muet**, le français remplace *ma, ta, sa* par **mon, ton, son** — uniquement pour éviter la rencontre de deux voyelles.\n\n- une amie → **mon** amie\n- une école → **mon** école\n- une histoire → **mon** histoire\n\nLe mot reste féminin ; seul le son change. C'est le même réflexe que dans *l'école* au lieu de *la école*."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "les parents", "phonetic": "pa.ʁɑ̃", "example": "Mes parents habitent au Salvador.", "gloss": { "en": "parents", "fr": "le père et la mère" } },
+        { "term": "un frère", "phonetic": "fʁɛʁ", "example": "J'ai deux frères.", "gloss": { "en": "a brother", "fr": "fils des mêmes parents" } },
+        { "term": "une sœur", "phonetic": "sœʁ", "example": "Ma sœur travaille à Bruxelles.", "gloss": { "en": "a sister", "fr": "fille des mêmes parents" } },
+        { "term": "un enfant", "phonetic": "ɑ̃.fɑ̃", "example": "Nous avons un enfant de trois ans.", "gloss": { "en": "a child", "fr": "personne jeune ; fils ou fille de quelqu'un" } },
+        { "term": "marié(e)", "phonetic": "ma.ʁje", "example": "Je suis mariée depuis 2020.", "gloss": { "en": "married", "fr": "uni par le mariage" } },
+        { "term": "célibataire", "phonetic": "se.li.ba.tɛʁ", "example": "Il est célibataire.", "gloss": { "en": "single, unmarried", "fr": "qui n'est pas marié" } },
+        { "term": "un ami / une amie", "phonetic": "a.mi", "example": "Mon amie Sofia est colombienne.", "gloss": { "en": "a friend", "fr": "personne avec qui on a une relation d'affection" } },
+        { "term": "un voisin / une voisine", "phonetic": "vwa.zɛ̃ / vwa.zin", "example": "Ma voisine m'aide avec les papiers.", "gloss": { "en": "a neighbour", "fr": "personne qui habite à côté" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « ___ sœur s'appelle Lucía. »", "fr": "Complétez : « ___ sœur s'appelle Lucía. »" },
+          "explanation": {
+            "en": "Sœur is feminine and begins with a consonant, so: ma sœur.",
+            "fr": "Sœur est féminin et commence par une consonne : ma sœur."
+          },
+          "options": [["Ma", true], ["Mon", false], ["Mes", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « ___ amie habite à Genève. »", "fr": "Complétez : « ___ amie habite à Genève. »" },
+          "explanation": {
+            "en": "Amie is feminine but starts with a vowel, so ma becomes mon: mon amie.",
+            "fr": "Amie est féminin mais commence par une voyelle : ma devient mon — mon amie."
+          },
+          "options": [["Mon", true], ["Ma", false], ["Mes", false]]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« Son frère » tells you whether the owner is a man or a woman.",
+            "fr": "« Son frère » indique si le possesseur est un homme ou une femme."
+          },
+          "explanation": {
+            "en": "False. The possessive agrees with the thing owned. Son frère is both *his brother* and *her brother*.",
+            "fr": "Faux. Le possessif s'accorde avec l'objet possédé. Son frère désigne aussi bien le frère de Paul que celui de Marie."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete: « ___ parents habitent au Maroc. » (they are my parents)",
+            "fr": "Complétez : « ___ parents habitent au Maroc. » (ce sont mes parents)"
+          },
+          "explanation": {
+            "en": "mes — the noun is plural, so the possessive is plural too, whatever its gender.",
+            "fr": "mes — le nom est au pluriel, donc le possessif l'est aussi, quel que soit son genre."
+          },
+          "answers": ["mes"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "On a form, « situation de famille : célibataire » means:",
+            "fr": "Sur un formulaire, « situation de famille : célibataire » signifie :"
+          },
+          "explanation": {
+            "en": "Célibataire means unmarried. Marié(e), divorcé(e) and veuf / veuve are the other usual boxes.",
+            "fr": "Célibataire signifie non marié. Marié(e), divorcé(e) et veuf / veuve sont les autres cases habituelles."
+          },
+          "options": [["Non marié(e)", true], ["Sans enfants", false], ["Sans emploi", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l07-aller-et-futur-proche",
+      "position": 7,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Aller and the near future", "fr": "Le verbe aller et le futur proche" },
+      "summary": {
+        "en": "One irregular verb opens the whole future: je vais partir.",
+        "fr": "Un seul verbe irrégulier ouvre tout le futur : je vais partir."
+      },
+      "objective": {
+        "en": "Can say where they are going and talk about immediate plans.",
+        "fr": "Peut dire où il ou elle va et parler de ses projets immédiats."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The verb aller", "fr": "Le verbe aller" },
+          "media": { "url": "https://www.youtube.com/watch?v=QtO4nU7JaY8", "type": "VIDEO" },
+          "body": {
+            "en": "| aller | |\n|---|---|\n| je | vais |\n| tu | vas |\n| il / elle | va |\n| nous | allons |\n| vous | allez |\n| ils / elles | vont |\n\nIt is worth the effort: *aller* is used for movement, for the near future, and for how you feel — **Comment allez-vous ?** — *Je vais bien, merci.*\n\nWith places, remember the contractions: *je vais **au** marché*, *je vais **à la** mairie*, *je vais **aux** urgences*.",
+            "fr": "| aller | |\n|---|---|\n| je | vais |\n| tu | vas |\n| il / elle | va |\n| nous | allons |\n| vous | allez |\n| ils / elles | vont |\n\nL'effort en vaut la peine : *aller* sert au déplacement, au futur proche et à l'état de santé — **Comment allez-vous ?** — *Je vais bien, merci.*\n\nAvec les lieux, pensez aux contractions : *je vais **au** marché*, *je vais **à la** mairie*, *je vais **aux** urgences*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The near future: aller + infinitive", "fr": "Le futur proche : aller + infinitif" },
+          "media": { "url": "https://www.youtube.com/watch?v=eCD-g1pr2Uc", "type": "VIDEO" },
+          "body": {
+            "en": "To talk about what is about to happen, French needs no new tense — just *aller* followed by the infinitive:\n\n- **Je vais chercher** mes papiers. — I'm going to collect my documents.\n- **Nous allons déménager** en mars. — We're going to move in March.\n- **Il va pleuvoir.** — It's going to rain.\n\nIn everyday speech, this construction largely replaces the simple future. You can hold a full conversation about the future with only *aller* and a list of infinitives — which is exactly why it comes at A1.\n\nNegation wraps around the conjugated verb: *je **ne** vais **pas** travailler demain*.",
+            "fr": "Pour parler de ce qui va se produire, le français n'a besoin d'aucun temps nouveau : *aller* suivi de l'infinitif suffit.\n\n- **Je vais chercher** mes papiers.\n- **Nous allons déménager** en mars.\n- **Il va pleuvoir.**\n\nÀ l'oral, cette construction remplace très largement le futur simple. On peut tenir une conversation entière sur l'avenir avec *aller* et une liste d'infinitifs — raison pour laquelle elle figure dès le niveau A1.\n\nLa négation encadre le verbe conjugué : *je **ne** vais **pas** travailler demain*."
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Holidays and time off", "fr": "Les vacances et les congés" },
+          "media": { "url": "https://www.youtube.com/watch?v=Vv5aaC0AW6s", "type": "VIDEO" },
+          "body": {
+            "en": "*Les vacances* is always plural in French: *je pars en vacances*, never *une vacance*.\n\nUseful for work and administration:\n- **les congés payés** — paid leave\n- **un jour férié** — a public holiday\n- **le pont** — the extra day taken between a public holiday and the weekend\n- **la fermeture annuelle** — the annual shutdown, common in August\n\nIn August, many French administrative offices and small businesses close for several weeks. Planning a *rendez-vous* then is often impossible — worth knowing before an urgent errand.",
+            "fr": "*Les vacances* s'emploie toujours au pluriel : *je pars en vacances*, jamais *une vacance*.\n\nUtile au travail et dans les démarches :\n- **les congés payés**\n- **un jour férié**\n- **le pont** — la journée prise entre un jour férié et le week-end\n- **la fermeture annuelle** — fréquente au mois d'août\n\nEn août, de nombreux services administratifs et petits commerces ferment plusieurs semaines. Obtenir un rendez-vous à cette période est souvent impossible : mieux vaut le savoir avant une démarche urgente."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "aller", "phonetic": "a.le", "example": "Je vais à la mairie ce matin.", "gloss": { "en": "to go", "fr": "se déplacer vers un lieu" } },
+        { "term": "les vacances", "phonetic": "va.kɑ̃s", "example": "Nous partons en vacances en juillet.", "gloss": { "en": "holidays, vacation", "fr": "période de repos, toujours au pluriel" } },
+        { "term": "un jour férié", "phonetic": "ʒuʁ.fe.ʁje", "example": "Le 14 juillet est un jour férié.", "gloss": { "en": "a public holiday", "fr": "jour chômé fixé par la loi" } },
+        { "term": "demander", "phonetic": "d(ə).mɑ̃.de", "example": "Je vais demander un rendez-vous.", "gloss": { "en": "to ask (for)", "fr": "solliciter quelque chose" } },
+        { "term": "rentrer", "phonetic": "ʁɑ̃.tʁe", "example": "Je rentre chez moi à 18 heures.", "gloss": { "en": "to go back home, to return", "fr": "revenir chez soi" } },
+        { "term": "bientôt", "phonetic": "bjɛ̃.to", "example": "Je vais bientôt commencer un stage.", "gloss": { "en": "soon", "fr": "dans peu de temps" } },
+        { "term": "un projet", "phonetic": "pʁɔ.ʒɛ", "example": "J'ai un projet : passer le DELF.", "gloss": { "en": "a plan, a project", "fr": "ce que l'on a l'intention de faire" } },
+        { "term": "déménager", "phonetic": "de.me.na.ʒe", "example": "Nous allons déménager en mars.", "gloss": { "en": "to move house", "fr": "changer de logement" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Ils ___ à Paris demain. »", "fr": "Complétez : « Ils ___ à Paris demain. »" },
+          "explanation": {
+            "en": "With ils, aller gives vont — an irregular form worth memorising.",
+            "fr": "Avec ils, aller donne vont — une forme irrégulière à mémoriser."
+          },
+          "options": [["vont", true], ["allent", false], ["vas", false], ["allons", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Put into the near future: « Je cherche un travail. » → « Je ___ ___ un travail. »",
+            "fr": "Mettez au futur proche : « Je cherche un travail. » → « Je ___ ___ un travail. »"
+          },
+          "explanation": {
+            "en": "je vais chercher — aller conjugated, then the infinitive, unchanged.",
+            "fr": "je vais chercher — aller conjugué, puis l'infinitif, qui ne change pas."
+          },
+          "answers": ["vais chercher"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence is correct?", "fr": "Quelle phrase est correcte ?" },
+          "explanation": {
+            "en": "Only aller is conjugated; the second verb stays in the infinitive: nous allons partir.",
+            "fr": "Seul aller se conjugue ; le second verbe reste à l'infinitif : nous allons partir."
+          },
+          "options": [["Nous allons partir à huit heures.", true], ["Nous allons partons à huit heures.", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je vais ___ urgences. »", "fr": "Complétez : « Je vais ___ urgences. »" },
+          "explanation": {
+            "en": "Les urgences is plural, so à + les becomes aux.",
+            "fr": "Les urgences est un pluriel : à + les devient aux."
+          },
+          "options": [["aux", true], ["au", false], ["à la", false], ["à les", false]]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "You can say « une vacance » to talk about a holiday.",
+            "fr": "On peut dire « une vacance » pour parler de congés."
+          },
+          "explanation": {
+            "en": "False. In this sense the word is always plural: les vacances. « Une vacance » exists but means a vacant post.",
+            "fr": "Faux. En ce sens, le mot est toujours au pluriel : les vacances. « Une vacance » existe, mais désigne un poste vacant."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l08-verbes-du-voyage",
+      "position": 8,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Travel verbs", "fr": "Les verbes du voyage" },
+      "summary": {
+        "en": "Partir, arriver, prendre, dormir, savoir, connaître — the verbs of a journey.",
+        "fr": "Partir, arriver, prendre, dormir, savoir, connaître — les verbes du déplacement."
+      },
+      "objective": {
+        "en": "Can manage a simple journey: buy a ticket, understand a departure, book a room.",
+        "fr": "Peut gérer un déplacement simple : acheter un billet, comprendre un départ, réserver une chambre."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Partir, prendre, dormir", "fr": "Partir, prendre, dormir" },
+          "media": { "url": "https://www.youtube.com/watch?v=U8iHVc1A5dI", "type": "VIDEO" },
+          "body": {
+            "en": "| | partir | prendre | dormir |\n|---|---|---|---|\n| je | pars | prends | dors |\n| tu | pars | prends | dors |\n| il / elle | part | prend | dort |\n| nous | partons | prenons | dormons |\n| vous | partez | prenez | dormez |\n| ils / elles | partent | prennent | dorment |\n\nNotice the pattern: the singular forms drop the consonant you hear in the plural. *Il part* [paʁ] versus *ils partent* [paʁt] — the plural is how you hear the difference.\n\n**prendre** is everywhere in travel: *prendre le train, prendre le bus, prendre un billet, prendre un café*.",
+            "fr": "| | partir | prendre | dormir |\n|---|---|---|---|\n| je | pars | prends | dors |\n| tu | pars | prends | dors |\n| il / elle | part | prend | dort |\n| nous | partons | prenons | dormons |\n| vous | partez | prenez | dormez |\n| ils / elles | partent | prennent | dorment |\n\nObservez le mécanisme : au singulier, la consonne que l'on entend au pluriel disparaît. *Il part* [paʁ] contre *ils partent* [paʁt] — c'est au pluriel que la différence s'entend.\n\n**prendre** est omniprésent en voyage : *prendre le train, prendre le bus, prendre un billet, prendre un café*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Savoir or connaître?", "fr": "Savoir ou connaître ?" },
+          "media": { "url": "https://www.youtube.com/watch?v=xBs5iTRNCR8", "type": "VIDEO" },
+          "body": {
+            "en": "English uses *to know* for both. French splits them:\n\n**savoir** — a fact, or how to do something.\n- *Je sais où est la gare.*\n- *Je sais conduire.*\n\n**connaître** — to be acquainted with a person, a place, a work.\n- *Je connais Marie.*\n- *Je connais bien ce quartier.*\n\nA reliable test: if the next word is a person or a place, use **connaître**. If it is *que*, *où*, *quand*, *si*, or an infinitive, use **savoir**.",
+            "fr": "L'anglais et l'espagnol emploient parfois un seul verbe. Le français en distingue deux :\n\n**savoir** — un fait, ou une capacité.\n- *Je sais où est la gare.*\n- *Je sais conduire.*\n\n**connaître** — être familier d'une personne, d'un lieu, d'une œuvre.\n- *Je connais Marie.*\n- *Je connais bien ce quartier.*\n\nUn test fiable : si le mot suivant est une personne ou un lieu, employez **connaître**. Si c'est *que*, *où*, *quand*, *si* ou un infinitif, employez **savoir**."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "At the station", "fr": "À la gare" },
+          "body": {
+            "en": "Sentences you can reuse as they are:\n\n- **Un billet pour Lille, s'il vous plaît.**\n- **Aller simple ou aller-retour ?** — One way or return?\n- **Le train part de quel quai ?** — Which platform does the train leave from?\n- **Il y a une correspondance ?** — Is there a connection?\n- **Le train a du retard.** — The train is delayed.\n\nOn signs: *départs* (departures), *arrivées* (arrivals), *quai* (platform), *voie* (track), *guichet* (ticket desk), *composter* (validate your ticket).",
+            "fr": "Des phrases réutilisables telles quelles :\n\n- **Un billet pour Lille, s'il vous plaît.**\n- **Aller simple ou aller-retour ?**\n- **Le train part de quel quai ?**\n- **Il y a une correspondance ?**\n- **Le train a du retard.**\n\nSur les panneaux : *départs*, *arrivées*, *quai*, *voie*, *guichet*, *composter* (valider son billet)."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "partir", "phonetic": "paʁ.tiʁ", "example": "Le train part à 7 h 15.", "gloss": { "en": "to leave, to depart", "fr": "quitter un lieu" } },
+        { "term": "arriver", "phonetic": "a.ʁi.ve", "example": "J'arrive à Bruxelles à midi.", "gloss": { "en": "to arrive", "fr": "parvenir à destination" } },
+        { "term": "prendre", "phonetic": "pʁɑ̃dʁ", "example": "Je prends le bus tous les matins.", "gloss": { "en": "to take", "fr": "saisir ; emprunter un moyen de transport" } },
+        { "term": "un billet", "phonetic": "bi.jɛ", "example": "J'ai acheté un billet aller-retour.", "gloss": { "en": "a ticket", "fr": "titre de transport" } },
+        { "term": "une gare", "phonetic": "ɡaʁ", "example": "La gare est loin d'ici ?", "gloss": { "en": "a train station", "fr": "lieu de départ et d'arrivée des trains" } },
+        { "term": "dormir", "phonetic": "dɔʁ.miʁ", "example": "Je dors chez un ami cette nuit.", "gloss": { "en": "to sleep", "fr": "se reposer en état de sommeil" } },
+        { "term": "savoir", "phonetic": "sa.vwaʁ", "example": "Je sais où est l'arrêt de bus.", "gloss": { "en": "to know (a fact), to know how to", "fr": "avoir connaissance d'un fait ; être capable de" } },
+        { "term": "connaître", "phonetic": "kɔ.nɛtʁ", "example": "Je connais bien ce quartier.", "gloss": { "en": "to know (a person, a place)", "fr": "être familier d'une personne ou d'un lieu" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je ___ Marie depuis dix ans. »", "fr": "Complétez : « Je ___ Marie depuis dix ans. »" },
+          "explanation": {
+            "en": "Marie is a person, so connaître: je connais Marie.",
+            "fr": "Marie est une personne : on emploie connaître — je connais Marie."
+          },
+          "options": [["connais", true], ["sais", false], ["connaît", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je ___ où est la pharmacie. »", "fr": "Complétez : « Je ___ où est la pharmacie. »" },
+          "explanation": {
+            "en": "The clause starts with où, so savoir: je sais où est la pharmacie.",
+            "fr": "La proposition commence par où : on emploie savoir — je sais où est la pharmacie."
+          },
+          "options": [["sais", true], ["connais", false], ["sait", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "At the ticket desk, ask for a ticket to Lille (polite form).",
+            "fr": "Au guichet, demandez un billet pour Lille (formule polie)."
+          },
+          "explanation": {
+            "en": "un billet pour Lille, s'il vous plaît — the destination takes pour, and the polite ending is expected.",
+            "fr": "un billet pour Lille, s'il vous plaît — la destination se marque par pour, et la formule de politesse est attendue."
+          },
+          "answers": ["un billet pour lille s'il vous plaît", "un billet pour lille sil vous plait", "un billet pour lille s'il vous plait"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "« Le train a du retard » means:", "fr": "« Le train a du retard » signifie :" },
+          "explanation": {
+            "en": "The train is late. In a station announcement, listen for the number of minutes that follows.",
+            "fr": "Le train est en retard. Dans une annonce en gare, guettez le nombre de minutes qui suit."
+          },
+          "options": [["Le train est en retard", true], ["Le train est annulé", false], ["Le train est complet", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Ils ___ le train de 8 heures. »", "fr": "Complétez : « Ils ___ le train de 8 heures. »" },
+          "explanation": {
+            "en": "prendre with ils gives prennent, with a doubled n.",
+            "fr": "prendre avec ils donne prennent, avec deux n."
+          },
+          "options": [["prennent", true], ["prendent", false], ["prend", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l09-courrier-et-orientation",
+      "position": 9,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Post, paperwork and asking the way", "fr": "Le courrier, les papiers et demander son chemin" },
+      "summary": {
+        "en": "Écrire, lire, envoyer — and how to ask for directions and understand the answer.",
+        "fr": "Écrire, lire, envoyer — et comment demander son chemin et comprendre la réponse."
+      },
+      "objective": {
+        "en": "Can handle simple written correspondence and ask for and follow simple directions.",
+        "fr": "Peut gérer une correspondance écrite simple, demander son chemin et suivre des indications simples."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Écrire, lire, envoyer", "fr": "Écrire, lire, envoyer" },
+          "media": { "url": "https://www.youtube.com/watch?v=YxCbsj1YJrw", "type": "VIDEO" },
+          "body": {
+            "en": "| | écrire | lire | envoyer |\n|---|---|---|---|\n| je | écris | lis | envoie |\n| tu | écris | lis | envoies |\n| il / elle | écrit | lit | envoie |\n| nous | écrivons | lisons | envoyons |\n| vous | écrivez | lisez | envoyez |\n| ils / elles | écrivent | lisent | envoient |\n\nA formal letter or email still follows a fixed shape in French:\n\n> **Madame, Monsieur,**\n> Je vous écris au sujet de …\n> Je vous remercie par avance.\n> **Cordialement,**\n> Ana Ramos\n\n*Cordialement* is the safe neutral ending. *Bien à vous* is slightly warmer; *Salut* is only for friends.",
+            "fr": "| | écrire | lire | envoyer |\n|---|---|---|---|\n| je | écris | lis | envoie |\n| tu | écris | lis | envoies |\n| il / elle | écrit | lit | envoie |\n| nous | écrivons | lisons | envoyons |\n| vous | écrivez | lisez | envoyez |\n| ils / elles | écrivent | lisent | envoient |\n\nUne lettre ou un courriel formel suit en français une forme fixe :\n\n> **Madame, Monsieur,**\n> Je vous écris au sujet de …\n> Je vous remercie par avance.\n> **Cordialement,**\n> Ana Ramos\n\n*Cordialement* est la formule neutre sans risque. *Bien à vous* est un peu plus chaleureux ; *Salut* est réservé aux amis."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Understanding official mail", "fr": "Comprendre le courrier administratif" },
+          "body": {
+            "en": "Words that decide whether a letter matters:\n\n- **une convocation** — a summons to an appointment; the date is binding\n- **un justificatif** — a supporting document you must attach\n- **un récépissé** — a receipt, often proof that a request is being processed\n- **un délai** — the deadline\n- **veuillez fournir …** — please provide …\n- **sous huitaine** — within eight days\n- **accusé de réception** — acknowledgement of receipt\n\nWhen a letter says *veuillez fournir* followed by a list, treat it as an obligation with a deadline, not a suggestion.",
+            "fr": "Les mots qui déterminent l'importance d'une lettre :\n\n- **une convocation** — invitation à un rendez-vous ; la date engage\n- **un justificatif** — document à joindre pour prouver quelque chose\n- **un récépissé** — reçu, souvent preuve qu'une demande est en cours\n- **un délai** — le temps imparti\n- **veuillez fournir …** — formule d'obligation polie\n- **sous huitaine** — dans un délai de huit jours\n- **accusé de réception**\n\nQuand une lettre indique *veuillez fournir* suivi d'une liste, il s'agit d'une obligation assortie d'un délai, non d'une suggestion."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Asking the way", "fr": "Demander son chemin" },
+          "media": { "url": "https://www.youtube.com/watch?v=OoFsERiWYsU", "type": "VIDEO" },
+          "body": {
+            "en": "**Asking**\n- *Excusez-moi, où est la gare, s'il vous plaît ?*\n- *Je cherche la mairie.*\n- *C'est loin d'ici ?*\n\n**Understanding the answer**\n- *Allez tout droit.* — Go straight on.\n- *Tournez à droite / à gauche.* — Turn right / left.\n- *Prenez la première rue à droite.*\n- *C'est en face de / à côté de / derrière la poste.*\n- *C'est à cinq minutes à pied.*\n\nIf the answer goes too fast, one sentence saves the situation: **Pouvez-vous parler plus lentement, s'il vous plaît ?**",
+            "fr": "**Demander**\n- *Excusez-moi, où est la gare, s'il vous plaît ?*\n- *Je cherche la mairie.*\n- *C'est loin d'ici ?*\n\n**Comprendre la réponse**\n- *Allez tout droit.*\n- *Tournez à droite / à gauche.*\n- *Prenez la première rue à droite.*\n- *C'est en face de / à côté de / derrière la poste.*\n- *C'est à cinq minutes à pied.*\n\nSi la réponse va trop vite, une phrase sauve la situation : **Pouvez-vous parler plus lentement, s'il vous plaît ?**"
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "écrire", "phonetic": "e.kʁiʁ", "example": "J'écris une lettre à la préfecture.", "gloss": { "en": "to write", "fr": "tracer des mots ; rédiger" } },
+        { "term": "envoyer", "phonetic": "ɑ̃.vwa.je", "example": "J'envoie les documents aujourd'hui.", "gloss": { "en": "to send", "fr": "faire parvenir quelque chose" } },
+        { "term": "une lettre", "phonetic": "lɛtʁ", "example": "J'ai reçu une lettre recommandée.", "gloss": { "en": "a letter", "fr": "message écrit envoyé par la poste" } },
+        { "term": "un justificatif", "phonetic": "ʒys.ti.fi.ka.tif", "example": "Il faut un justificatif de domicile.", "gloss": { "en": "a supporting document", "fr": "document qui prouve une situation" } },
+        { "term": "une convocation", "phonetic": "kɔ̃.vɔ.ka.sjɔ̃", "example": "J'ai reçu une convocation pour le 12 mars.", "gloss": { "en": "a summons, an appointment notice", "fr": "lettre qui fixe un rendez-vous obligatoire" } },
+        { "term": "tout droit", "phonetic": "tu.dʁwa", "example": "Allez tout droit jusqu'au feu.", "gloss": { "en": "straight ahead", "fr": "sans tourner" } },
+        { "term": "à gauche / à droite", "phonetic": "a.ɡoʃ / a.dʁwat", "example": "Tournez à gauche après la banque.", "gloss": { "en": "left / right", "fr": "côté gauche / côté droit" } },
+        { "term": "en face de", "phonetic": "ɑ̃.fas.də", "example": "La poste est en face de la mairie.", "gloss": { "en": "opposite, across from", "fr": "de l'autre côté, vis-à-vis" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "A letter says « Veuillez fournir un justificatif de domicile sous huitaine. » What must you do?",
+            "fr": "Une lettre indique « Veuillez fournir un justificatif de domicile sous huitaine. » Que devez-vous faire ?"
+          },
+          "explanation": {
+            "en": "Send proof of address within eight days. Sous huitaine is a deadline, and veuillez fournir is an obligation.",
+            "fr": "Envoyer une preuve de domicile dans un délai de huit jours. Sous huitaine est un délai, et veuillez fournir exprime une obligation."
+          },
+          "options": [
+            ["Envoyer une preuve de domicile dans les huit jours", true],
+            ["Attendre huit semaines", false],
+            ["Rien : c'est une simple information", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which ending suits an email to an administration?", "fr": "Quelle formule convient pour un courriel adressé à une administration ?" },
+          "explanation": {
+            "en": "Cordialement is the neutral, always-acceptable ending. Salut is reserved for friends.",
+            "fr": "Cordialement est la formule neutre, toujours acceptable. Salut est réservé aux amis."
+          },
+          "options": [["Cordialement,", true], ["Salut !", false], ["Bisous,", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Ask politely where the town hall is.",
+            "fr": "Demandez poliment où se trouve la mairie."
+          },
+          "explanation": {
+            "en": "Excusez-moi, où est la mairie, s'il vous plaît ? — the opening excusez-moi and the closing s'il vous plaît both matter.",
+            "fr": "Excusez-moi, où est la mairie, s'il vous plaît ? — l'ouverture excusez-moi et la clôture s'il vous plaît comptent toutes les deux."
+          },
+          "answers": [
+            "excusez-moi où est la mairie s'il vous plaît",
+            "excusez moi ou est la mairie sil vous plait",
+            "où est la mairie s'il vous plaît"
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "« C'est en face de la poste » means the place is:", "fr": "« C'est en face de la poste » signifie que le lieu est :" },
+          "explanation": {
+            "en": "Opposite the post office, on the other side of the street. À côté de would mean next door.",
+            "fr": "En vis-à-vis de la poste, de l'autre côté de la rue. À côté de signifierait juste à côté."
+          },
+          "options": [["De l'autre côté de la rue", true], ["Juste à côté", false], ["Derrière", false]]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« Une convocation » is an invitation you may decline freely.",
+            "fr": "« Une convocation » est une invitation que l'on peut décliner librement."
+          },
+          "explanation": {
+            "en": "False. A convocation sets a binding appointment; missing it can stop the procedure. Ask to change the date in advance if needed.",
+            "fr": "Faux. Une convocation fixe un rendez-vous qui engage ; ne pas s'y rendre peut bloquer la procédure. En cas d'empêchement, demandez un report à l'avance."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u1-l10-argent-et-achats",
+      "position": 10,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Money, shops and partitive articles", "fr": "L'argent, les magasins et les partitifs" },
+      "summary": {
+        "en": "Buy, pay, ask the price — and learn the little words du, de la, des.",
+        "fr": "Acheter, payer, demander le prix — et maîtriser les petits mots du, de la, des."
+      },
+      "objective": {
+        "en": "Can make simple purchases, ask prices and talk about food and quantities.",
+        "fr": "Peut effectuer des achats simples, demander un prix et parler de nourriture et de quantités."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Acheter, vendre, choisir", "fr": "Acheter, vendre, choisir" },
+          "media": { "url": "https://www.youtube.com/watch?v=i7zbk4ZUThU", "type": "VIDEO" },
+          "body": {
+            "en": "Three verbs, three different groups — a useful summary of French conjugation:\n\n| | acheter (-er) | vendre (-re) | choisir (-ir) |\n|---|---|---|---|\n| je | achète | vends | choisis |\n| tu | achètes | vends | choisis |\n| il / elle | achète | vend | choisit |\n| nous | achetons | vendons | choisissons |\n| vous | achetez | vendez | choisissez |\n| ils / elles | achètent | vendent | choisissent |\n\n*Acheter* adds an accent grave where the ending is silent — *j'achète* but *nous achetons*. This keeps the sound [ɛ] audible.",
+            "fr": "Trois verbes, trois groupes différents — un bon résumé de la conjugaison française :\n\n| | acheter (-er) | vendre (-re) | choisir (-ir) |\n|---|---|---|---|\n| je | achète | vends | choisis |\n| tu | achètes | vends | choisis |\n| il / elle | achète | vend | choisit |\n| nous | achetons | vendons | choisissons |\n| vous | achetez | vendez | choisissez |\n| ils / elles | achètent | vendent | choisissent |\n\n*Acheter* prend un accent grave là où la terminaison est muette — *j'achète* mais *nous achetons*. Cet accent maintient le son [ɛ] audible."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Partitive articles: du, de la, des", "fr": "Les articles partitifs : du, de la, des" },
+          "media": { "url": "https://www.youtube.com/watch?v=CkpMTO-DUgw", "type": "VIDEO" },
+          "body": {
+            "en": "For an unspecified quantity — some bread, some water — French uses the partitive:\n\n| | |\n|---|---|\n| masculine | **du** pain, **du** café |\n| feminine | **de la** viande, **de la** salade |\n| before a vowel | **de l'**eau, **de l'**huile |\n| plural | **des** fruits, **des** œufs |\n\nTwo rules that catch everyone:\n\n1. **After a negation, everything becomes *de***: *je mange du pain* → *je **ne** mange **pas de** pain*.\n2. **After an expression of quantity, also *de***: *un kilo **de** tomates*, *beaucoup **de** travail*, *un litre **de** lait*.\n\nUnlike English, the partitive can never be left out: *je bois de l'eau*, never *je bois eau*.",
+            "fr": "Pour une quantité indéterminée — du pain, de l'eau — le français emploie l'article partitif :\n\n| | |\n|---|---|\n| masculin | **du** pain, **du** café |\n| féminin | **de la** viande, **de la** salade |\n| devant une voyelle | **de l'**eau, **de l'**huile |\n| pluriel | **des** fruits, **des** œufs |\n\nDeux règles qui piègent tout le monde :\n\n1. **Après une négation, tout devient *de*** : *je mange du pain* → *je **ne** mange **pas de** pain*.\n2. **Après une expression de quantité, également *de*** : *un kilo **de** tomates*, *beaucoup **de** travail*, *un litre **de** lait*.\n\nContrairement à l'anglais, le partitif ne peut jamais être omis : *je bois de l'eau*, jamais *je bois eau*."
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Shops and paying", "fr": "Les magasins et le paiement" },
+          "body": {
+            "en": "**Where to buy what** — la boulangerie (bread), la boucherie (meat), la pharmacie, le supermarché, le marché, la banque, la poste.\n\n**At the till**\n- *Ça fait combien ?* — How much is it?\n- *C'est combien, le kilo ?*\n- *Je peux payer par carte ?*\n- *Vous avez la monnaie ?* — Do you have change?\n- *Une facture, s'il vous plaît.*\n\nTwo practical notes: the decimal comma is used, so **3,50 €** is read *trois euros cinquante*; and many small shops set a minimum amount for card payment — look for the sign *carte acceptée à partir de …*.",
+            "fr": "**Où acheter quoi** — la boulangerie, la boucherie, la pharmacie, le supermarché, le marché, la banque, la poste.\n\n**À la caisse**\n- *Ça fait combien ?*\n- *C'est combien, le kilo ?*\n- *Je peux payer par carte ?*\n- *Vous avez la monnaie ?*\n- *Une facture, s'il vous plaît.*\n\nDeux remarques pratiques : la virgule sert de séparateur décimal — **3,50 €** se lit *trois euros cinquante* ; et beaucoup de petits commerces fixent un montant minimum pour le paiement par carte, signalé par la mention *carte acceptée à partir de …*."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "acheter", "phonetic": "aʃ.te", "example": "J'achète du pain à la boulangerie.", "gloss": { "en": "to buy", "fr": "obtenir en payant" } },
+        { "term": "payer", "phonetic": "pe.je", "example": "Je peux payer par carte ?", "gloss": { "en": "to pay", "fr": "remettre de l'argent en échange" } },
+        { "term": "le prix", "phonetic": "pʁi", "example": "Quel est le prix du billet ?", "gloss": { "en": "the price", "fr": "ce que coûte une chose" } },
+        { "term": "cher / chère", "phonetic": "ʃɛʁ", "example": "C'est trop cher pour moi.", "gloss": { "en": "expensive", "fr": "d'un prix élevé" } },
+        { "term": "la monnaie", "phonetic": "mɔ.nɛ", "example": "Je n'ai pas la monnaie.", "gloss": { "en": "change (coins)", "fr": "pièces rendues ou petites pièces" } },
+        { "term": "une boulangerie", "phonetic": "bu.lɑ̃ʒ.ʁi", "example": "La boulangerie ouvre à 7 heures.", "gloss": { "en": "a bakery", "fr": "magasin où l'on vend du pain" } },
+        { "term": "gratuit(e)", "phonetic": "ɡʁa.tɥi", "example": "L'entrée du musée est gratuite le dimanche.", "gloss": { "en": "free of charge", "fr": "qui ne coûte rien" } },
+        { "term": "boire", "phonetic": "bwaʁ", "example": "Je bois de l'eau, merci.", "gloss": { "en": "to drink", "fr": "avaler un liquide" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je bois ___ eau. »", "fr": "Complétez : « Je bois ___ eau. »" },
+          "explanation": {
+            "en": "Eau is feminine and begins with a vowel: de l'eau.",
+            "fr": "Eau est féminin et commence par une voyelle : de l'eau."
+          },
+          "options": [["de l'", true], ["du", false], ["de la", false], ["des", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Put into the negative: « Je mange du pain. »", "fr": "Mettez à la forme négative : « Je mange du pain. »" },
+          "explanation": {
+            "en": "After a negation the partitive becomes simply de: je ne mange pas de pain.",
+            "fr": "Après une négation, le partitif devient simplement de : je ne mange pas de pain."
+          },
+          "options": [
+            ["Je ne mange pas de pain.", true],
+            ["Je ne mange pas du pain.", false],
+            ["Je ne mange pas le pain.", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Complete: « Un kilo ___ tomates, s'il vous plaît. »", "fr": "Complétez : « Un kilo ___ tomates, s'il vous plaît. »" },
+          "explanation": {
+            "en": "de — after any expression of quantity (un kilo, beaucoup, un litre), French uses de alone.",
+            "fr": "de — après toute expression de quantité (un kilo, beaucoup, un litre), le français emploie de seul."
+          },
+          "answers": ["de"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "How do you read « 3,50 € » out loud?", "fr": "Comment lit-on « 3,50 € » à voix haute ?" },
+          "explanation": {
+            "en": "trois euros cinquante. The comma is the decimal separator in French.",
+            "fr": "trois euros cinquante. La virgule est le séparateur décimal en français."
+          },
+          "options": [["trois euros cinquante", true], ["trois cent cinquante euros", false], ["trois euros cinq", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Where do you buy bread?", "fr": "Où achète-t-on du pain ?" },
+          "explanation": {
+            "en": "À la boulangerie. La boucherie sells meat, la pharmacie sells medicine.",
+            "fr": "À la boulangerie. La boucherie vend de la viande, la pharmacie des médicaments."
+          },
+          "options": [["À la boulangerie", true], ["À la boucherie", false], ["À la pharmacie", false]]
+        }
+      ]
+    }
+  ]
+}

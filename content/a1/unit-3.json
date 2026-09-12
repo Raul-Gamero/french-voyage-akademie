@@ -1,0 +1,1216 @@
+{
+  "level": "A1",
+  "slug": "a1-unit-3",
+  "position": 3,
+  "published": true,
+  "title": {
+    "en": "Unit 3 — Telling, comparing, expressing yourself",
+    "fr": "Unité 3 — Raconter, comparer, s'exprimer"
+  },
+  "description": {
+    "en": "Tell a story in the past, ask real questions, compare things, say no properly, and step into authentic French through reading, film and music.",
+    "fr": "Raconter au passé, poser de vraies questions, comparer, dire non correctement, et entrer dans le français authentique par la lecture, le cinéma et la musique."
+  },
+  "lessons": [
+    {
+      "slug": "a1-u3-l01-lecture-histoire-de-marie",
+      "position": 1,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Reading: the story of Marie", "fr": "Lecture : l'histoire de Marie" },
+      "summary": {
+        "en": "A first continuous text — and the two past tenses that carry any story.",
+        "fr": "Un premier texte suivi — et les deux temps du passé qui portent tout récit."
+      },
+      "objective": {
+        "en": "Can understand short, simple narrative texts on familiar topics.",
+        "fr": "Peut comprendre des textes narratifs courts et simples sur des sujets familiers."
+      },
+      "sections": [
+        {
+          "type": "READING",
+          "title": { "en": "Marie and her grandfather's library", "fr": "Marie et la bibliothèque de son grand-père" },
+          "body": {
+            "en": "Read the text twice: once for the overall meaning, once looking at the verbs in bold.\n\n> Il y a longtemps, dans un petit village français, **vivait** une jeune fille nommée Marie. Chaque jour, après l'école, Marie **rentrait** chez elle et **se plongeait** dans les livres de la bibliothèque de son grand-père. Elle **adorait** lire.\n>\n> Un jour, alors qu'elle **avait** à peine dix ans, Marie **a découvert** un vieux livre poussiéreux au fond de l'étagère. Lorsqu'elle l'**a ouvert**, elle **a été** transportée dans un autre temps. L'histoire **se déroulait** dans un château médiéval, et les chevaliers **combattaient** des dragons.\n>\n> Les semaines **ont passé**, et Marie **lisait** ce livre chaque soir. Elle **vivait** l'histoire comme si elle **était** là.\n>\n> Aujourd'hui, Marie **est devenue** une auteure reconnue. Mais elle n'**oublie** jamais ce vieux livre qui **a changé** sa vie.\n\nNotice the two colours of the past: some verbs describe a setting that lasts (*vivait, rentrait, adorait*), others report a single event that moves the story on (*a découvert, a ouvert, est devenue*).",
+            "fr": "Lisez le texte deux fois : une première pour le sens général, une seconde en observant les verbes en gras.\n\n> Il y a longtemps, dans un petit village français, **vivait** une jeune fille nommée Marie. Chaque jour, après l'école, Marie **rentrait** chez elle et **se plongeait** dans les livres de la bibliothèque de son grand-père. Elle **adorait** lire.\n>\n> Un jour, alors qu'elle **avait** à peine dix ans, Marie **a découvert** un vieux livre poussiéreux au fond de l'étagère. Lorsqu'elle l'**a ouvert**, elle **a été** transportée dans un autre temps. L'histoire **se déroulait** dans un château médiéval, et les chevaliers **combattaient** des dragons.\n>\n> Les semaines **ont passé**, et Marie **lisait** ce livre chaque soir. Elle **vivait** l'histoire comme si elle **était** là.\n>\n> Aujourd'hui, Marie **est devenue** une auteure reconnue. Mais elle n'**oublie** jamais ce vieux livre qui **a changé** sa vie.\n\nObservez les deux couleurs du passé : certains verbes décrivent un décor qui dure (*vivait, rentrait, adorait*), d'autres rapportent un événement unique qui fait avancer l'histoire (*a découvert, a ouvert, est devenue*)."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Two past tenses, two jobs", "fr": "Deux passés, deux rôles" },
+          "body": {
+            "en": "| | imparfait | passé composé |\n|---|---|---|\n| role | the background, the setting | the event that happens |\n| question it answers | what was it like? | what happened? |\n| typical markers | chaque jour, souvent, toujours, quand j'étais | un jour, soudain, hier, une fois |\n| example | *il **pleuvait*** | *j'**ai pris** le bus* |\n\nA story usually needs both at once:\n\n> *Il **pleuvait** et j'**attendais** le bus depuis vingt minutes **quand** mon voisin **est arrivé** en voiture.*\n\nThe rain and the waiting are the backdrop; the neighbour arriving is the event. Change the tense and you change the meaning, not just the style.",
+            "fr": "| | imparfait | passé composé |\n|---|---|---|\n| rôle | le décor, la situation | l'événement qui survient |\n| question posée | comment était-ce ? | que s'est-il passé ? |\n| marqueurs typiques | chaque jour, souvent, toujours, quand j'étais | un jour, soudain, hier, une fois |\n| exemple | *il **pleuvait*** | *j'**ai pris** le bus* |\n\nUn récit demande le plus souvent les deux à la fois :\n\n> *Il **pleuvait** et j'**attendais** le bus depuis vingt minutes **quand** mon voisin **est arrivé** en voiture.*\n\nLa pluie et l'attente forment le décor ; l'arrivée du voisin est l'événement. Changer de temps change le sens, non le seul style."
+          }
+        },
+        {
+          "type": "SUMMARY",
+          "title": { "en": "How to read at A1", "fr": "Comment lire au niveau A1" },
+          "body": {
+            "en": "1. **Read the whole text without a dictionary.** Tolerate the gaps.\n2. **Underline only the words that block understanding** — usually far fewer than you expect.\n3. **Look those up, then read again.**\n4. **Read it out loud once.** Reading aloud links spelling to sound, which is where French is hardest.\n\nA text you understand at 70 % is the right level. If you need the dictionary for every line, the text is too hard — not you.",
+            "fr": "1. **Lisez le texte entier sans dictionnaire.** Acceptez les trous.\n2. **Soulignez uniquement les mots qui bloquent la compréhension** — ils sont en général bien moins nombreux qu'on ne le croit.\n3. **Cherchez ceux-là, puis relisez.**\n4. **Lisez une fois à voix haute.** La lecture orale relie l'orthographe au son, là où le français est le plus difficile.\n\nUn texte compris à 70 % est au bon niveau. Si le dictionnaire est nécessaire à chaque ligne, c'est le texte qui est trop difficile, pas vous."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "une histoire", "phonetic": "is.twaʁ", "example": "Raconte-moi une histoire.", "gloss": { "en": "a story; history", "fr": "récit ; suite d'événements" } },
+        { "term": "un livre", "phonetic": "livʁ", "example": "J'ai emprunté un livre à la bibliothèque.", "gloss": { "en": "a book", "fr": "ouvrage imprimé" } },
+        { "term": "lire", "phonetic": "liʁ", "example": "Je lis dix minutes chaque soir.", "gloss": { "en": "to read", "fr": "prendre connaissance d'un texte écrit" } },
+        { "term": "découvrir", "phonetic": "de.ku.vʁiʁ", "example": "J'ai découvert un auteur sénégalais.", "gloss": { "en": "to discover", "fr": "trouver ce que l'on ne connaissait pas" } },
+        { "term": "raconter", "phonetic": "ʁa.kɔ̃.te", "example": "Elle raconte son voyage en Algérie.", "gloss": { "en": "to tell, to recount", "fr": "faire le récit de quelque chose" } },
+        { "term": "autrefois", "phonetic": "o.tʁə.fwa", "example": "Autrefois, j'habitais à la campagne.", "gloss": { "en": "in the past, formerly", "fr": "il y a longtemps" } },
+        { "term": "devenir", "phonetic": "d(ə)v.niʁ", "example": "Elle est devenue infirmière.", "gloss": { "en": "to become", "fr": "passer à un nouvel état" } },
+        { "term": "un souvenir", "phonetic": "suv.niʁ", "example": "J'ai de bons souvenirs de cette année.", "gloss": { "en": "a memory", "fr": "ce que l'on garde en mémoire" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "In the text, which verb describes the setting rather than an event?", "fr": "Dans le texte, quel verbe décrit le décor plutôt qu'un événement ?" },
+          "explanation": {
+            "en": "« adorait » — an imparfait describing a lasting habit. « A découvert » reports a single event.",
+            "fr": "« adorait » — un imparfait qui décrit une habitude durable. « A découvert » rapporte un événement unique."
+          },
+          "options": [["adorait", true], ["a découvert", false], ["est devenue", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which tense answers the question « what happened? »", "fr": "Quel temps répond à la question « que s'est-il passé ? »" },
+          "explanation": {
+            "en": "The passé composé reports events. The imparfait answers « what was it like? ».",
+            "fr": "Le passé composé rapporte les événements. L'imparfait répond à « comment était-ce ? »."
+          },
+          "options": [["Le passé composé", true], ["L'imparfait", false], ["Le présent", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "« Il pleuvait quand je suis sorti. » What does the imparfait express here?",
+            "fr": "« Il pleuvait quand je suis sorti. » Qu'exprime ici l'imparfait ?"
+          },
+          "explanation": {
+            "en": "The rain is the backdrop already in place; going out is the event that occurs against it.",
+            "fr": "La pluie est le décor déjà installé ; la sortie est l'événement qui survient sur ce fond."
+          },
+          "options": [
+            ["Le décor, déjà en place", true],
+            ["Un événement soudain", false],
+            ["Une action future", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete with the imparfait: « Chaque jour, Marie ___ chez elle après l'école. » (rentrer)",
+            "fr": "Complétez à l'imparfait : « Chaque jour, Marie ___ chez elle après l'école. » (rentrer)"
+          },
+          "explanation": {
+            "en": "rentrait — « chaque jour » marks a repeated habit, which calls for the imparfait.",
+            "fr": "rentrait — « chaque jour » marque une habitude répétée, qui appelle l'imparfait."
+          },
+          "answers": ["rentrait"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "At A1, you should look up every unknown word before finishing a text.",
+            "fr": "Au niveau A1, il faut chercher chaque mot inconnu avant de finir un texte."
+          },
+          "explanation": {
+            "en": "False. Read the whole text first, tolerating gaps, then look up only the words that actually block understanding.",
+            "fr": "Faux. Lisez d'abord le texte entier en tolérant les trous, puis cherchez seulement les mots qui bloquent réellement la compréhension."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l02-imparfait",
+      "position": 2,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "The imparfait", "fr": "L'imparfait" },
+      "summary": {
+        "en": "One ending pattern, one irregular verb — and a tense you can build from « nous ».",
+        "fr": "Un seul jeu de terminaisons, un seul verbe irrégulier — et un temps qui se fabrique à partir de « nous »."
+      },
+      "objective": {
+        "en": "Can describe past habits, situations and states in simple terms.",
+        "fr": "Peut décrire des habitudes, des situations et des états passés en termes simples."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "How to build it", "fr": "Comment le former" },
+          "media": { "url": "https://www.youtube.com/watch?v=culF1WXnaOw", "type": "VIDEO" },
+          "body": {
+            "en": "The imparfait is the most regular tense in French. Three steps:\n\n1. Take the **nous** form of the present: *nous **parl**ons*, *nous **finiss**ons*, *nous **pren**ons*.\n2. Remove **-ons**.\n3. Add the endings **-ais, -ais, -ait, -ions, -iez, -aient**.\n\n| | parler | finir | prendre |\n|---|---|---|---|\n| je | parlais | finissais | prenais |\n| tu | parlais | finissais | prenais |\n| il / elle | parlait | finissait | prenait |\n| nous | parlions | finissions | prenions |\n| vous | parliez | finissiez | preniez |\n| ils / elles | parlaient | finissaient | prenaient |\n\n**One single exception in the whole language: être** → j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.\n\nAnd a pronunciation gift: *-ais, -ait, -aient* all sound identical, [ɛ].",
+            "fr": "L'imparfait est le temps le plus régulier du français. Trois étapes :\n\n1. Prenez la forme **nous** du présent : *nous **parl**ons*, *nous **finiss**ons*, *nous **pren**ons*.\n2. Retirez **-ons**.\n3. Ajoutez les terminaisons **-ais, -ais, -ait, -ions, -iez, -aient**.\n\n| | parler | finir | prendre |\n|---|---|---|---|\n| je | parlais | finissais | prenais |\n| tu | parlais | finissais | prenais |\n| il / elle | parlait | finissait | prenait |\n| nous | parlions | finissions | prenions |\n| vous | parliez | finissiez | preniez |\n| ils / elles | parlaient | finissaient | prenaient |\n\n**Une seule exception dans toute la langue : être** → j'étais, tu étais, il était, nous étions, vous étiez, ils étaient.\n\nEt un cadeau de prononciation : *-ais, -ait, -aient* se prononcent tous [ɛ], de manière identique."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "When to use it", "fr": "Quand l'employer" },
+          "media": { "url": "https://www.youtube.com/watch?v=iUuSeytyT4E", "type": "VIDEO" },
+          "body": {
+            "en": "Four uses cover everything at A1:\n\n**1. A past habit** — *Quand j'étais enfant, je **jouais** au football tous les jours.*\n**2. A description in the past** — *Il **faisait** froid et la rue **était** vide.*\n**3. An ongoing action interrupted by another** — *Je **dormais** quand le téléphone **a sonné**.*\n**4. Politeness** — *Je **voulais** vous demander quelque chose.* Softer than *je veux*.\n\nA quick test: if English would say *used to* or *was …-ing*, French almost always wants the imparfait.",
+            "fr": "Quatre emplois couvrent tout au niveau A1 :\n\n**1. Une habitude passée** — *Quand j'étais enfant, je **jouais** au football tous les jours.*\n**2. Une description au passé** — *Il **faisait** froid et la rue **était** vide.*\n**3. Une action en cours interrompue par une autre** — *Je **dormais** quand le téléphone **a sonné**.*\n**4. La politesse** — *Je **voulais** vous demander quelque chose.* Plus doux que *je veux*.\n\nUn test rapide : si l'anglais dirait *used to* ou *was …-ing*, le français demande presque toujours l'imparfait."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Imparfait or passé composé: three pairs", "fr": "Imparfait ou passé composé : trois paires" },
+          "body": {
+            "en": "| sentence | meaning |\n|---|---|\n| *Je **lisais** un livre.* | I was reading (in progress, no end stated) |\n| *J'**ai lu** un livre.* | I read a book (finished, done) |\n| *Il **pleuvait**.* | It was raining (setting) |\n| *Il **a plu**.* | It rained (an event, now over) |\n| *Je **connaissais** Marie.* | I knew Marie (a lasting state) |\n| *J'**ai connu** Marie en 2020.* | I met Marie in 2020 (the moment we met) |\n\nThat last pair shows it best: with some verbs, changing the tense changes the verb's meaning, not only its timing.",
+            "fr": "| phrase | sens |\n|---|---|\n| *Je **lisais** un livre.* | j'étais en train de lire (en cours, sans fin précisée) |\n| *J'**ai lu** un livre.* | j'ai lu un livre (achevé) |\n| *Il **pleuvait**.* | il pleuvait (décor) |\n| *Il **a plu**.* | il a plu (événement désormais clos) |\n| *Je **connaissais** Marie.* | je la connaissais (état durable) |\n| *J'**ai connu** Marie en 2020.* | je l'ai rencontrée en 2020 (le moment de la rencontre) |\n\nLa dernière paire est la plus parlante : avec certains verbes, changer de temps change le sens du verbe, et pas seulement son moment."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "quand j'étais petit(e)", "phonetic": "kɑ̃.ʒe.tɛ.p(ə).ti", "example": "Quand j'étais petit, j'habitais près de la mer.", "gloss": { "en": "when I was little", "fr": "expression qui introduit un souvenir d'enfance" } },
+        { "term": "jouer", "phonetic": "ʒwe", "example": "Je jouais au football tous les dimanches.", "gloss": { "en": "to play", "fr": "pratiquer un jeu ou un sport" } },
+        { "term": "il faisait froid", "phonetic": "il.fə.zɛ.fʁwa", "example": "Il faisait froid et la rue était vide.", "gloss": { "en": "it was cold", "fr": "description du temps qu'il faisait" } },
+        { "term": "sonner", "phonetic": "sɔ.ne", "example": "Le téléphone a sonné à minuit.", "gloss": { "en": "to ring", "fr": "produire une sonnerie" } },
+        { "term": "l'enfance", "phonetic": "lɑ̃.fɑ̃s", "example": "J'ai passé mon enfance au Salvador.", "gloss": { "en": "childhood", "fr": "période de la vie où l'on est enfant" } },
+        { "term": "à l'époque", "phonetic": "a.le.pɔk", "example": "À l'époque, je ne parlais pas français.", "gloss": { "en": "at that time", "fr": "à ce moment du passé" } },
+        { "term": "changer", "phonetic": "ʃɑ̃.ʒe", "example": "Ma vie a changé quand je suis arrivé ici.", "gloss": { "en": "to change", "fr": "devenir autre" } },
+        { "term": "avant", "phonetic": "a.vɑ̃", "example": "Avant, je travaillais dans l'agriculture.", "gloss": { "en": "before, previously", "fr": "à une période antérieure" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which form gives the stem of the imparfait?", "fr": "Quelle forme fournit le radical de l'imparfait ?" },
+          "explanation": {
+            "en": "The nous form of the present, minus -ons: nous prenons → je prenais.",
+            "fr": "La forme nous du présent, moins -ons : nous prenons → je prenais."
+          },
+          "options": [["nous (présent)", true], ["l'infinitif", false], ["je (présent)", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which verb is irregular in the imparfait?", "fr": "Quel verbe est irrégulier à l'imparfait ?" },
+          "explanation": {
+            "en": "être → j'étais. It is the only irregular verb in the whole tense.",
+            "fr": "être → j'étais. C'est le seul verbe irrégulier de tout le temps."
+          },
+          "options": [["être", true], ["avoir", false], ["aller", false], ["faire", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "« Quand j'étais enfant, je ___ au football. » Which tense fits?",
+            "fr": "« Quand j'étais enfant, je ___ au football. » Quel temps convient ?"
+          },
+          "explanation": {
+            "en": "jouais — a repeated childhood habit, so the imparfait.",
+            "fr": "jouais — une habitude répétée de l'enfance, donc l'imparfait."
+          },
+          "options": [["jouais", true], ["ai joué", false], ["joue", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete: « Je ___ quand le téléphone a sonné. » (dormir, imparfait)",
+            "fr": "Complétez : « Je ___ quand le téléphone a sonné. » (dormir, imparfait)"
+          },
+          "explanation": {
+            "en": "dormais — the ongoing action is in the imparfait; the interrupting event stays in the passé composé.",
+            "fr": "dormais — l'action en cours se met à l'imparfait ; l'événement qui l'interrompt reste au passé composé."
+          },
+          "answers": ["dormais"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "« J'ai connu Marie en 2020 » means:", "fr": "« J'ai connu Marie en 2020 » signifie :" },
+          "explanation": {
+            "en": "I met her in 2020. « Je connaissais Marie » would describe a lasting state of acquaintance.",
+            "fr": "Je l'ai rencontrée en 2020. « Je connaissais Marie » décrirait un état durable de connaissance."
+          },
+          "options": [
+            ["Je l'ai rencontrée en 2020", true],
+            ["Je la connaissais déjà avant 2020", false],
+            ["Je ne la connais plus", false]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l03-poser-des-questions",
+      "position": 3,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Asking questions", "fr": "Poser des questions" },
+      "summary": {
+        "en": "Three ways to ask, and the question words that get you real answers.",
+        "fr": "Trois façons de questionner, et les mots interrogatifs qui obtiennent de vraies réponses."
+      },
+      "objective": {
+        "en": "Can ask and answer simple questions on familiar topics and immediate needs.",
+        "fr": "Peut poser des questions simples sur des sujets familiers et des besoins immédiats, et y répondre."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Three registers, one question", "fr": "Trois registres, une même question" },
+          "media": { "url": "https://www.youtube.com/watch?v=pNYGtFmrgDo", "type": "VIDEO" },
+          "body": {
+            "en": "French has three ways of asking the same thing, and they differ in register, not in meaning:\n\n| register | form | example |\n|---|---|---|\n| spoken, informal | intonation only | *Tu viens ?* |\n| neutral, all situations | est-ce que | *Est-ce que tu viens ?* |\n| formal, written | inversion | *Viens-tu ?* |\n\n**est-ce que** is the safest: it works everywhere, in speech and in writing, and it requires no change in word order. If you learn only one, learn that one.\n\nWith inversion and a third-person verb ending in a vowel, a **-t-** appears to ease pronunciation: *A-t-il compris ?*, *Où va-t-elle ?*",
+            "fr": "Le français dispose de trois façons de poser la même question, qui diffèrent par le registre, non par le sens :\n\n| registre | forme | exemple |\n|---|---|---|\n| oral, familier | intonation seule | *Tu viens ?* |\n| neutre, toutes situations | est-ce que | *Est-ce que tu viens ?* |\n| soutenu, écrit | inversion | *Viens-tu ?* |\n\n**est-ce que** est la forme la plus sûre : elle fonctionne partout, à l'oral comme à l'écrit, et n'impose aucun changement d'ordre des mots. Si vous n'en retenez qu'une, retenez celle-là.\n\nAvec l'inversion et un verbe de troisième personne terminé par une voyelle, un **-t-** apparaît pour faciliter la prononciation : *A-t-il compris ?*, *Où va-t-elle ?*"
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Question words", "fr": "Les mots interrogatifs" },
+          "media": { "url": "https://www.youtube.com/watch?v=be56WdKPuk0", "type": "VIDEO" },
+          "body": {
+            "en": "| word | asks about | example |\n|---|---|---|\n| **qui** | a person | *Qui est-ce ?* |\n| **que / qu'est-ce que** | a thing | *Qu'est-ce que c'est ?* |\n| **où** | a place | *Où habitez-vous ?* |\n| **quand** | a time | *Quand arrive le train ?* |\n| **comment** | a manner | *Comment allez-vous ?* |\n| **pourquoi** | a reason | *Pourquoi ?* — answer with *parce que* |\n| **combien** | a quantity | *Combien ça coûte ?* |\n| **quel / quelle** | which one | *Quelle heure est-il ?* |\n\n**quel** is an adjective and agrees: quel, quelle, quels, quelles — *Quel âge avez-vous ?*, *Quelles langues parlez-vous ?*",
+            "fr": "| mot | porte sur | exemple |\n|---|---|---|\n| **qui** | une personne | *Qui est-ce ?* |\n| **que / qu'est-ce que** | une chose | *Qu'est-ce que c'est ?* |\n| **où** | un lieu | *Où habitez-vous ?* |\n| **quand** | un moment | *Quand arrive le train ?* |\n| **comment** | une manière | *Comment allez-vous ?* |\n| **pourquoi** | une cause | *Pourquoi ?* — on répond par *parce que* |\n| **combien** | une quantité | *Combien ça coûte ?* |\n| **quel / quelle** | un choix parmi plusieurs | *Quelle heure est-il ?* |\n\n**quel** est un adjectif et s'accorde : quel, quelle, quels, quelles — *Quel âge avez-vous ?*, *Quelles langues parlez-vous ?*"
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Questions that solve real problems", "fr": "Les questions qui débloquent une situation" },
+          "body": {
+            "en": "Keep these ready. Each one has got someone out of trouble:\n\n- *Excusez-moi, je ne comprends pas. Pouvez-vous répéter plus lentement ?*\n- *Qu'est-ce que je dois faire maintenant ?*\n- *Quels documents faut-il apporter ?*\n- *Où est-ce que je peux trouver ce formulaire ?*\n- *Combien de temps ça prend ?*\n- *Est-ce qu'il y a quelqu'un qui parle anglais ou espagnol ?*\n- *Pouvez-vous me l'écrire, s'il vous plaît ?* — the most useful of all: written down, you can check it later.\n\nAsking a question is not a sign of weak French. Not asking is what leaves you with the wrong document and another two-month wait.",
+            "fr": "Gardez ces phrases prêtes. Chacune a déjà tiré quelqu'un d'affaire :\n\n- *Excusez-moi, je ne comprends pas. Pouvez-vous répéter plus lentement ?*\n- *Qu'est-ce que je dois faire maintenant ?*\n- *Quels documents faut-il apporter ?*\n- *Où est-ce que je peux trouver ce formulaire ?*\n- *Combien de temps ça prend ?*\n- *Est-ce qu'il y a quelqu'un qui parle anglais ou espagnol ?*\n- *Pouvez-vous me l'écrire, s'il vous plaît ?* — la plus utile de toutes : une fois écrit, on peut le vérifier plus tard.\n\nPoser une question n'est pas un signe de français faible. C'est le fait de ne pas poser de question qui vous laisse avec le mauvais document et deux mois d'attente supplémentaires."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "est-ce que", "phonetic": "ɛs.kə", "example": "Est-ce que le bureau est ouvert ?", "gloss": { "en": "(marks a question)", "fr": "formule qui introduit une question, tous registres" } },
+        { "term": "pourquoi", "phonetic": "puʁ.kwa", "example": "Pourquoi le dossier est-il refusé ?", "gloss": { "en": "why", "fr": "pour quelle raison" } },
+        { "term": "parce que", "phonetic": "paʁs.kə", "example": "Parce qu'il manque un justificatif.", "gloss": { "en": "because", "fr": "introduit la cause, en réponse à pourquoi" } },
+        { "term": "combien", "phonetic": "kɔ̃.bjɛ̃", "example": "Combien de temps ça prend ?", "gloss": { "en": "how much, how many", "fr": "quelle quantité" } },
+        { "term": "quel / quelle", "phonetic": "kɛl", "example": "Quels documents faut-il apporter ?", "gloss": { "en": "which, what", "fr": "adjectif interrogatif, il s'accorde" } },
+        { "term": "comment", "phonetic": "kɔ.mɑ̃", "example": "Comment ça marche ?", "gloss": { "en": "how", "fr": "de quelle manière" } },
+        { "term": "un formulaire", "phonetic": "fɔʁ.my.lɛʁ", "example": "Où est-ce que je trouve ce formulaire ?", "gloss": { "en": "a form", "fr": "document à remplir" } },
+        { "term": "un dossier", "phonetic": "do.sje", "example": "Mon dossier est incomplet.", "gloss": { "en": "a file, an application", "fr": "ensemble de documents d'une démarche" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which form works in every register?", "fr": "Quelle forme convient dans tous les registres ?" },
+          "explanation": {
+            "en": "Est-ce que tu viens ? — neutral, usable in speech and writing alike.",
+            "fr": "Est-ce que tu viens ? — neutre, utilisable aussi bien à l'oral qu'à l'écrit."
+          },
+          "options": [["Est-ce que tu viens ?", true], ["Tu viens ?", false], ["Viens-tu ?", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « ___ âge avez-vous ? »", "fr": "Complétez : « ___ âge avez-vous ? »" },
+          "explanation": {
+            "en": "Quel — âge is masculine singular, and quel agrees with the noun that follows.",
+            "fr": "Quel — âge est masculin singulier, et quel s'accorde avec le nom qui suit."
+          },
+          "options": [["Quel", true], ["Quelle", false], ["Quels", false], ["Combien", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which word introduces the answer to « pourquoi ? »", "fr": "Quel mot introduit la réponse à « pourquoi ? »" },
+          "explanation": {
+            "en": "parce que — Pourquoi est-il absent ? Parce qu'il est malade.",
+            "fr": "parce que — Pourquoi est-il absent ? Parce qu'il est malade."
+          },
+          "options": [["parce que", true], ["pour que", false], ["par ce que", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Ask which documents you must bring (use « quels »).",
+            "fr": "Demandez quels documents il faut apporter (employez « quels »)."
+          },
+          "explanation": {
+            "en": "Quels documents faut-il apporter ? — one of the most useful questions at any counter.",
+            "fr": "Quels documents faut-il apporter ? — l'une des questions les plus utiles à tout guichet."
+          },
+          "answers": [
+            "quels documents faut-il apporter",
+            "quels documents est-ce qu'il faut apporter",
+            "quels documents je dois apporter"
+          ]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "In « Où va-t-elle ? », the -t- has a meaning of its own.",
+            "fr": "Dans « Où va-t-elle ? », le -t- a un sens propre."
+          },
+          "explanation": {
+            "en": "False. It is purely phonetic, inserted to avoid two vowels meeting in va-elle.",
+            "fr": "Faux. Il est purement phonétique : il évite la rencontre de deux voyelles dans va-elle."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l04-comparer",
+      "position": 4,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Comparing things", "fr": "Comparer" },
+      "summary": {
+        "en": "Plus, moins, aussi — and the two irregular forms everyone trips over.",
+        "fr": "Plus, moins, aussi — et les deux formes irrégulières qui piègent tout le monde."
+      },
+      "objective": {
+        "en": "Can compare people, places and things in simple sentences.",
+        "fr": "Peut comparer des personnes, des lieux et des objets en phrases simples."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The comparative", "fr": "Le comparatif" },
+          "media": { "url": "https://www.youtube.com/watch?v=IRSc4LERH08", "type": "VIDEO" },
+          "body": {
+            "en": "One pattern covers everything: **plus / moins / aussi + adjective + que**.\n\n- *Lyon est **plus grand que** Dijon.* — bigger than\n- *Ce logement est **moins cher que** l'autre.* — less expensive than\n- *Le train est **aussi rapide que** l'avion.* — as fast as\n\nWith a **noun**, add *de*: *j'ai **plus de** travail **que** l'année dernière*.\nWith a **verb**, nothing extra: *je travaille **plus que** toi*.\n\nTwo irregular forms must be memorised:\n- bon → **meilleur** (*ce café est meilleur*), never *plus bon*\n- bien → **mieux** (*je parle mieux qu'avant*), never *plus bien*\n\nThe pair *meilleur / mieux* mirrors *bon / bien*: one qualifies a noun, the other a verb.",
+            "fr": "Un seul schéma couvre tout : **plus / moins / aussi + adjectif + que**.\n\n- *Lyon est **plus grand que** Dijon.*\n- *Ce logement est **moins cher que** l'autre.*\n- *Le train est **aussi rapide que** l'avion.*\n\nAvec un **nom**, on ajoute *de* : *j'ai **plus de** travail **que** l'année dernière*.\nAvec un **verbe**, rien de plus : *je travaille **plus que** toi*.\n\nDeux formes irrégulières sont à mémoriser :\n- bon → **meilleur** (*ce café est meilleur*), jamais *plus bon*\n- bien → **mieux** (*je parle mieux qu'avant*), jamais *plus bien*\n\nLe couple *meilleur / mieux* reflète *bon / bien* : l'un qualifie un nom, l'autre un verbe."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The superlative", "fr": "Le superlatif" },
+          "media": { "url": "https://www.youtube.com/watch?v=rgijX12RpP8", "type": "VIDEO" },
+          "body": {
+            "en": "Add the definite article to the comparative: **le / la / les plus (or moins) + adjective**.\n\n- *C'est **le plus grand** musée de la ville.*\n- *C'est **la moins chère** des solutions.*\n- *Ce sont **les plus belles** photos.*\n\nAfter a superlative, the group is introduced by **de**, where English uses *in*: *le plus grand musée **de** la ville* — the biggest museum **in** the city.\n\nIrregular again: bon → **le meilleur**, bien → **le mieux**.\n- *C'est **le meilleur** restaurant du quartier.*\n- *C'est lui qui parle **le mieux**.*",
+            "fr": "On ajoute l'article défini au comparatif : **le / la / les plus (ou moins) + adjectif**.\n\n- *C'est **le plus grand** musée de la ville.*\n- *C'est **la moins chère** des solutions.*\n- *Ce sont **les plus belles** photos.*\n\nAprès un superlatif, le groupe est introduit par **de**, là où l'anglais emploie *in* : *le plus grand musée **de** la ville*.\n\nIrrégularités à nouveau : bon → **le meilleur**, bien → **le mieux**.\n- *C'est **le meilleur** restaurant du quartier.*\n- *C'est lui qui parle **le mieux**.*"
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Useful comparisons in daily life", "fr": "Des comparaisons utiles au quotidien" },
+          "body": {
+            "en": "- *Le bus est **moins cher que** le train, mais il est **plus lent**.*\n- *Cet appartement est **plus petit**, mais il est **mieux** situé.*\n- *Le loyer est **aussi élevé qu'**à Paris.*\n- *C'est **le moyen le plus rapide** d'obtenir un rendez-vous.*\n- *Mon français est **meilleur qu'**il y a six mois.*\n\nThat last sentence is worth saying out loud from time to time. Progress in a language is invisible day to day and obvious over six months.",
+            "fr": "- *Le bus est **moins cher que** le train, mais il est **plus lent**.*\n- *Cet appartement est **plus petit**, mais il est **mieux** situé.*\n- *Le loyer est **aussi élevé qu'**à Paris.*\n- *C'est **le moyen le plus rapide** d'obtenir un rendez-vous.*\n- *Mon français est **meilleur qu'**il y a six mois.*\n\nCette dernière phrase mérite d'être dite à voix haute de temps en temps. En langue, le progrès est invisible au jour le jour et évident sur six mois."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "plus … que", "phonetic": "ply.kə", "example": "Lyon est plus grand que Dijon.", "gloss": { "en": "more … than", "fr": "marque la supériorité" } },
+        { "term": "moins … que", "phonetic": "mwɛ̃.kə", "example": "Ce logement est moins cher que l'autre.", "gloss": { "en": "less … than", "fr": "marque l'infériorité" } },
+        { "term": "aussi … que", "phonetic": "o.si.kə", "example": "Le train est aussi rapide que l'avion.", "gloss": { "en": "as … as", "fr": "marque l'égalité" } },
+        { "term": "meilleur(e)", "phonetic": "mɛ.jœʁ", "example": "Ce café est meilleur que l'autre.", "gloss": { "en": "better (adjective)", "fr": "comparatif irrégulier de bon" } },
+        { "term": "mieux", "phonetic": "mjø", "example": "Je parle mieux qu'avant.", "gloss": { "en": "better (adverb)", "fr": "comparatif irrégulier de bien" } },
+        { "term": "rapide / lent(e)", "phonetic": "ʁa.pid / lɑ̃", "example": "Le bus est plus lent mais moins cher.", "gloss": { "en": "fast / slow", "fr": "qui va vite / qui va doucement" } },
+        { "term": "presque", "phonetic": "pʁɛsk", "example": "C'est presque le même prix.", "gloss": { "en": "almost", "fr": "à peu près, pas tout à fait" } },
+        { "term": "la différence", "phonetic": "di.fe.ʁɑ̃s", "example": "Quelle est la différence entre les deux ?", "gloss": { "en": "the difference", "fr": "ce qui distingue deux choses" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Ce café est ___ que l'autre. »", "fr": "Complétez : « Ce café est ___ que l'autre. »" },
+          "explanation": {
+            "en": "meilleur — the irregular comparative of bon. « Plus bon » does not exist.",
+            "fr": "meilleur — le comparatif irrégulier de bon. « Plus bon » n'existe pas."
+          },
+          "options": [["meilleur", true], ["plus bon", false], ["mieux", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je parle ___ qu'avant. »", "fr": "Complétez : « Je parle ___ qu'avant. »" },
+          "explanation": {
+            "en": "mieux — it modifies the verb parler, so the adverb form is required, not meilleur.",
+            "fr": "mieux — il modifie le verbe parler : c'est la forme adverbiale qui s'impose, non meilleur."
+          },
+          "options": [["mieux", true], ["meilleur", false], ["plus bien", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « J'ai ___ travail que l'année dernière. »", "fr": "Complétez : « J'ai ___ travail que l'année dernière. »" },
+          "explanation": {
+            "en": "plus de — before a noun, the comparative takes de.",
+            "fr": "plus de — devant un nom, le comparatif prend de."
+          },
+          "options": [["plus de", true], ["plus", false], ["plus que", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete: « C'est ___ ___ ___ musée de la ville. » (the biggest)",
+            "fr": "Complétez : « C'est ___ ___ ___ musée de la ville. » (le plus grand)"
+          },
+          "explanation": {
+            "en": "le plus grand — a superlative is the definite article plus the comparative.",
+            "fr": "le plus grand — le superlatif est l'article défini ajouté au comparatif."
+          },
+          "answers": ["le plus grand"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "After a superlative, French uses « dans » : le plus grand musée dans la ville.",
+            "fr": "Après un superlatif, le français emploie « dans » : le plus grand musée dans la ville."
+          },
+          "explanation": {
+            "en": "False. French uses de: le plus grand musée de la ville. Dans here is an English interference.",
+            "fr": "Faux. Le français emploie de : le plus grand musée de la ville. Dans est ici un calque de l'anglais."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l05-comprehension-film",
+      "position": 5,
+      "minutes": 40,
+      "published": true,
+      "title": { "en": "Watching a film in French", "fr": "Regarder un film en français" },
+      "summary": {
+        "en": "Turn screen time into study time, with a method and the right subtitles.",
+        "fr": "Transformer le temps d'écran en temps d'étude, avec une méthode et les bons sous-titres."
+      },
+      "objective": {
+        "en": "Can follow the main thread of a simple audiovisual document with visual support.",
+        "fr": "Peut suivre le fil principal d'un document audiovisuel simple avec un appui visuel."
+      },
+      "sections": [
+        {
+          "type": "MEDIA",
+          "title": { "en": "The subtitle question", "fr": "La question des sous-titres" },
+          "media": { "url": "https://www.youtube.com/watch?v=00Ioe6R6ZwE", "type": "VIDEO" },
+          "body": {
+            "en": "| subtitles | effect | when to use |\n|---|---|---|\n| in your language | you read, you do not listen | almost never |\n| **in French** | you link sound to spelling | **most of the time** |\n| none | maximum effort, maximum progress | on a rewatch |\n\nThe most effective sequence for a single film:\n\n1. **First viewing with French subtitles.** Follow the story. Do not stop.\n2. **Pick one scene of two or three minutes.** Watch it three times: with subtitles, without, with again.\n3. **Write down five expressions** you heard more than once.\n\nFrench subtitles are not a crutch. They are what connects the sound [ʒənəsɛpa] to the written *je ne sais pas* — the single biggest obstacle in learning this language.",
+            "fr": "| sous-titres | effet | quand les employer |\n|---|---|---|\n| dans votre langue | on lit, on n'écoute pas | presque jamais |\n| **en français** | on relie le son à l'orthographe | **la plupart du temps** |\n| aucun | effort maximal, progrès maximal | lors d'un second visionnage |\n\nLa séquence la plus efficace pour un même film :\n\n1. **Premier visionnage avec sous-titres français.** Suivez l'histoire. N'arrêtez pas.\n2. **Choisissez une scène de deux ou trois minutes.** Regardez-la trois fois : avec sous-titres, sans, puis de nouveau avec.\n3. **Notez cinq expressions** entendues plus d'une fois.\n\nLes sous-titres français ne sont pas une béquille : ce sont eux qui relient le son [ʒənəsɛpa] à la graphie *je ne sais pas* — le principal obstacle de l'apprentissage de cette langue."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Talking about a film", "fr": "Parler d'un film" },
+          "body": {
+            "en": "un film · une scène · un personnage · l'histoire · l'acteur / l'actrice · le réalisateur · la bande-annonce · les sous-titres · la version originale (VO)\n\nGiving an opinion — the whole point of watching:\n- *J'ai bien aimé, surtout la fin.*\n- *Je n'ai pas tout compris, mais j'ai suivi l'histoire.*\n- *Le personnage principal est très attachant.*\n- *C'était un peu long.*\n- *Je le recommande.*\n\nAt A1 you are not expected to analyse a film. You are expected to say whether you liked it and why, in two sentences.",
+            "fr": "un film · une scène · un personnage · l'histoire · l'acteur / l'actrice · le réalisateur · la bande-annonce · les sous-titres · la version originale (VO)\n\nDonner son avis — tout l'intérêt de l'exercice :\n- *J'ai bien aimé, surtout la fin.*\n- *Je n'ai pas tout compris, mais j'ai suivi l'histoire.*\n- *Le personnage principal est très attachant.*\n- *C'était un peu long.*\n- *Je le recommande.*\n\nAu niveau A1, on n'attend pas de vous une analyse. On attend que vous disiez si le film vous a plu et pourquoi, en deux phrases."
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Where to watch for free", "fr": "Où regarder gratuitement" },
+          "body": {
+            "en": "- **Your local library** — free membership in most French towns, with a DVD collection and often access to a streaming platform included.\n- **Public broadcasters** — France.tv and Arte offer free catch-up, much of it subtitled in French.\n- **TV5MONDE Apprendre** — free graded video exercises, sorted by CEFR level. Start at A1, not at B1.\n- **YouTube** — short films and channels for learners; search *court métrage sous-titré français*.\n\nA short film of ten minutes, watched three times, teaches more than a two-hour film watched once.",
+            "fr": "- **Votre bibliothèque municipale** — inscription gratuite dans la plupart des villes, avec un fonds de DVD et souvent l'accès inclus à une plateforme de streaming.\n- **Les chaînes publiques** — France.tv et Arte proposent un rattrapage gratuit, largement sous-titré en français.\n- **TV5MONDE Apprendre** — exercices vidéo gratuits, classés par niveau du CECR. Commencez au niveau A1, pas au B1.\n- **YouTube** — courts métrages et chaînes pour apprenants ; cherchez *court métrage sous-titré français*.\n\nUn court métrage de dix minutes, regardé trois fois, apprend davantage qu'un film de deux heures vu une seule fois."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "un film", "phonetic": "film", "example": "J'ai regardé un film français hier soir.", "gloss": { "en": "a film, a movie", "fr": "œuvre de cinéma" } },
+        { "term": "les sous-titres", "phonetic": "su.titʁ", "example": "Je regarde avec les sous-titres en français.", "gloss": { "en": "subtitles", "fr": "texte affiché en bas de l'écran" } },
+        { "term": "une scène", "phonetic": "sɛn", "example": "J'ai revu cette scène trois fois.", "gloss": { "en": "a scene", "fr": "partie d'un film ou d'une pièce" } },
+        { "term": "un personnage", "phonetic": "pɛʁ.sɔ.naʒ", "example": "Le personnage principal est une femme.", "gloss": { "en": "a character", "fr": "personne représentée dans une fiction" } },
+        { "term": "la fin", "phonetic": "fɛ̃", "example": "Je n'ai pas aimé la fin.", "gloss": { "en": "the end, the ending", "fr": "moment où quelque chose se termine" } },
+        { "term": "recommander", "phonetic": "ʁə.kɔ.mɑ̃.de", "example": "Je vous le recommande vraiment.", "gloss": { "en": "to recommend", "fr": "conseiller vivement" } },
+        { "term": "gratuit(e)", "phonetic": "ɡʁa.tɥi", "example": "L'inscription à la bibliothèque est gratuite.", "gloss": { "en": "free of charge", "fr": "qui ne coûte rien" } },
+        { "term": "en version originale", "phonetic": "ɑ̃.vɛʁ.sjɔ̃.ɔ.ʁi.ʒi.nal", "example": "Je préfère les films en version originale.", "gloss": { "en": "in the original language", "fr": "sans doublage, dans la langue de tournage" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Which subtitles help a French learner most?",
+            "fr": "Quels sous-titres aident le plus un apprenant de français ?"
+          },
+          "explanation": {
+            "en": "French subtitles: they link what you hear to how it is written, which is the hardest step in French.",
+            "fr": "Les sous-titres français : ils relient ce que l'on entend à la façon dont cela s'écrit, l'étape la plus difficile en français."
+          },
+          "options": [
+            ["En français", true],
+            ["Dans votre langue maternelle", false],
+            ["Aucun, dès le début", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "What does « en version originale » mean?", "fr": "Que signifie « en version originale » ?" },
+          "explanation": {
+            "en": "In the language it was filmed in, without dubbing. Cinemas mark it VO or VOST when subtitled.",
+            "fr": "Dans la langue de tournage, sans doublage. Les cinémas l'indiquent par VO, ou VOST lorsque le film est sous-titré."
+          },
+          "options": [
+            ["Dans la langue de tournage, sans doublage", true],
+            ["Avec des sous-titres obligatoires", false],
+            ["La première version du film", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which approach is most effective?", "fr": "Quelle approche est la plus efficace ?" },
+          "explanation": {
+            "en": "A ten-minute short watched three times. Repetition on a short passage beats one pass on a long film.",
+            "fr": "Un court métrage de dix minutes vu trois fois. La répétition sur un extrait court vaut mieux qu'un seul passage sur un long film."
+          },
+          "options": [
+            ["Un court métrage de dix minutes, vu trois fois", true],
+            ["Un film de deux heures, vu une fois", false],
+            ["Une série entière en un week-end", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Give your opinion: say you liked the film, especially the ending.",
+            "fr": "Donnez votre avis : dites que vous avez bien aimé le film, surtout la fin."
+          },
+          "explanation": {
+            "en": "J'ai bien aimé le film, surtout la fin. « Surtout » is the simplest way to point to what you liked most.",
+            "fr": "J'ai bien aimé le film, surtout la fin. « Surtout » est la façon la plus simple de désigner ce qui a le plus plu."
+          },
+          "answers": [
+            "j'ai bien aimé le film surtout la fin",
+            "jai bien aime le film surtout la fin",
+            "j'ai bien aimé surtout la fin"
+          ]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "You must understand every word of a film for the session to be useful.",
+            "fr": "Il faut comprendre chaque mot d'un film pour que la séance soit utile."
+          },
+          "explanation": {
+            "en": "False. Following the thread and picking up a handful of expressions is a successful session at A1.",
+            "fr": "Faux. Suivre le fil et relever quelques expressions constitue une séance réussie au niveau A1."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l06-les-cinq-sens",
+      "position": 6,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "The five senses", "fr": "Les cinq sens" },
+      "summary": {
+        "en": "Voir, entendre, sentir, goûter, toucher — and how to describe what you perceive.",
+        "fr": "Voir, entendre, sentir, goûter, toucher — et comment décrire ce que l'on perçoit."
+      },
+      "objective": {
+        "en": "Can describe sensations and give a simple opinion about food and surroundings.",
+        "fr": "Peut décrire des sensations et donner un avis simple sur la nourriture et son environnement."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The five verbs", "fr": "Les cinq verbes" },
+          "media": { "url": "https://www.youtube.com/watch?v=9f7t_Y9jw_8", "type": "VIDEO" },
+          "body": {
+            "en": "| | voir | entendre | sentir |\n|---|---|---|---|\n| je | vois | entends | sens |\n| tu | vois | entends | sens |\n| il / elle | voit | entend | sent |\n| nous | voyons | entendons | sentons |\n| vous | voyez | entendez | sentez |\n| ils / elles | voient | entendent | sentent |\n\n*goûter* and *toucher* are regular -er verbs: je goûte, je touche.\n\nFrench distinguishes involuntary perception from deliberate attention, exactly as English does:\n\n| perceive | pay attention |\n|---|---|\n| voir | regarder |\n| entendre | écouter |\n\n*J'entends la radio* (it is on) versus *j'écoute la radio* (I am following it).",
+            "fr": "| | voir | entendre | sentir |\n|---|---|---|---|\n| je | vois | entends | sens |\n| tu | vois | entends | sens |\n| il / elle | voit | entend | sent |\n| nous | voyons | entendons | sentons |\n| vous | voyez | entendez | sentez |\n| ils / elles | voient | entendent | sentent |\n\n*goûter* et *toucher* sont des verbes réguliers en -er : je goûte, je touche.\n\nLe français distingue la perception involontaire de l'attention volontaire :\n\n| percevoir | prêter attention |\n|---|---|\n| voir | regarder |\n| entendre | écouter |\n\n*J'entends la radio* (elle est allumée) contre *j'écoute la radio* (je la suis)."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Describing a sensation", "fr": "Décrire une sensation" },
+          "media": { "url": "https://www.youtube.com/watch?v=joVL2-ZugdE", "type": "VIDEO" },
+          "body": {
+            "en": "**Taste** — sucré (sweet), salé (salty), amer (bitter), acide (sour), épicé (spicy), fade (bland)\n**Smell** — ça sent bon / mauvais, une odeur, un parfum\n**Sound** — fort, doux, bruyant, silencieux\n**Touch** — chaud, froid, doux, dur, mou\n**Sight** — clair, sombre, propre, sale\n\n**sentir** does triple duty, and context decides:\n- *Je sens une odeur de café.* — I smell coffee.\n- *Ça sent bon !* — That smells good!\n- *Je me sens fatigué.* — I feel tired.",
+            "fr": "**Le goût** — sucré, salé, amer, acide, épicé, fade\n**L'odorat** — ça sent bon / mauvais, une odeur, un parfum\n**L'ouïe** — fort, doux, bruyant, silencieux\n**Le toucher** — chaud, froid, doux, dur, mou\n**La vue** — clair, sombre, propre, sale\n\n**sentir** assure trois emplois, que le contexte distingue :\n- *Je sens une odeur de café.*\n- *Ça sent bon !*\n- *Je me sens fatigué.*"
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "At the table", "fr": "À table" },
+          "body": {
+            "en": "Meals matter socially in France, and a few phrases carry a lot of goodwill:\n\n- **Bon appétit !** — said before starting, to everyone at the table\n- **C'est délicieux.** — safe, warm, always welcome\n- **Je n'ai plus faim, merci.** — how to decline a second helping politely\n- **Je suis végétarien(ne).** / **Je ne mange pas de porc.** — clear and unembarrassed\n- **Santé !** — when glasses are raised\n\nRefusing a dish is not impolite; refusing without a word is. One short sentence is enough.",
+            "fr": "Le repas a en France une forte valeur sociale, et quelques phrases y font beaucoup :\n\n- **Bon appétit !** — avant de commencer, à l'adresse de toute la table\n- **C'est délicieux.** — simple, chaleureux, toujours bienvenu\n- **Je n'ai plus faim, merci.** — pour refuser poliment une seconde portion\n- **Je suis végétarien(ne).** / **Je ne mange pas de porc.** — clair et sans gêne\n- **Santé !** — au moment de trinquer\n\nRefuser un plat n'est pas impoli ; refuser sans un mot l'est. Une phrase courte suffit."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "voir", "phonetic": "vwaʁ", "example": "Je ne vois pas bien de loin.", "gloss": { "en": "to see", "fr": "percevoir par les yeux" } },
+        { "term": "entendre", "phonetic": "ɑ̃.tɑ̃dʁ", "example": "J'entends du bruit dans la rue.", "gloss": { "en": "to hear", "fr": "percevoir par les oreilles" } },
+        { "term": "sentir", "phonetic": "sɑ̃.tiʁ", "example": "Ça sent bon dans la cuisine.", "gloss": { "en": "to smell; to feel", "fr": "percevoir une odeur ; éprouver une sensation" } },
+        { "term": "goûter", "phonetic": "ɡu.te", "example": "Vous voulez goûter ?", "gloss": { "en": "to taste", "fr": "percevoir la saveur d'un aliment" } },
+        { "term": "toucher", "phonetic": "tu.ʃe", "example": "Ne touchez pas, c'est chaud.", "gloss": { "en": "to touch", "fr": "mettre en contact avec la main" } },
+        { "term": "sucré / salé", "phonetic": "sy.kʁe / sa.le", "example": "Je préfère le salé au sucré.", "gloss": { "en": "sweet / salty", "fr": "qui a le goût du sucre / du sel" } },
+        { "term": "bruyant(e)", "phonetic": "bʁɥi.jɑ̃", "example": "Le quartier est bruyant la nuit.", "gloss": { "en": "noisy", "fr": "qui fait beaucoup de bruit" } },
+        { "term": "délicieux / délicieuse", "phonetic": "de.li.sjø", "example": "C'est délicieux, merci beaucoup.", "gloss": { "en": "delicious", "fr": "très bon au goût" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Which verb expresses deliberate attention?",
+            "fr": "Quel verbe exprime une attention volontaire ?"
+          },
+          "explanation": {
+            "en": "écouter. Entendre is passive perception: you hear the radio without following it.",
+            "fr": "écouter. Entendre relève de la perception passive : on entend la radio sans la suivre."
+          },
+          "options": [["écouter", true], ["entendre", false], ["sentir", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "« Je me sens fatigué » means:", "fr": "« Je me sens fatigué » signifie :" },
+          "explanation": {
+            "en": "I feel tired. Used reflexively, sentir describes one's own state.",
+            "fr": "J'éprouve de la fatigue. Employé à la forme pronominale, sentir décrit son propre état."
+          },
+          "options": [["J'éprouve de la fatigue", true], ["Je sens une odeur", false], ["Je touche quelque chose", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Nous ___ la mer depuis la fenêtre. » (voir)", "fr": "Complétez : « Nous ___ la mer depuis la fenêtre. » (voir)" },
+          "explanation": {
+            "en": "voyons — voir has an irregular nous form with a y.",
+            "fr": "voyons — voir présente une forme nous irrégulière, avec un y."
+          },
+          "options": [["voyons", true], ["voions", false], ["voient", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "You are offered a dish you do not eat. Say politely that you do not eat pork.",
+            "fr": "On vous propose un plat que vous ne mangez pas. Dites poliment que vous ne mangez pas de porc."
+          },
+          "explanation": {
+            "en": "je ne mange pas de porc — remember that after a negation the partitive becomes de.",
+            "fr": "je ne mange pas de porc — rappelez-vous qu'après une négation, le partitif devient de."
+          },
+          "answers": ["je ne mange pas de porc", "je ne mange pas de porc merci"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« Bon appétit » is said at the end of a meal.",
+            "fr": "« Bon appétit » se dit à la fin du repas."
+          },
+          "explanation": {
+            "en": "False. It is said before starting, to everyone at the table.",
+            "fr": "Faux. On le dit avant de commencer, à l'adresse de toute la table."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l07-musique-francophone",
+      "position": 7,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "French-speaking music", "fr": "La musique francophone" },
+      "summary": {
+        "en": "Songs train your ear while you are not trying — the least tiring way to learn.",
+        "fr": "La chanson entraîne l'oreille sans effort conscient — la manière la moins fatigante d'apprendre."
+      },
+      "objective": {
+        "en": "Can recognise familiar words and basic phrases in songs and short spoken texts.",
+        "fr": "Peut reconnaître des mots familiers et des expressions courantes dans des chansons et de courts textes oraux."
+      },
+      "sections": [
+        {
+          "type": "CULTURE",
+          "title": { "en": "Why songs work", "fr": "Pourquoi la chanson fonctionne" },
+          "media": { "url": "https://www.youtube.com/watch?v=5NjJLFI_oYs", "type": "VIDEO" },
+          "body": {
+            "en": "Three reasons a song teaches more than its three minutes suggest:\n\n1. **Repetition without boredom.** You will replay a song you like twenty times. No exercise survives twenty repetitions.\n2. **Melody carries memory.** Words attached to a tune are stored differently, and come back years later.\n3. **Rhythm teaches liaison.** Songs make audible the way French words run together — *j'ai* + *envie* becomes [ʒɛ.jɑ̃.vi] — which a textbook cannot show.\n\nMethod: listen once for pleasure, once reading the lyrics, once singing along. Fifteen minutes total, and the chorus stays for good.",
+            "fr": "Trois raisons pour lesquelles une chanson apprend plus que ne le laissent croire ses trois minutes :\n\n1. **La répétition sans ennui.** On réécoute vingt fois une chanson que l'on aime. Aucun exercice ne survit à vingt répétitions.\n2. **La mélodie porte la mémoire.** Les mots associés à un air se stockent autrement et reviennent des années plus tard.\n3. **Le rythme enseigne la liaison.** La chanson rend audible la façon dont les mots s'enchaînent — *j'ai* + *envie* donne [ʒɛ.jɑ̃.vi] — ce qu'aucun manuel ne montre.\n\nMéthode : une écoute pour le plaisir, une avec les paroles sous les yeux, une en chantant. Quinze minutes en tout, et le refrain reste acquis."
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Where to start", "fr": "Par où commencer" },
+          "body": {
+            "en": "Music in French goes far beyond France, and the accents vary as much as the styles:\n\n| register | what you get |\n|---|---|\n| **la chanson française** (Brel, Barbara, Brassens) | clear diction, rich vocabulary, slow enough to follow |\n| **la pop actuelle** (Videoclub, Therapie Taxi, Angèle) | everyday spoken French, current expressions |\n| **le rap francophone** | fast, dense, full of idiom — leave it for later, but it is where the living language is |\n| **la musique africaine francophone** (Tiken Jah Fakoly, Youssoupha) | other accents and rhythms of the same language |\n| **le Québec** (Cœur de pirate, Les Cowboys Fringants) | a different accent, and a good ear-training challenge |\n\nStart with something slow enough that you can catch the chorus. Enjoyment is the only thing that guarantees the twenty repetitions.",
+            "fr": "La musique en français dépasse largement la France, et les accents y varient autant que les styles :\n\n| registre | ce qu'on y gagne |\n|---|---|\n| **la chanson française** (Brel, Barbara, Brassens) | diction claire, vocabulaire riche, débit suivable |\n| **la pop actuelle** (Videoclub, Therapie Taxi, Angèle) | français parlé d'aujourd'hui, expressions courantes |\n| **le rap francophone** | rapide, dense, très idiomatique — à garder pour plus tard, mais c'est là que vit la langue |\n| **la musique africaine francophone** (Tiken Jah Fakoly, Youssoupha) | d'autres accents et d'autres rythmes de la même langue |\n| **le Québec** (Cœur de pirate, Les Cowboys Fringants) | un accent différent, excellent entraînement de l'oreille |\n\nCommencez par un morceau assez lent pour que le refrain s'attrape. Le plaisir est la seule chose qui garantisse les vingt réécoutes."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Talking about music", "fr": "Parler de musique" },
+          "body": {
+            "en": "une chanson · les paroles · le refrain · un chanteur / une chanteuse · un groupe · un album · écouter · chanter\n\nGiving an opinion:\n- *J'aime beaucoup cette chanson.*\n- *Les paroles sont belles.*\n- *Je ne comprends pas tout, mais j'aime la mélodie.*\n- *Tu connais ce groupe ?*\n- *Qu'est-ce que tu écoutes en ce moment ?*\n\nThat last question is one of the easiest ways to start a conversation with a French speaker — it asks for an opinion, not information, so the other person does most of the talking.",
+            "fr": "une chanson · les paroles · le refrain · un chanteur / une chanteuse · un groupe · un album · écouter · chanter\n\nDonner son avis :\n- *J'aime beaucoup cette chanson.*\n- *Les paroles sont belles.*\n- *Je ne comprends pas tout, mais j'aime la mélodie.*\n- *Tu connais ce groupe ?*\n- *Qu'est-ce que tu écoutes en ce moment ?*\n\nCette dernière question est l'un des moyens les plus simples d'engager la conversation avec un francophone : elle demande un avis, non une information, et c'est l'autre qui parle le plus."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "une chanson", "phonetic": "ʃɑ̃.sɔ̃", "example": "Cette chanson passe partout en ce moment.", "gloss": { "en": "a song", "fr": "morceau de musique avec des paroles" } },
+        { "term": "les paroles", "phonetic": "pa.ʁɔl", "example": "Je cherche les paroles sur internet.", "gloss": { "en": "the lyrics", "fr": "le texte d'une chanson" } },
+        { "term": "le refrain", "phonetic": "ʁə.fʁɛ̃", "example": "Je connais seulement le refrain.", "gloss": { "en": "the chorus", "fr": "partie qui se répète dans une chanson" } },
+        { "term": "un chanteur / une chanteuse", "phonetic": "ʃɑ̃.tœʁ / ʃɑ̃.tøz", "example": "C'est une chanteuse québécoise.", "gloss": { "en": "a singer", "fr": "personne qui chante" } },
+        { "term": "un groupe", "phonetic": "ɡʁup", "example": "Tu connais ce groupe français ?", "gloss": { "en": "a band, a group", "fr": "ensemble de musiciens" } },
+        { "term": "chanter", "phonetic": "ʃɑ̃.te", "example": "Je chante en français sous la douche.", "gloss": { "en": "to sing", "fr": "produire une mélodie avec la voix" } },
+        { "term": "une mélodie", "phonetic": "me.lɔ.di", "example": "La mélodie est très douce.", "gloss": { "en": "a melody, a tune", "fr": "suite de notes qui forme un air" } },
+        { "term": "en ce moment", "phonetic": "ɑ̃.sə.mɔ.mɑ̃", "example": "Qu'est-ce que tu écoutes en ce moment ?", "gloss": { "en": "at the moment", "fr": "actuellement, ces jours-ci" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "What is « le refrain » of a song?", "fr": "Qu'est-ce que « le refrain » d'une chanson ?" },
+          "explanation": {
+            "en": "The part that comes back between verses — and the easiest part to learn first.",
+            "fr": "La partie qui revient entre les couplets — et la plus facile à apprendre en premier."
+          },
+          "options": [
+            ["La partie qui se répète", true],
+            ["Le titre de la chanson", false],
+            ["Le nom du chanteur", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Why is a song effective for learning?",
+            "fr": "Pourquoi la chanson est-elle efficace pour apprendre ?"
+          },
+          "explanation": {
+            "en": "Because it invites repetition without boredom — the one condition no classic exercise meets.",
+            "fr": "Parce qu'elle appelle la répétition sans ennui — la condition qu'aucun exercice classique ne remplit."
+          },
+          "options": [
+            ["Elle se réécoute sans lasser", true],
+            ["Elle emploie un vocabulaire simple", false],
+            ["Elle évite les liaisons", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Which music comes from a French-speaking region outside Europe?",
+            "fr": "Quelle musique vient d'une région francophone hors d'Europe ?"
+          },
+          "explanation": {
+            "en": "Quebec. French is sung across Africa, the Caribbean and Canada, each with its own accent.",
+            "fr": "Le Québec. Le français se chante en Afrique, aux Antilles et au Canada, chaque fois avec son accent."
+          },
+          "options": [
+            ["La musique québécoise", true],
+            ["La chanson française classique", false],
+            ["La pop belge", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Ask someone what they are listening to at the moment.",
+            "fr": "Demandez à quelqu'un ce qu'il écoute en ce moment."
+          },
+          "explanation": {
+            "en": "Qu'est-ce que tu écoutes en ce moment ? — an easy conversation opener, because it asks for an opinion.",
+            "fr": "Qu'est-ce que tu écoutes en ce moment ? — une entrée en conversation facile, puisqu'elle demande un avis."
+          },
+          "answers": [
+            "qu'est-ce que tu écoutes en ce moment",
+            "quest-ce que tu ecoutes en ce moment",
+            "qu'est-ce que vous écoutez en ce moment"
+          ]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "You should start with rap, because it is the most current French.",
+            "fr": "Il vaut mieux commencer par le rap, puisque c'est le français le plus actuel."
+          },
+          "explanation": {
+            "en": "False. Rap is fast and heavily idiomatic. Start with something slow enough to catch the chorus, and come back to rap later.",
+            "fr": "Faux. Le rap est rapide et très idiomatique. Commencez par un morceau assez lent pour attraper le refrain, et gardez le rap pour plus tard."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l08-negation-et-nasales",
+      "position": 8,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Negation and nasal vowels", "fr": "La négation et les voyelles nasales" },
+      "summary": {
+        "en": "Saying no in French takes two words — and hearing the difference takes your nose.",
+        "fr": "Dire non en français demande deux mots — et entendre la différence passe par le nez."
+      },
+      "objective": {
+        "en": "Can form negative sentences correctly and distinguish the French nasal vowels.",
+        "fr": "Peut construire correctement des phrases négatives et distinguer les voyelles nasales du français."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Negation surrounds the verb", "fr": "La négation encadre le verbe" },
+          "media": { "url": "https://www.youtube.com/watch?v=ygO9WmfZUyA", "type": "VIDEO" },
+          "body": {
+            "en": "French negation has two parts: **ne … pas**, wrapped around the conjugated verb.\n\n- *Je **ne** parle **pas** allemand.*\n- *Il **n'**est **pas** là.* (ne → n' before a vowel)\n- *Je **n'**ai **pas** compris.* (passé composé: around the auxiliary)\n- *Je **ne** vais **pas** travailler.* (near future: around aller)\n\nOther negative pairs follow the same shape:\n\n| | meaning |\n|---|---|\n| ne … jamais | never |\n| ne … plus | no longer, not any more |\n| ne … rien | nothing |\n| ne … personne | nobody |\n| ne … pas encore | not yet |\n\n- *Je **ne** fume **plus**.* — I don't smoke any more.\n- *Il **n'**y a **personne**.* — There is nobody.\n\nAnd remember from Unit 1: after a negation, *du, de la, des* all collapse into **de** — *je n'ai pas **de** travail*.",
+            "fr": "La négation française comporte deux éléments : **ne … pas**, qui encadrent le verbe conjugué.\n\n- *Je **ne** parle **pas** allemand.*\n- *Il **n'**est **pas** là.* (ne → n' devant une voyelle)\n- *Je **n'**ai **pas** compris.* (passé composé : autour de l'auxiliaire)\n- *Je **ne** vais **pas** travailler.* (futur proche : autour d'aller)\n\nLes autres couples négatifs suivent la même forme :\n\n| | sens |\n|---|---|\n| ne … jamais | à aucun moment |\n| ne … plus | la chose a cessé |\n| ne … rien | aucune chose |\n| ne … personne | aucune personne |\n| ne … pas encore | cela n'a pas encore eu lieu |\n\n- *Je **ne** fume **plus**.*\n- *Il **n'**y a **personne**.*\n\nEt rappelez-vous l'unité 1 : après une négation, *du, de la, des* deviennent tous **de** — *je n'ai pas **de** travail*."
+          }
+        },
+        {
+          "type": "PRONUNCIATION",
+          "title": { "en": "The spoken « ne » that disappears", "fr": "Le « ne » qui disparaît à l'oral" },
+          "body": {
+            "en": "In everyday speech, French speakers drop the **ne** almost systematically:\n\n| written | spoken |\n|---|---|\n| Je ne sais pas. | *J'sais pas.* [ʃɛpa] |\n| Il n'y a pas de problème. | *Y a pas de problème.* |\n| Je ne comprends pas. | *J'comprends pas.* |\n\nYou must **recognise** this — otherwise half of spoken French sounds like it means the opposite. But keep writing the **ne**: dropping it in an email or a form is a clear register mistake.\n\nThe practical consequence: when listening, the word that carries the negation is **pas**, not *ne*. Train your ear on *pas*.",
+            "fr": "Dans la langue courante, les francophones suppriment le **ne** de façon quasi systématique :\n\n| écrit | oral |\n|---|---|\n| Je ne sais pas. | *J'sais pas.* [ʃɛpa] |\n| Il n'y a pas de problème. | *Y a pas de problème.* |\n| Je ne comprends pas. | *J'comprends pas.* |\n\nIl faut **reconnaître** ce phénomène, faute de quoi la moitié du français parlé semble dire le contraire de ce qu'il dit. Mais continuez d'écrire le **ne** : l'omettre dans un courriel ou un formulaire est une faute de registre manifeste.\n\nConséquence pratique : à l'écoute, c'est **pas** qui porte la négation, non *ne*. Entraînez l'oreille sur *pas*."
+          }
+        },
+        {
+          "type": "PRONUNCIATION",
+          "title": { "en": "The three nasal vowels", "fr": "Les trois voyelles nasales" },
+          "media": { "url": "https://www.youtube.com/watch?v=Cr7zrFrdvMc", "type": "VIDEO" },
+          "body": {
+            "en": "| sound | spellings | examples |\n|---|---|---|\n| **[ɑ̃]** | an, am, en, em | grand, temps, enfant, ensemble |\n| **[ɔ̃]** | on, om | bon, nom, maison, combien |\n| **[ɛ̃]** | in, im, ain, ein, un | pain, matin, bien, un, important |\n\nThe air goes through the nose and **the n is never pronounced as a consonant**. *Bon* is [bɔ̃], not [bɔn].\n\nCritical exception: when the n is followed by a vowel or doubled, the vowel stops being nasal.\n- *bon* [bɔ̃] but *bonne* [bɔn]\n- *un* [œ̃] but *une* [yn]\n- *italien* [i.ta.ljɛ̃] but *italienne* [i.ta.ljɛn]\n\nThat is precisely how the ear tells masculine from feminine — which makes this the most useful pronunciation point in the whole level.",
+            "fr": "| son | graphies | exemples |\n|---|---|---|\n| **[ɑ̃]** | an, am, en, em | grand, temps, enfant, ensemble |\n| **[ɔ̃]** | on, om | bon, nom, maison, combien |\n| **[ɛ̃]** | in, im, ain, ein, un | pain, matin, bien, un, important |\n\nL'air passe par le nez et **le n ne se prononce jamais comme une consonne**. *Bon* se dit [bɔ̃], et non [bɔn].\n\nException décisive : lorsque le n est suivi d'une voyelle ou redoublé, la voyelle cesse d'être nasale.\n- *bon* [bɔ̃] mais *bonne* [bɔn]\n- *un* [œ̃] mais *une* [yn]\n- *italien* [i.ta.ljɛ̃] mais *italienne* [i.ta.ljɛn]\n\nC'est exactement ainsi que l'oreille distingue le masculin du féminin — ce qui fait de ce point le plus utile de tout le niveau en matière de prononciation."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "ne … pas", "phonetic": "nə.pa", "example": "Je ne parle pas encore bien.", "gloss": { "en": "not (basic negation)", "fr": "négation de base, en deux éléments" } },
+        { "term": "ne … plus", "phonetic": "nə.ply", "example": "Je ne fume plus depuis un an.", "gloss": { "en": "no longer, not any more", "fr": "indique qu'une chose a cessé" } },
+        { "term": "ne … rien", "phonetic": "nə.ʁjɛ̃", "example": "Je n'ai rien compris.", "gloss": { "en": "nothing", "fr": "aucune chose" } },
+        { "term": "ne … personne", "phonetic": "nə.pɛʁ.sɔn", "example": "Il n'y a personne au guichet.", "gloss": { "en": "nobody", "fr": "aucune personne" } },
+        { "term": "ne … pas encore", "phonetic": "nə.pa.zɑ̃.kɔʁ", "example": "Je n'ai pas encore reçu la réponse.", "gloss": { "en": "not yet", "fr": "cela n'a pas eu lieu jusqu'à présent" } },
+        { "term": "bon / bonne", "phonetic": "bɔ̃ / bɔn", "example": "C'est une bonne idée.", "gloss": { "en": "good", "fr": "exemple type de nasale qui se dénasalise au féminin" } },
+        { "term": "important(e)", "phonetic": "ɛ̃.pɔʁ.tɑ̃", "example": "C'est un document important.", "gloss": { "en": "important", "fr": "qui compte beaucoup ; contient deux nasales" } },
+        { "term": "quelqu'un", "phonetic": "kɛl.kœ̃", "example": "Est-ce qu'il y a quelqu'un ?", "gloss": { "en": "someone", "fr": "une personne indéterminée" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Put into the negative: « J'ai compris. »", "fr": "Mettez à la forme négative : « J'ai compris. »" },
+          "explanation": {
+            "en": "Je n'ai pas compris — in the passé composé, negation wraps around the auxiliary only.",
+            "fr": "Je n'ai pas compris — au passé composé, la négation encadre le seul auxiliaire."
+          },
+          "options": [["Je n'ai pas compris.", true], ["Je n'ai compris pas.", false], ["Je ne compris pas.", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "« Je ne fume plus » means:", "fr": "« Je ne fume plus » signifie :" },
+          "explanation": {
+            "en": "I used to smoke and I have stopped. Ne … plus marks the end of a former habit.",
+            "fr": "Je fumais et j'ai arrêté. Ne … plus marque la fin d'une habitude passée."
+          },
+          "options": [
+            ["Je fumais avant, j'ai arrêté", true],
+            ["Je n'ai jamais fumé", false],
+            ["Je fume beaucoup", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "In which word is the vowel NOT nasal?", "fr": "Dans quel mot la voyelle n'est-elle PAS nasale ?" },
+          "explanation": {
+            "en": "bonne — the doubled n followed by e denasalises the vowel: [bɔn].",
+            "fr": "bonne — le n redoublé suivi d'un e dénasalise la voyelle : [bɔn]."
+          },
+          "options": [["bonne", true], ["bon", false], ["pain", false], ["grand", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Say that you have not received the answer yet (use « ne … pas encore »).",
+            "fr": "Dites que vous n'avez pas encore reçu la réponse (employez « ne … pas encore »)."
+          },
+          "explanation": {
+            "en": "je n'ai pas encore reçu la réponse — encore slots in after pas.",
+            "fr": "je n'ai pas encore reçu la réponse — encore se place après pas."
+          },
+          "answers": [
+            "je n'ai pas encore reçu la réponse",
+            "je nai pas encore recu la reponse"
+          ]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "Since French speakers drop « ne », you can leave it out in writing too.",
+            "fr": "Puisque les francophones suppriment le « ne », on peut aussi l'omettre à l'écrit."
+          },
+          "explanation": {
+            "en": "False. Dropping ne belongs to informal speech. In writing — an email, a form, a letter — it is a register mistake.",
+            "fr": "Faux. L'omission du ne appartient à l'oral familier. À l'écrit — courriel, formulaire, lettre — c'est une faute de registre."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l09-francais-et-numerique",
+      "position": 9,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "French in your digital life", "fr": "Le français dans votre vie numérique" },
+      "summary": {
+        "en": "Turn the phone you already use all day into an immersion you do not have to schedule.",
+        "fr": "Transformer le téléphone déjà utilisé toute la journée en une immersion qui ne demande aucun créneau."
+      },
+      "objective": {
+        "en": "Can find and use simple online resources in French for everyday purposes.",
+        "fr": "Peut trouver et utiliser des ressources en ligne simples en français pour des besoins quotidiens."
+      },
+      "sections": [
+        {
+          "type": "CULTURE",
+          "title": { "en": "Four changes that cost nothing", "fr": "Quatre changements qui ne coûtent rien" },
+          "body": {
+            "en": "The hardest thing about learning a language while working and dealing with paperwork is finding the time. The way round it is not to find time, but to change the language of the time you already spend.\n\n**1. Switch your phone to French.** You already know what every icon does, so you learn the words with no risk of getting lost. This alone exposes you to French a hundred times a day.\n\n**2. Follow five French-speaking accounts** on whatever social network you already use — cooking, football, news, anything you actually care about. Interest sustains attention far better than discipline.\n\n**3. Search in French.** *Comment ouvrir un compte bancaire* returns French pages, and French pages contain the exact phrases you will need at the counter.\n\n**4. Change your keyboard.** Adding the French keyboard gives you é, è, ç without gymnastics, and autocorrect becomes a free spelling tutor.\n\nNone of these adds a single minute to your day.",
+            "fr": "Le plus difficile, lorsqu'on apprend une langue tout en travaillant et en menant des démarches, est de trouver le temps. Le contournement ne consiste pas à trouver du temps, mais à changer la langue du temps déjà passé.\n\n**1. Passez votre téléphone en français.** Vous savez déjà ce que fait chaque icône : vous en apprenez donc les mots sans risquer de vous perdre. Cette seule mesure vous expose au français cent fois par jour.\n\n**2. Suivez cinq comptes francophones** sur le réseau que vous utilisez déjà — cuisine, football, actualité, peu importe, pourvu que le sujet vous intéresse vraiment. L'intérêt soutient l'attention bien mieux que la discipline.\n\n**3. Faites vos recherches en français.** *Comment ouvrir un compte bancaire* renvoie des pages françaises, et ces pages contiennent les tournures exactes dont vous aurez besoin au guichet.\n\n**4. Changez de clavier.** Ajouter le clavier français donne accès à é, è, ç sans acrobatie, et la correction automatique devient un professeur d'orthographe gratuit.\n\nAucune de ces mesures n'ajoute une minute à votre journée."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Digital vocabulary", "fr": "Le vocabulaire du numérique" },
+          "body": {
+            "en": "un ordinateur · un téléphone portable · une application · un mot de passe · un compte · une adresse électronique (un courriel) · télécharger · s'inscrire · se connecter · envoyer · le réseau · un fichier · une pièce jointe\n\nPhrases you will actually need:\n- *Je n'arrive pas à me connecter.* — I can't log in.\n- *J'ai oublié mon mot de passe.*\n- *Le site ne fonctionne pas.*\n- *Est-ce que je peux faire la demande en ligne ?*\n- *Je vous envoie le document en pièce jointe.*\n\nMost French administrative procedures now start online. *Faire une demande en ligne* is often faster than queuing — and it gives you time to read, translate and check before submitting.",
+            "fr": "un ordinateur · un téléphone portable · une application · un mot de passe · un compte · une adresse électronique (un courriel) · télécharger · s'inscrire · se connecter · envoyer · le réseau · un fichier · une pièce jointe\n\nDes phrases dont vous aurez réellement besoin :\n- *Je n'arrive pas à me connecter.*\n- *J'ai oublié mon mot de passe.*\n- *Le site ne fonctionne pas.*\n- *Est-ce que je peux faire la demande en ligne ?*\n- *Je vous envoie le document en pièce jointe.*\n\nLa plupart des démarches administratives françaises commencent désormais en ligne. *Faire une demande en ligne* est souvent plus rapide que la file d'attente — et cela laisse le temps de lire, de traduire et de vérifier avant de valider."
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Free resources worth knowing", "fr": "Des ressources gratuites à connaître" },
+          "body": {
+            "en": "| resource | what it offers |\n|---|---|\n| **TV5MONDE Apprendre** | free exercises graded by CEFR level, from A1 |\n| **RFI Savoirs — Journal en français facile** | the news read slowly, with transcript |\n| **France Éducation international** | official information on DELF and DALF exams |\n| **Your town library** | free membership, French conversation groups, computers |\n| **The OFII / local associations** | state-funded French courses for newcomers, often free |\n\nOne word of caution about automatic translation: it is useful to understand, unreliable to produce. A machine-translated cover letter reads as machine-translated, and that costs you interviews. Write simply in French instead — a short, correct letter beats a long, odd one.",
+            "fr": "| ressource | ce qu'elle offre |\n|---|---|\n| **TV5MONDE Apprendre** | exercices gratuits classés par niveau du CECR, dès le A1 |\n| **RFI Savoirs — Journal en français facile** | l'actualité lue lentement, avec transcription |\n| **France Éducation international** | informations officielles sur le DELF et le DALF |\n| **La bibliothèque de votre ville** | inscription gratuite, ateliers de conversation, ordinateurs |\n| **L'OFII et les associations locales** | cours de français financés par l'État pour les nouveaux arrivants, souvent gratuits |\n\nUne mise en garde sur la traduction automatique : elle est utile pour comprendre, peu fiable pour produire. Une lettre de motivation traduite automatiquement se reconnaît immédiatement, et cela coûte des entretiens. Écrivez plutôt simplement en français : une lettre courte et correcte vaut mieux qu'une lettre longue et étrange."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "un mot de passe", "phonetic": "mo.də.pas", "example": "J'ai oublié mon mot de passe.", "gloss": { "en": "a password", "fr": "code secret d'accès à un compte" } },
+        { "term": "se connecter", "phonetic": "sə.kɔ.nɛk.te", "example": "Je n'arrive pas à me connecter au site.", "gloss": { "en": "to log in, to connect", "fr": "accéder à un service en ligne" } },
+        { "term": "s'inscrire", "phonetic": "sɛ̃s.kʁiʁ", "example": "Il faut s'inscrire en ligne avant le 30 juin.", "gloss": { "en": "to register, to sign up", "fr": "enregistrer son nom pour participer" } },
+        { "term": "télécharger", "phonetic": "te.le.ʃaʁ.ʒe", "example": "Vous pouvez télécharger le formulaire ici.", "gloss": { "en": "to download", "fr": "transférer un fichier depuis internet" } },
+        { "term": "une pièce jointe", "phonetic": "pjɛs.ʒwɛ̃t", "example": "Je vous envoie le justificatif en pièce jointe.", "gloss": { "en": "an attachment", "fr": "fichier joint à un courriel" } },
+        { "term": "en ligne", "phonetic": "ɑ̃.liɲ", "example": "La demande se fait en ligne.", "gloss": { "en": "online", "fr": "par internet" } },
+        { "term": "un compte", "phonetic": "kɔ̃t", "example": "J'ai créé un compte sur le site de la préfecture.", "gloss": { "en": "an account", "fr": "espace personnel sur un service" } },
+        { "term": "une démarche", "phonetic": "de.maʁʃ", "example": "Cette démarche prend deux mois.", "gloss": { "en": "an administrative procedure", "fr": "ensemble d'actions pour obtenir quelque chose" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Why is switching your phone to French effective?",
+            "fr": "Pourquoi passer son téléphone en français est-il efficace ?"
+          },
+          "explanation": {
+            "en": "You already know what each icon does, so you learn the words with no risk of getting lost — and you see them a hundred times a day.",
+            "fr": "Vous savez déjà ce que fait chaque icône : vous en apprenez les mots sans risque de vous perdre — et vous les voyez cent fois par jour."
+          },
+          "options": [
+            ["On apprend les mots sans risquer de se perdre", true],
+            ["Le téléphone fonctionne mieux", false],
+            ["Cela traduit automatiquement les messages", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "What is « une pièce jointe »?", "fr": "Qu'est-ce qu'« une pièce jointe » ?" },
+          "explanation": {
+            "en": "A file attached to an email — the word you will read in almost every administrative reply.",
+            "fr": "Un fichier joint à un courriel — le mot que l'on lit dans presque toute réponse administrative."
+          },
+          "options": [
+            ["Un fichier joint à un courriel", true],
+            ["Une pièce d'identité", false],
+            ["Une salle de réunion", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "For a cover letter in French, what is the best approach?",
+            "fr": "Pour une lettre de motivation en français, quelle est la meilleure approche ?"
+          },
+          "explanation": {
+            "en": "Write simply in French. Machine translation is recognisable and works against you.",
+            "fr": "Écrire simplement en français. La traduction automatique se reconnaît et dessert la candidature."
+          },
+          "options": [
+            ["Écrire simplement, directement en français", true],
+            ["Écrire dans sa langue puis traduire automatiquement", false],
+            ["Copier un modèle très long trouvé en ligne", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Say that you cannot log in to the website.", "fr": "Dites que vous n'arrivez pas à vous connecter au site." },
+          "explanation": {
+            "en": "je n'arrive pas à me connecter au site — « ne pas arriver à » is the everyday way of saying you cannot manage something.",
+            "fr": "je n'arrive pas à me connecter au site — « ne pas arriver à » est la façon courante de dire que l'on n'y parvient pas."
+          },
+          "answers": [
+            "je n'arrive pas à me connecter au site",
+            "je narrive pas a me connecter au site",
+            "je n'arrive pas à me connecter"
+          ]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "Public libraries in France often offer free French conversation groups.",
+            "fr": "Les bibliothèques publiques en France proposent souvent des ateliers de conversation gratuits."
+          },
+          "explanation": {
+            "en": "True. Libraries and local associations run free conversation groups; ask at the desk or check the noticeboard.",
+            "fr": "Vrai. Bibliothèques et associations locales animent des ateliers de conversation gratuits ; renseignez-vous à l'accueil ou consultez le panneau d'affichage."
+          },
+          "options": [["Vrai", true], ["Faux", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u3-l10-verbes-utiles-bilan",
+      "position": 10,
+      "minutes": 40,
+      "published": true,
+      "title": { "en": "Final verbs and level review", "fr": "Derniers verbes et bilan du niveau" },
+      "summary": {
+        "en": "Penser, faire, venir, essayer, inviter — and an honest look at what A1 has given you.",
+        "fr": "Penser, faire, venir, essayer, inviter — et un bilan honnête de ce que le niveau A1 vous a apporté."
+      },
+      "objective": {
+        "en": "Can express an opinion, a need and an invitation, and assess their own A1 competences.",
+        "fr": "Peut exprimer une opinion, un besoin et une invitation, et évaluer ses propres compétences de niveau A1."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Five more verbs worth having", "fr": "Cinq verbes de plus à posséder" },
+          "media": { "url": "https://www.youtube.com/watch?v=ZpO4sA9JyeI", "type": "VIDEO" },
+          "body": {
+            "en": "| | faire | venir | penser |\n|---|---|---|---|\n| je | fais | viens | pense |\n| tu | fais | viens | penses |\n| il / elle | fait | vient | pense |\n| nous | faisons | venons | pensons |\n| vous | **faites** | venez | pensez |\n| ils / elles | **font** | viennent | pensent |\n\n*essayer* and *inviter* are regular -er verbs.\n\nStructures that make these verbs useful:\n- **penser que** — *je pense que c'est une bonne idée*\n- **avoir besoin de** — *j'ai besoin d'un justificatif*\n- **essayer de + infinitive** — *j'essaie de parler tous les jours*\n- **se souvenir de** — *je me souviens de son nom*\n\nNote *vous faites* and *ils font*: two of the most irregular forms in French, and among the most used.",
+            "fr": "| | faire | venir | penser |\n|---|---|---|---|\n| je | fais | viens | pense |\n| tu | fais | viens | penses |\n| il / elle | fait | vient | pense |\n| nous | faisons | venons | pensons |\n| vous | **faites** | venez | pensez |\n| ils / elles | **font** | viennent | pensent |\n\n*essayer* et *inviter* sont des verbes réguliers en -er.\n\nLes structures qui rendent ces verbes utiles :\n- **penser que** — *je pense que c'est une bonne idée*\n- **avoir besoin de** — *j'ai besoin d'un justificatif*\n- **essayer de + infinitif** — *j'essaie de parler tous les jours*\n- **se souvenir de** — *je me souviens de son nom*\n\nRemarquez *vous faites* et *ils font* : deux des formes les plus irrégulières du français, et parmi les plus employées."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Inviting and accepting", "fr": "Inviter et accepter" },
+          "media": { "url": "https://www.youtube.com/watch?v=ZxJH00s4-8A", "type": "VIDEO" },
+          "body": {
+            "en": "**Inviting**\n- *Tu veux venir dîner samedi ?*\n- *Ça te dit d'aller au cinéma ?*\n- *Je vous invite.* — I'm paying.\n\n**Accepting**\n- *Avec plaisir !*\n- *Volontiers, merci.*\n- *C'est très gentil.*\n\n**Declining without offence**\n- *C'est gentil, mais je ne peux pas ce jour-là.*\n- *Une autre fois, peut-être ?*\n\nA French *non* on its own is abrupt. The usual shape is: thank, decline, propose an alternative. Three short clauses, and the relationship stays intact.\n\nOne cultural note: if you are invited to someone's home, arriving ten to fifteen minutes after the stated time is normal and expected. Arriving exactly on time can catch the host unprepared.",
+            "fr": "**Inviter**\n- *Tu veux venir dîner samedi ?*\n- *Ça te dit d'aller au cinéma ?*\n- *Je vous invite.* — c'est moi qui paie.\n\n**Accepter**\n- *Avec plaisir !*\n- *Volontiers, merci.*\n- *C'est très gentil.*\n\n**Refuser sans froisser**\n- *C'est gentil, mais je ne peux pas ce jour-là.*\n- *Une autre fois, peut-être ?*\n\nUn *non* seul est brusque en français. La forme habituelle est : remercier, refuser, proposer une alternative. Trois propositions courtes, et la relation reste intacte.\n\nUne remarque culturelle : lorsqu'on est invité chez quelqu'un, arriver dix à quinze minutes après l'heure annoncée est normal et attendu. Arriver pile à l'heure peut surprendre l'hôte en pleins préparatifs."
+          }
+        },
+        {
+          "type": "SUMMARY",
+          "title": { "en": "What A1 has given you", "fr": "Ce que le niveau A1 vous a apporté" },
+          "body": {
+            "en": "At the end of these thirty lessons, you can:\n\n- introduce yourself, spell your name, give your details\n- count, tell the time, read a date and an appointment letter\n- describe people, your family, your home and your town\n- speak in the present, the passé composé, the imparfait and the near future\n- ask questions in three registers and understand the answers\n- compare, negate, express taste, obligation and need\n- make simple purchases, ask the way, write a short formal email\n- follow a simple audio document and read a short narrative text\n\nThat is the A1 level of the CEFR. **This course is not an official certification** — only accredited bodies award the DELF. But this is the ground on which a DELF A1 is prepared, and it is enough to open a bank account, understand a convocation and hold a first conversation.\n\n**Where to go next:** level A2 extends what you have here — the futur simple, pronouns, more connectors, longer texts. The structure of this platform is built so that A2 can be added without anything you have learnt being invalidated.\n\nAnd the most important sentence of the whole course, which is not grammar: *the language is not learnt by finishing a course; it is learnt by using it, badly, every day, until it becomes yours.*",
+            "fr": "Au terme de ces trente leçons, vous savez :\n\n- vous présenter, épeler votre nom, donner vos informations personnelles\n- compter, dire l'heure, lire une date et une convocation\n- décrire des personnes, votre famille, votre logement et votre ville\n- vous exprimer au présent, au passé composé, à l'imparfait et au futur proche\n- poser des questions dans trois registres et comprendre les réponses\n- comparer, nier, exprimer un goût, une obligation et un besoin\n- faire des achats simples, demander votre chemin, rédiger un court courriel formel\n- suivre un document sonore simple et lire un texte narratif court\n\nC'est le niveau A1 du CECR. **Ce cours ne constitue pas une certification officielle** — seuls les organismes habilités délivrent le DELF. Mais c'est le socle sur lequel se prépare un DELF A1, et il suffit à ouvrir un compte bancaire, comprendre une convocation et tenir une première conversation.\n\n**La suite :** le niveau A2 prolonge ce que vous avez ici — le futur simple, les pronoms, davantage de connecteurs, des textes plus longs. La structure de cette plateforme est conçue pour que l'A2 s'ajoute sans rien invalider de ce que vous avez appris.\n\nEt la phrase la plus importante de tout le cours, qui n'est pas de la grammaire : *une langue ne s'apprend pas en finissant un cours ; elle s'apprend en s'en servant, mal, tous les jours, jusqu'à ce qu'elle devienne la vôtre.*"
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "penser", "phonetic": "pɑ̃.se", "example": "Je pense que c'est une bonne idée.", "gloss": { "en": "to think", "fr": "avoir une opinion ; réfléchir" } },
+        { "term": "avoir besoin de", "phonetic": "a.vwaʁ.bə.zwɛ̃.də", "example": "J'ai besoin d'un justificatif de domicile.", "gloss": { "en": "to need", "fr": "éprouver la nécessité de quelque chose" } },
+        { "term": "essayer", "phonetic": "e.se.je", "example": "J'essaie de parler français tous les jours.", "gloss": { "en": "to try", "fr": "tenter de faire quelque chose" } },
+        { "term": "inviter", "phonetic": "ɛ̃.vi.te", "example": "Je vous invite à dîner samedi.", "gloss": { "en": "to invite", "fr": "proposer à quelqu'un de venir" } },
+        { "term": "se souvenir de", "phonetic": "sə.suv.niʁ.də", "example": "Je me souviens très bien de ce jour.", "gloss": { "en": "to remember", "fr": "garder en mémoire" } },
+        { "term": "avec plaisir", "phonetic": "a.vɛk.ple.ziʁ", "example": "— Tu viens dîner ? — Avec plaisir !", "gloss": { "en": "with pleasure, gladly", "fr": "formule d'acceptation chaleureuse" } },
+        { "term": "peut-être", "phonetic": "pø.tɛtʁ", "example": "Une autre fois, peut-être ?", "gloss": { "en": "maybe, perhaps", "fr": "marque l'incertitude ou une proposition prudente" } },
+        { "term": "continuer", "phonetic": "kɔ̃.ti.nɥe", "example": "Je vais continuer avec le niveau A2.", "gloss": { "en": "to continue", "fr": "poursuivre ce qui est commencé" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Vous ___ quoi ce week-end ? » (faire)", "fr": "Complétez : « Vous ___ quoi ce week-end ? » (faire)" },
+          "explanation": {
+            "en": "faites — one of only three French verbs whose vous form does not end in -ez (faire, dire, être).",
+            "fr": "faites — l'un des trois seuls verbes français dont la forme vous ne se termine pas par -ez (faire, dire, être)."
+          },
+          "options": [["faites", true], ["faisez", false], ["font", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « J'ai besoin ___ un justificatif. »", "fr": "Complétez : « J'ai besoin ___ un justificatif. »" },
+          "explanation": {
+            "en": "d' — avoir besoin is always followed by de, which elides before a vowel: j'ai besoin d'un justificatif.",
+            "fr": "d' — avoir besoin se construit toujours avec de, qui s'élide devant une voyelle : j'ai besoin d'un justificatif."
+          },
+          "options": [["d'", true], ["de le", false], ["à", false], ["pour", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "You are invited but cannot come. What is the best answer?",
+            "fr": "On vous invite mais vous ne pouvez pas venir. Quelle est la meilleure réponse ?"
+          },
+          "explanation": {
+            "en": "Thank, decline, propose an alternative. A bare « non » is abrupt in French.",
+            "fr": "Remercier, refuser, proposer une autre date. Un « non » seul est brusque en français."
+          },
+          "options": [
+            ["C'est gentil, mais je ne peux pas ce jour-là. Une autre fois ?", true],
+            ["Non.", false],
+            ["Je ne veux pas.", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Say that you try to speak French every day (use essayer de).",
+            "fr": "Dites que vous essayez de parler français tous les jours (employez essayer de)."
+          },
+          "explanation": {
+            "en": "j'essaie de parler français tous les jours — essayer is always followed by de + infinitive.",
+            "fr": "j'essaie de parler français tous les jours — essayer se construit toujours avec de + infinitif."
+          },
+          "answers": [
+            "j'essaie de parler français tous les jours",
+            "jessaie de parler francais tous les jours",
+            "j'essaye de parler français tous les jours"
+          ]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "Completing this course gives you an official A1 certification.",
+            "fr": "Terminer ce cours délivre une certification officielle de niveau A1."
+          },
+          "explanation": {
+            "en": "False. The course follows the CEFR descriptors as a guide, but only accredited bodies award the DELF A1. What you get here is the preparation, freely.",
+            "fr": "Faux. Le cours suit les descripteurs du CECR à titre indicatif, mais seuls les organismes habilités délivrent le DELF A1. Ce que vous obtenez ici, c'est la préparation, gratuitement."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    }
+  ]
+}

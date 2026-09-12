@@ -1,0 +1,1137 @@
+{
+  "level": "A1",
+  "slug": "a1-unit-2",
+  "position": 2,
+  "published": true,
+  "title": {
+    "en": "Unit 2 — Everyday life and the recent past",
+    "fr": "Unité 2 — La vie quotidienne et le passé récent"
+  },
+  "description": {
+    "en": "Talk about your day, your home and your town, say what you did yesterday, express what you can, want and must do.",
+    "fr": "Parler de sa journée, de son logement et de sa ville, dire ce que l'on a fait hier, exprimer ce que l'on peut, veut et doit faire."
+  },
+  "lessons": [
+    {
+      "slug": "a1-u2-l01-paris-et-la-francophonie",
+      "position": 1,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Paris and the French-speaking world", "fr": "Paris et le monde francophone" },
+      "summary": {
+        "en": "French is not only spoken in France — and that changes how you learn it.",
+        "fr": "Le français ne se parle pas qu'en France — et cela change la façon de l'apprendre."
+      },
+      "objective": {
+        "en": "Can understand the main point of a short, simple spoken text on a familiar cultural topic.",
+        "fr": "Peut comprendre l'essentiel d'un document oral court et simple sur un sujet culturel familier."
+      },
+      "sections": [
+        {
+          "type": "CULTURE",
+          "title": { "en": "A language spoken on five continents", "fr": "Une langue parlée sur cinq continents" },
+          "body": {
+            "en": "French is an official language in around thirty countries. Beyond France, the largest communities of speakers are in **Democratic Republic of the Congo, Canada (Quebec), Belgium, Switzerland, Ivory Coast, Cameroon, Senegal, Morocco, Algeria, Tunisia, Luxembourg, Monaco, Haiti**.\n\nThis matters for a learner in two ways.\n\nFirst, there is no single correct accent. A Senegalese, a Quebecois and a Marseillais do not sound alike, and none of them speaks worse French than the others.\n\nSecond, some vocabulary changes from one country to another:\n\n| France | Belgium / Switzerland | Quebec |\n|---|---|---|\n| soixante-dix | septante | soixante-dix |\n| quatre-vingt-dix | nonante | quatre-vingt-dix |\n| le petit-déjeuner | le déjeuner | le déjeuner |\n| faire du shopping | — | magasiner |\n\nThis course teaches standard French, understood everywhere.",
+            "fr": "Le français est langue officielle dans une trentaine de pays. Hors de France, les communautés de locuteurs les plus nombreuses se trouvent en **République démocratique du Congo, au Canada (Québec), en Belgique, en Suisse, en Côte d'Ivoire, au Cameroun, au Sénégal, au Maroc, en Algérie, en Tunisie, au Luxembourg, à Monaco et en Haïti**.\n\nCela a deux conséquences pour l'apprenant.\n\nD'abord, il n'existe pas un seul accent correct. Un Sénégalais, un Québécois et un Marseillais ne se ressemblent pas, et aucun ne parle un français inférieur à celui des autres.\n\nEnsuite, certains mots changent d'un pays à l'autre :\n\n| France | Belgique / Suisse | Québec |\n|---|---|---|\n| soixante-dix | septante | soixante-dix |\n| quatre-vingt-dix | nonante | quatre-vingt-dix |\n| le petit-déjeuner | le déjeuner | le déjeuner |\n| faire du shopping | — | magasiner |\n\nCe cours enseigne le français standard, compris partout."
+          }
+        },
+        {
+          "type": "MEDIA",
+          "title": { "en": "Listening: a first authentic document", "fr": "Écoute : un premier document authentique" },
+          "media": { "url": "https://www.youtube.com/watch?v=y0dPCvtJzEI", "type": "VIDEO" },
+          "body": {
+            "en": "Method — this is how to use every listening document in the course:\n\n1. **Watch once without stopping.** Do not try to understand everything. Note only what you recognise.\n2. **Watch again with pauses**, writing down the words you catch.\n3. **Watch a third time without stopping.** You will hear noticeably more than the first time.\n\nUnderstanding 30 % of an authentic document at A1 is a normal, good result. The aim is not to translate; it is to get used to the rhythm of real speech.",
+            "fr": "Méthode — voici comment exploiter chaque document sonore du cours :\n\n1. **Regardez une première fois sans arrêter.** N'essayez pas de tout comprendre. Notez seulement ce que vous reconnaissez.\n2. **Regardez une deuxième fois avec des pauses**, en notant les mots saisis.\n3. **Regardez une troisième fois sans arrêter.** Vous entendrez nettement plus qu'au premier passage.\n\nComprendre 30 % d'un document authentique au niveau A1 est un résultat normal et satisfaisant. L'objectif n'est pas de traduire, mais de s'habituer au rythme de la parole réelle."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Talking about a city", "fr": "Parler d'une ville" },
+          "body": {
+            "en": "- **une ville / un village** — a town / a village\n- **un monument** — a landmark\n- **un musée** — a museum\n- **une place** — a square\n- **un pont** — a bridge\n- **le centre-ville** — the town centre\n- **les transports en commun** — public transport\n\nUseful structures:\n- *Il y a un musée près d'ici ?* — Is there a museum nearby?\n- *C'est une ville très vivante.* — It's a very lively city.\n- *Je préfère les petites villes.* — I prefer small towns.",
+            "fr": "- **une ville / un village**\n- **un monument**\n- **un musée**\n- **une place**\n- **un pont**\n- **le centre-ville**\n- **les transports en commun**\n\nStructures utiles :\n- *Il y a un musée près d'ici ?*\n- *C'est une ville très vivante.*\n- *Je préfère les petites villes.*"
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "francophone", "phonetic": "fʁɑ̃.kɔ.fɔn", "example": "Le Sénégal est un pays francophone.", "gloss": { "en": "French-speaking", "fr": "qui parle français" } },
+        { "term": "une ville", "phonetic": "vil", "example": "Bruxelles est une ville bilingue.", "gloss": { "en": "a city, a town", "fr": "agglomération importante" } },
+        { "term": "un monument", "phonetic": "mɔ.ny.mɑ̃", "example": "La tour Eiffel est un monument célèbre.", "gloss": { "en": "a monument, a landmark", "fr": "construction remarquable" } },
+        { "term": "célèbre", "phonetic": "se.lɛbʁ", "example": "Ce musée est célèbre dans le monde entier.", "gloss": { "en": "famous", "fr": "très connu" } },
+        { "term": "un accent", "phonetic": "ak.sɑ̃", "example": "Elle a un accent québécois.", "gloss": { "en": "an accent (way of speaking)", "fr": "manière de prononcer propre à une région" } },
+        { "term": "comprendre", "phonetic": "kɔ̃.pʁɑ̃dʁ", "example": "Je comprends un peu, mais pas tout.", "gloss": { "en": "to understand", "fr": "saisir le sens" } },
+        { "term": "le centre-ville", "phonetic": "sɑ̃tʁ.vil", "example": "J'habite près du centre-ville.", "gloss": { "en": "the town centre", "fr": "partie centrale d'une ville" } },
+        { "term": "les transports en commun", "phonetic": "tʁɑ̃s.pɔʁ.ɑ̃.kɔ.mɛ̃", "example": "Les transports en commun sont gratuits le dimanche.", "gloss": { "en": "public transport", "fr": "bus, tram, métro, train urbain" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "In Belgium, how do people usually say 70?", "fr": "En Belgique, comment dit-on habituellement 70 ?" },
+          "explanation": {
+            "en": "septante. It is perfectly correct French, simply not the usage of France.",
+            "fr": "septante. C'est un français parfaitement correct, simplement ce n'est pas l'usage de France."
+          },
+          "options": [["septante", true], ["soixante-dix", false], ["septe-dix", false]]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "There is only one correct French accent, the Parisian one.",
+            "fr": "Il n'existe qu'un seul accent français correct, celui de Paris."
+          },
+          "explanation": {
+            "en": "False. French is official in about thirty countries; Dakar, Montreal and Marseille accents are all legitimate French.",
+            "fr": "Faux. Le français est officiel dans une trentaine de pays ; les accents de Dakar, de Montréal et de Marseille sont tous du français légitime."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "On first listening to an authentic document, what should you aim for?",
+            "fr": "À la première écoute d'un document authentique, que faut-il viser ?"
+          },
+          "explanation": {
+            "en": "Listen without stopping and pick up what you recognise. Understanding everything on the first pass is not the goal at A1.",
+            "fr": "Écouter sans s'arrêter et relever ce que l'on reconnaît. Tout comprendre dès la première écoute n'est pas l'objectif au niveau A1."
+          },
+          "options": [
+            ["Repérer ce que l'on reconnaît, sans s'arrêter", true],
+            ["Traduire chaque mot", false],
+            ["Écrire le texte complet", false]
+          ]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Ask whether there is a museum nearby.", "fr": "Demandez s'il y a un musée près d'ici." },
+          "explanation": {
+            "en": "Il y a un musée près d'ici ? — « il y a » is the all-purpose way of saying there is / there are.",
+            "fr": "Il y a un musée près d'ici ? — « il y a » est la formule passe-partout pour signaler une existence."
+          },
+          "answers": ["il y a un musée près d'ici", "il y a un musee pres d'ici", "est-ce qu'il y a un musée près d'ici"]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which country is NOT French-speaking?", "fr": "Quel pays n'est pas francophone ?" },
+          "explanation": {
+            "en": "Portugal. Senegal, Belgium and Canada all have French as an official language.",
+            "fr": "Le Portugal. Le Sénégal, la Belgique et le Canada comptent le français parmi leurs langues officielles."
+          },
+          "options": [["Le Portugal", true], ["Le Sénégal", false], ["La Belgique", false], ["Le Canada", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l02-verbes-les-plus-utiles",
+      "position": 2,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "The verbs you will use most", "fr": "Les verbes les plus utiles" },
+      "summary": {
+        "en": "Twenty verbs cover most of everyday conversation. Learn these before any others.",
+        "fr": "Vingt verbes couvrent l'essentiel de la conversation quotidienne. À apprendre avant tous les autres."
+      },
+      "objective": {
+        "en": "Can recognise and use the most frequent French verbs in the present tense.",
+        "fr": "Peut reconnaître et employer au présent les verbes français les plus fréquents."
+      },
+      "sections": [
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "The twenty essential verbs", "fr": "Les vingt verbes essentiels" },
+          "media": { "url": "https://www.youtube.com/watch?v=k2fHb8nYXIE", "type": "VIDEO" },
+          "body": {
+            "en": "| verb | meaning | example |\n|---|---|---|\n| être | to be | je suis prêt |\n| avoir | to have | j'ai un rendez-vous |\n| aller | to go | je vais au travail |\n| faire | to do, to make | je fais les courses |\n| dire | to say | il dit non |\n| pouvoir | can, to be able | je peux venir |\n| vouloir | to want | je veux apprendre |\n| devoir | must, to have to | je dois partir |\n| savoir | to know (a fact) | je sais lire |\n| prendre | to take | je prends le bus |\n| venir | to come | il vient demain |\n| voir | to see | je vois bien |\n| donner | to give | donnez-moi le papier |\n| parler | to speak | je parle un peu |\n| mettre | to put | je mets mon manteau |\n| trouver | to find | je trouve ça difficile |\n| passer | to pass, to spend | je passe demain |\n| demander | to ask | je demande de l'aide |\n| comprendre | to understand | je ne comprends pas |\n| attendre | to wait | j'attends le bus |\n\nLearn them with a whole sentence attached, never as a bare list — the sentence is what you will actually reuse.",
+            "fr": "| verbe | sens | exemple |\n|---|---|---|\n| être | état | je suis prêt |\n| avoir | possession | j'ai un rendez-vous |\n| aller | déplacement | je vais au travail |\n| faire | action générale | je fais les courses |\n| dire | parole | il dit non |\n| pouvoir | capacité | je peux venir |\n| vouloir | volonté | je veux apprendre |\n| devoir | obligation | je dois partir |\n| savoir | connaissance | je sais lire |\n| prendre | saisir, emprunter | je prends le bus |\n| venir | provenance | il vient demain |\n| voir | vision | je vois bien |\n| donner | transmettre | donnez-moi le papier |\n| parler | s'exprimer | je parle un peu |\n| mettre | placer | je mets mon manteau |\n| trouver | découvrir, juger | je trouve ça difficile |\n| passer | se déplacer, séjourner | je passe demain |\n| demander | solliciter | je demande de l'aide |\n| comprendre | saisir le sens | je ne comprends pas |\n| attendre | patienter | j'attends le bus |\n\nApprenez-les avec une phrase entière, jamais en liste nue : c'est la phrase que vous réemploierez réellement."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The three groups of verbs", "fr": "Les trois groupes de verbes" },
+          "body": {
+            "en": "French verbs fall into three families, and knowing which one you are facing tells you the endings.\n\n**1st group — infinitive in -er** (90 % of verbs): parler, aimer, habiter. Endings: -e, -es, -e, -ons, -ez, -ent.\n\n**2nd group — infinitive in -ir, with -iss- in the plural**: finir, choisir, réussir. Endings: -is, -is, -it, -issons, -issez, -issent.\n\n**3rd group — everything else**: être, avoir, aller, faire, prendre, venir… These are the irregular ones, and also the most frequent. There is no shortcut: they are learned one by one, which is precisely why the previous section lists them.",
+            "fr": "Les verbes français se répartissent en trois familles, et savoir à laquelle on a affaire donne les terminaisons.\n\n**1er groupe — infinitif en -er** (90 % des verbes) : parler, aimer, habiter. Terminaisons : -e, -es, -e, -ons, -ez, -ent.\n\n**2e groupe — infinitif en -ir, avec -iss- au pluriel** : finir, choisir, réussir. Terminaisons : -is, -is, -it, -issons, -issez, -issent.\n\n**3e groupe — tout le reste** : être, avoir, aller, faire, prendre, venir… Ce sont les irréguliers, et ce sont aussi les plus fréquents. Il n'y a pas de raccourci : on les apprend un par un, et c'est bien pour cela que la section précédente les énumère."
+          }
+        },
+        {
+          "type": "SUMMARY",
+          "title": { "en": "How to learn a verb efficiently", "fr": "Comment apprendre un verbe efficacement" },
+          "body": {
+            "en": "1. **One verb, one sentence from your own life.** *Je travaille dans un restaurant* is worth more than a conjugation table you never use.\n2. **Say it out loud.** Three of the six present-tense forms sound identical; only speaking teaches you that.\n3. **Revise in short bursts.** Ten minutes a day beats two hours on Sunday — memory works on repetition, not duration.\n4. **Accept the plateau.** For two or three weeks it will feel as if nothing is improving. That is the stage where most learners stop, and it is exactly the stage before it starts working.",
+            "fr": "1. **Un verbe, une phrase tirée de votre propre vie.** *Je travaille dans un restaurant* vaut mieux qu'un tableau de conjugaison jamais réemployé.\n2. **Prononcez à voix haute.** Trois des six formes du présent se prononcent de manière identique ; seule la parole le fait comprendre.\n3. **Révisez par petites séances.** Dix minutes par jour valent mieux que deux heures le dimanche : la mémoire fonctionne par répétition, pas par durée.\n4. **Acceptez le palier.** Pendant deux ou trois semaines, vous aurez l'impression de ne plus progresser. C'est l'étape où la plupart des apprenants abandonnent, et c'est précisément celle qui précède le déclic."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "faire", "phonetic": "fɛʁ", "example": "Je fais les courses le samedi.", "gloss": { "en": "to do, to make", "fr": "accomplir une action" } },
+        { "term": "dire", "phonetic": "diʁ", "example": "Qu'est-ce que vous dites ?", "gloss": { "en": "to say", "fr": "exprimer par la parole" } },
+        { "term": "voir", "phonetic": "vwaʁ", "example": "Je vois le bus qui arrive.", "gloss": { "en": "to see", "fr": "percevoir par les yeux" } },
+        { "term": "attendre", "phonetic": "a.tɑ̃dʁ", "example": "J'attends depuis vingt minutes.", "gloss": { "en": "to wait (for)", "fr": "rester jusqu'à ce que quelque chose arrive" } },
+        { "term": "trouver", "phonetic": "tʁu.ve", "example": "Je ne trouve pas mes clés.", "gloss": { "en": "to find; to think (an opinion)", "fr": "découvrir ; estimer" } },
+        { "term": "venir", "phonetic": "v(ə).niʁ", "example": "Il vient de Tunisie.", "gloss": { "en": "to come", "fr": "se déplacer vers celui qui parle" } },
+        { "term": "finir", "phonetic": "fi.niʁ", "example": "Je finis le travail à 17 heures.", "gloss": { "en": "to finish", "fr": "mener à son terme" } },
+        { "term": "réussir", "phonetic": "ʁe.y.siʁ", "example": "J'ai réussi mon examen.", "gloss": { "en": "to succeed, to pass", "fr": "obtenir le résultat voulu" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which verb belongs to the 2nd group?", "fr": "Quel verbe appartient au 2e groupe ?" },
+          "explanation": {
+            "en": "finir — infinitive in -ir with -iss- in the plural: nous finissons.",
+            "fr": "finir — infinitif en -ir avec -iss- au pluriel : nous finissons."
+          },
+          "options": [["finir", true], ["parler", false], ["venir", false], ["faire", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Nous ___ à huit heures. » (finir)", "fr": "Complétez : « Nous ___ à huit heures. » (finir)" },
+          "explanation": {
+            "en": "finissons — the 2nd group inserts -iss- before the plural endings.",
+            "fr": "finissons — le 2e groupe intercale -iss- devant les terminaisons du pluriel."
+          },
+          "options": [["finissons", true], ["finons", false], ["finissez", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Complete: « Je ne ___ pas mes clés. » (trouver)", "fr": "Complétez : « Je ne ___ pas mes clés. » (trouver)" },
+          "explanation": {
+            "en": "trouve — trouver is a regular -er verb, so je trouve.",
+            "fr": "trouve — trouver est un verbe régulier en -er : je trouve."
+          },
+          "answers": ["trouve"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "The most frequent French verbs are also the most irregular ones.",
+            "fr": "Les verbes français les plus fréquents sont aussi les plus irréguliers."
+          },
+          "explanation": {
+            "en": "True. être, avoir, aller, faire, prendre are all 3rd group. Frequency protects irregularity in every language.",
+            "fr": "Vrai. être, avoir, aller, faire, prendre relèvent tous du 3e groupe. La fréquence protège l'irrégularité dans toutes les langues."
+          },
+          "options": [["Vrai", true], ["Faux", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which learning habit works best?", "fr": "Quelle habitude d'apprentissage est la plus efficace ?" },
+          "explanation": {
+            "en": "Ten minutes a day. Memory consolidates through spaced repetition, not through long single sessions.",
+            "fr": "Dix minutes par jour. La mémoire se consolide par la répétition espacée, non par de longues séances isolées."
+          },
+          "options": [
+            ["Dix minutes par jour", true],
+            ["Deux heures une fois par semaine", false],
+            ["Tout réviser la veille de l'examen", false]
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l03-passe-compose",
+      "position": 3,
+      "minutes": 40,
+      "published": true,
+      "title": { "en": "The passé composé", "fr": "Le passé composé" },
+      "summary": {
+        "en": "Talk about yesterday: the tense that carries almost all spoken narration.",
+        "fr": "Parler d'hier : le temps qui porte presque tout le récit oral."
+      },
+      "objective": {
+        "en": "Can describe past activities and personal experiences in simple sentences.",
+        "fr": "Peut décrire des activités passées et des expériences personnelles en phrases simples."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "How it is built", "fr": "Comment il se construit" },
+          "media": { "url": "https://www.youtube.com/watch?v=fWCUSTd6zOk", "type": "VIDEO" },
+          "body": {
+            "en": "**auxiliary (avoir or être) in the present + past participle**\n\n- *J'**ai mangé** une pomme.*\n- *Nous **avons travaillé** hier.*\n- *Elle **est partie** ce matin.*\n\nForming the participle:\n\n| group | infinitive | participle |\n|---|---|---|\n| -er | parler | parl**é** |\n| -ir (2nd) | finir | fin**i** |\n| irregular | prendre, faire, voir, être, avoir | pris, fait, vu, été, eu |\n\nNegation encloses the auxiliary only: *je **n'**ai **pas** compris*.",
+            "fr": "**auxiliaire (avoir ou être) au présent + participe passé**\n\n- *J'**ai mangé** une pomme.*\n- *Nous **avons travaillé** hier.*\n- *Elle **est partie** ce matin.*\n\nFormation du participe :\n\n| groupe | infinitif | participe |\n|---|---|---|\n| -er | parler | parl**é** |\n| -ir (2e) | finir | fin**i** |\n| irréguliers | prendre, faire, voir, être, avoir | pris, fait, vu, été, eu |\n\nLa négation encadre le seul auxiliaire : *je **n'**ai **pas** compris*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Avoir or être?", "fr": "Avoir ou être ?" },
+          "media": { "url": "https://www.youtube.com/watch?v=dH82lWRAOpQ", "type": "VIDEO" },
+          "body": {
+            "en": "**Avoir** is the default: it works for the vast majority of verbs.\n\n**Être** is used for two cases only.\n\n**1. A short list of movement and change-of-state verbs** — often remembered as *la maison d'être*:\naller, venir, arriver, partir, entrer, sortir, monter, descendre, rester, tomber, naître, mourir, passer, retourner, revenir, devenir.\n\n**2. All reflexive verbs**: se lever, se laver, s'appeler, se souvenir.\n- *Je **me suis** levé à six heures.*\n\nWith **être**, the participle agrees with the subject:\n- *Il est part**i***. / *Elle est part**ie***. / *Ils sont part**is***. / *Elles sont part**ies***.\n\nWith **avoir**, no agreement with the subject: *elle a mangé*, not *elle a mangée*.",
+            "fr": "**Avoir** est le cas par défaut : il vaut pour la très grande majorité des verbes.\n\n**Être** ne s'emploie que dans deux cas.\n\n**1. Une courte liste de verbes de mouvement et de changement d'état** — que l'on retient souvent sous le nom de *maison d'être* :\naller, venir, arriver, partir, entrer, sortir, monter, descendre, rester, tomber, naître, mourir, passer, retourner, revenir, devenir.\n\n**2. Tous les verbes pronominaux** : se lever, se laver, s'appeler, se souvenir.\n- *Je **me suis** levé à six heures.*\n\nAvec **être**, le participe s'accorde avec le sujet :\n- *Il est part**i***. / *Elle est part**ie***. / *Ils sont part**is***. / *Elles sont part**ies***.\n\nAvec **avoir**, pas d'accord avec le sujet : *elle a mangé*, et non *elle a mangée*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Reflexive verbs in the past", "fr": "Les verbes pronominaux au passé" },
+          "media": { "url": "https://www.youtube.com/watch?v=mH0tYv3T2-g", "type": "VIDEO" },
+          "body": {
+            "en": "The pronoun stays in front of the auxiliary, and the auxiliary is always **être**:\n\n| | se lever |\n|---|---|\n| je | me suis levé(e) |\n| tu | t'es levé(e) |\n| il / elle | s'est levé(e) |\n| nous | nous sommes levé(e)s |\n| vous | vous êtes levé(e)s |\n| ils / elles | se sont levé(e)s |\n\nNegation: *je **ne** me suis **pas** levé tôt.*\n\nA daily-life sentence worth memorising whole: *Ce matin, je me suis levé à six heures, je me suis douché et je suis parti au travail.*",
+            "fr": "Le pronom reste devant l'auxiliaire, et l'auxiliaire est toujours **être** :\n\n| | se lever |\n|---|---|\n| je | me suis levé(e) |\n| tu | t'es levé(e) |\n| il / elle | s'est levé(e) |\n| nous | nous sommes levé(e)s |\n| vous | vous êtes levé(e)s |\n| ils / elles | se sont levé(e)s |\n\nNégation : *je **ne** me suis **pas** levé tôt.*\n\nUne phrase du quotidien à mémoriser telle quelle : *Ce matin, je me suis levé à six heures, je me suis douché et je suis parti au travail.*"
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "hier", "phonetic": "jɛʁ", "example": "Hier, j'ai travaillé jusqu'à 20 heures.", "gloss": { "en": "yesterday", "fr": "le jour précédent" } },
+        { "term": "déjà", "phonetic": "de.ʒa", "example": "J'ai déjà envoyé les documents.", "gloss": { "en": "already", "fr": "avant le moment présent" } },
+        { "term": "ce matin", "phonetic": "sə.ma.tɛ̃", "example": "Ce matin, je me suis levé à six heures.", "gloss": { "en": "this morning", "fr": "la matinée du jour où l'on parle" } },
+        { "term": "se lever", "phonetic": "sə.l(ə).ve", "example": "Je me lève à six heures tous les jours.", "gloss": { "en": "to get up", "fr": "quitter son lit ; se mettre debout" } },
+        { "term": "naître", "phonetic": "nɛtʁ", "example": "Je suis né au Salvador.", "gloss": { "en": "to be born", "fr": "venir au monde" } },
+        { "term": "rester", "phonetic": "ʁɛs.te", "example": "Je suis resté à la maison dimanche.", "gloss": { "en": "to stay", "fr": "demeurer dans un lieu" } },
+        { "term": "tomber", "phonetic": "tɔ̃.be", "example": "Elle est tombée dans l'escalier.", "gloss": { "en": "to fall", "fr": "chuter" } },
+        { "term": "oublier", "phonetic": "u.bli.je", "example": "J'ai oublié mon rendez-vous.", "gloss": { "en": "to forget", "fr": "ne plus se souvenir" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Hier, j'___ travaillé. »", "fr": "Complétez : « Hier, j'___ travaillé. »" },
+          "explanation": {
+            "en": "ai — travailler takes avoir, like the vast majority of verbs.",
+            "fr": "ai — travailler se conjugue avec avoir, comme la très grande majorité des verbes."
+          },
+          "options": [["ai", true], ["suis", false], ["es", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Elle ___ partie à midi. »", "fr": "Complétez : « Elle ___ partie à midi. »" },
+          "explanation": {
+            "en": "est — partir is a movement verb from the maison d'être, and the participle agrees: partie.",
+            "fr": "est — partir appartient à la maison d'être, et le participe s'accorde : partie."
+          },
+          "options": [["est", true], ["a", false], ["ont", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence is correct?", "fr": "Quelle phrase est correcte ?" },
+          "explanation": {
+            "en": "Je me suis levé tôt. Reflexive verbs always take être, and the pronoun stays before the auxiliary.",
+            "fr": "Je me suis levé tôt. Les verbes pronominaux prennent toujours être, et le pronom reste devant l'auxiliaire."
+          },
+          "options": [["Je me suis levé tôt.", true], ["J'ai me levé tôt.", false], ["Je m'ai levé tôt.", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Put into the passé composé: « Je prends le bus. » → « J'___ ___ le bus. »",
+            "fr": "Mettez au passé composé : « Je prends le bus. » → « J'___ ___ le bus. »"
+          },
+          "explanation": {
+            "en": "ai pris — prendre has an irregular participle, pris, and takes avoir.",
+            "fr": "ai pris — prendre a un participe irrégulier, pris, et se conjugue avec avoir."
+          },
+          "answers": ["ai pris"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "In « elle a mangé », the participle should agree and be written « mangée ».",
+            "fr": "Dans « elle a mangé », le participe devrait s'accorder et s'écrire « mangée »."
+          },
+          "explanation": {
+            "en": "False. With avoir there is no agreement with the subject. Agreement with the subject happens only with être.",
+            "fr": "Faux. Avec avoir, il n'y a pas d'accord avec le sujet. L'accord avec le sujet ne se produit qu'avec être."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l04-vie-quotidienne",
+      "position": 4,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Daily life, home and town", "fr": "La vie quotidienne, la maison et la ville" },
+      "summary": {
+        "en": "Describe an ordinary day and the place where you live.",
+        "fr": "Décrire une journée ordinaire et le lieu où l'on vit."
+      },
+      "objective": {
+        "en": "Can describe their daily routine and their living environment in simple terms.",
+        "fr": "Peut décrire sa routine quotidienne et son cadre de vie en termes simples."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Reflexive verbs and the daily routine", "fr": "Les verbes pronominaux et la routine" },
+          "media": { "url": "https://www.youtube.com/watch?v=zC4_VxBhTyQ", "type": "VIDEO" },
+          "body": {
+            "en": "A day in French runs mostly on reflexive verbs — the action comes back onto the subject:\n\nse réveiller · se lever · se laver · se doucher · s'habiller · se préparer · se dépêcher · se reposer · se coucher · s'endormir\n\n| | se lever |\n|---|---|\n| je | **me** lève |\n| tu | **te** lèves |\n| il / elle | **se** lève |\n| nous | **nous** levons |\n| vous | **vous** levez |\n| ils / elles | **se** lèvent |\n\nCompare: *je lave la voiture* (I wash the car) versus *je me lave* (I wash myself). The pronoun is what changes the meaning.",
+            "fr": "Une journée en français repose largement sur les verbes pronominaux — l'action retombe sur le sujet :\n\nse réveiller · se lever · se laver · se doucher · s'habiller · se préparer · se dépêcher · se reposer · se coucher · s'endormir\n\n| | se lever |\n|---|---|\n| je | **me** lève |\n| tu | **te** lèves |\n| il / elle | **se** lève |\n| nous | **nous** levons |\n| vous | **vous** levez |\n| ils / elles | **se** lèvent |\n\nComparez : *je lave la voiture* et *je me lave*. C'est le pronom qui change le sens."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "The home", "fr": "La maison" },
+          "media": { "url": "https://www.youtube.com/watch?v=4V2srYL1VC0", "type": "VIDEO" },
+          "body": {
+            "en": "**Rooms** — la cuisine, la salle de bains, les toilettes, la chambre, le salon, l'entrée, le balcon.\n\n**Furniture** — une table, une chaise, un lit, une armoire, un canapé, une fenêtre, une porte.\n\n**Housing vocabulary you will meet when renting** — un studio, un appartement, une maison, un loyer (rent), des charges (service charges), une caution (deposit), un bail (lease), un état des lieux (inventory of fixtures), un propriétaire (landlord), un locataire (tenant).\n\nA sentence worth having ready: *Je cherche un studio à moins de 600 euros, charges comprises.*",
+            "fr": "**Les pièces** — la cuisine, la salle de bains, les toilettes, la chambre, le salon, l'entrée, le balcon.\n\n**Les meubles** — une table, une chaise, un lit, une armoire, un canapé, une fenêtre, une porte.\n\n**Le vocabulaire du logement, que l'on rencontre en louant** — un studio, un appartement, une maison, un loyer, des charges, une caution, un bail, un état des lieux, un propriétaire, un locataire.\n\nUne phrase à garder prête : *Je cherche un studio à moins de 600 euros, charges comprises.*"
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "The town and its services", "fr": "La ville et ses services" },
+          "media": { "url": "https://www.youtube.com/watch?v=jh_EH9OS3_k", "type": "VIDEO" },
+          "body": {
+            "en": "la mairie · la poste · la banque · l'école · l'hôpital · la pharmacie · le commissariat · la préfecture · la bibliothèque · l'arrêt de bus · la station de métro\n\nThree of these matter more than the rest when you arrive somewhere new:\n\n- **la mairie** — registration, certificates, school enrolment, many free local services\n- **la préfecture** — residence permits and official status\n- **la bibliothèque** — free, warm, open to everyone, usually with free internet and often free French conversation groups\n\nThe library is the most underused resource on this list.",
+            "fr": "la mairie · la poste · la banque · l'école · l'hôpital · la pharmacie · le commissariat · la préfecture · la bibliothèque · l'arrêt de bus · la station de métro\n\nTrois de ces lieux comptent plus que les autres à l'arrivée dans une ville :\n\n- **la mairie** — inscriptions, attestations, scolarisation, nombreux services locaux gratuits\n- **la préfecture** — titres de séjour et situation administrative\n- **la bibliothèque** — gratuite, chauffée, ouverte à tous, généralement avec internet libre et souvent des ateliers de conversation en français\n\nLa bibliothèque est la ressource la plus sous-utilisée de cette liste."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "se réveiller", "phonetic": "sə.ʁe.ve.je", "example": "Je me réveille à 6 heures.", "gloss": { "en": "to wake up", "fr": "cesser de dormir" } },
+        { "term": "s'habiller", "phonetic": "sa.bi.je", "example": "Il s'habille très vite.", "gloss": { "en": "to get dressed", "fr": "mettre ses vêtements" } },
+        { "term": "se coucher", "phonetic": "sə.ku.ʃe", "example": "Je me couche vers 23 heures.", "gloss": { "en": "to go to bed", "fr": "aller dormir" } },
+        { "term": "la cuisine", "phonetic": "kɥi.zin", "example": "La cuisine est petite mais claire.", "gloss": { "en": "the kitchen; cooking", "fr": "pièce où l'on prépare les repas" } },
+        { "term": "une chambre", "phonetic": "ʃɑ̃bʁ", "example": "L'appartement a deux chambres.", "gloss": { "en": "a bedroom", "fr": "pièce où l'on dort" } },
+        { "term": "le loyer", "phonetic": "lwa.je", "example": "Le loyer est de 550 euros par mois.", "gloss": { "en": "the rent", "fr": "somme payée chaque mois pour un logement" } },
+        { "term": "la mairie", "phonetic": "mɛ.ʁi", "example": "Il faut aller à la mairie pour ce document.", "gloss": { "en": "the town hall", "fr": "administration de la commune" } },
+        { "term": "la bibliothèque", "phonetic": "bi.bli.jɔ.tɛk", "example": "La bibliothèque est gratuite et ouverte à tous.", "gloss": { "en": "the library", "fr": "lieu public où l'on emprunte des livres" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je ___ lève à six heures. »", "fr": "Complétez : « Je ___ lève à six heures. »" },
+          "explanation": {
+            "en": "me — the reflexive pronoun for je is me, and it goes before the verb.",
+            "fr": "me — le pronom réfléchi de je est me, et il se place devant le verbe."
+          },
+          "options": [["me", true], ["se", false], ["te", false], ["mon", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence means « I wash the car »?", "fr": "Quelle phrase signifie « je lave la voiture » ?" },
+          "explanation": {
+            "en": "Je lave la voiture — without the pronoun. Je me lave means I wash myself.",
+            "fr": "Je lave la voiture — sans pronom. Je me lave signifie que l'on se lave soi-même."
+          },
+          "options": [["Je lave la voiture.", true], ["Je me lave la voiture.", false], ["Je se lave la voiture.", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "Where do you go to enrol a child in school?",
+            "fr": "Où s'adresse-t-on pour inscrire un enfant à l'école ?"
+          },
+          "explanation": {
+            "en": "À la mairie. The préfecture handles residence status, not school enrolment.",
+            "fr": "À la mairie. La préfecture traite le séjour, non les inscriptions scolaires."
+          },
+          "options": [["À la mairie", true], ["À la préfecture", false], ["À la poste", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete: « Le ___ est de 550 euros par mois. » (the monthly sum paid for housing)",
+            "fr": "Complétez : « Le ___ est de 550 euros par mois. » (la somme versée chaque mois pour le logement)"
+          },
+          "explanation": {
+            "en": "loyer. La caution is the one-off deposit; les charges are the service charges on top.",
+            "fr": "loyer. La caution est le dépôt versé une seule fois ; les charges s'ajoutent au loyer."
+          },
+          "answers": ["loyer"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "You need to pay to enter a public library in France.",
+            "fr": "Il faut payer pour entrer dans une bibliothèque publique en France."
+          },
+          "explanation": {
+            "en": "False. Entry and on-site reading are free for everyone. Only a borrowing card may sometimes cost a small annual fee.",
+            "fr": "Faux. L'entrée et la consultation sur place sont gratuites pour tous. Seule la carte d'emprunt peut parfois coûter une petite somme annuelle."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l05-verbes-du-quotidien",
+      "position": 5,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Everyday action verbs", "fr": "Les verbes de l'action quotidienne" },
+      "summary": {
+        "en": "Écouter, regarder, commencer, finir, parler — and the prepositions that follow them.",
+        "fr": "Écouter, regarder, commencer, finir, parler — et les prépositions qui les suivent."
+      },
+      "objective": {
+        "en": "Can say what they are doing, starting and finishing in everyday contexts.",
+        "fr": "Peut dire ce qu'il ou elle fait, commence et termine dans des contextes quotidiens."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Five verbs, three patterns", "fr": "Cinq verbes, trois modèles" },
+          "media": { "url": "https://www.youtube.com/watch?v=pc7fnFdWNkk", "type": "VIDEO" },
+          "body": {
+            "en": "| | écouter | regarder | commencer | finir | parler |\n|---|---|---|---|---|---|\n| je | écoute | regarde | commence | finis | parle |\n| tu | écoutes | regardes | commences | finis | parles |\n| il / elle | écoute | regarde | commence | finit | parle |\n| nous | écoutons | regardons | commen**ç**ons | finissons | parlons |\n| vous | écoutez | regardez | commencez | finissez | parlez |\n| ils / elles | écoutent | regardent | commencent | finissent | parlent |\n\nNote the cedilla in **nous commençons**: without it, the c before o would be pronounced [k]. The same happens with *nous mangeons*, where the e keeps the soft [ʒ] sound.",
+            "fr": "| | écouter | regarder | commencer | finir | parler |\n|---|---|---|---|---|---|\n| je | écoute | regarde | commence | finis | parle |\n| tu | écoutes | regardes | commences | finis | parles |\n| il / elle | écoute | regarde | commence | finit | parle |\n| nous | écoutons | regardons | commen**ç**ons | finissons | parlons |\n| vous | écoutez | regardez | commencez | finissez | parlez |\n| ils / elles | écoutent | regardent | commencent | finissent | parlent |\n\nNotez la cédille de **nous commençons** : sans elle, le c devant o se prononcerait [k]. Même logique dans *nous mangeons*, où le e conserve le son doux [ʒ]."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The preposition is part of the verb", "fr": "La préposition fait partie du verbe" },
+          "body": {
+            "en": "Some French verbs need no preposition where English uses one — and the reverse:\n\n| French | English |\n|---|---|\n| écouter **∅** la radio | to listen **to** the radio |\n| regarder **∅** un film | to look **at** a film |\n| attendre **∅** le bus | to wait **for** the bus |\n| chercher **∅** un travail | to look **for** a job |\n| téléphoner **à** quelqu'un | to phone somebody |\n| répondre **à** une question | to answer a question |\n| parler **à** quelqu'un **de** quelque chose | to talk to somebody about something |\n\nLearn the verb and its preposition as one block. *J'attends le bus*, never *j'attends pour le bus*.",
+            "fr": "Certains verbes français se passent de préposition là où l'anglais en emploie une — et inversement :\n\n| français | anglais |\n|---|---|\n| écouter **∅** la radio | to listen **to** the radio |\n| regarder **∅** un film | to look **at** a film |\n| attendre **∅** le bus | to wait **for** the bus |\n| chercher **∅** un travail | to look **for** a job |\n| téléphoner **à** quelqu'un | to phone somebody |\n| répondre **à** une question | to answer a question |\n| parler **à** quelqu'un **de** quelque chose | to talk to somebody about something |\n\nApprenez le verbe et sa préposition comme un bloc. *J'attends le bus*, jamais *j'attends pour le bus*."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Starting and finishing", "fr": "Commencer et finir" },
+          "body": {
+            "en": "- **commencer à + infinitive** — *je commence à comprendre*\n- **finir de + infinitive** — *j'ai fini de travailler*\n- **continuer à / de + infinitive** — *je continue à apprendre*\n- **arrêter de + infinitive** — *j'ai arrêté de fumer*\n- **venir de + infinitive** — the very recent past: *je viens d'arriver* (I have just arrived)\n\nThat last one is worth noticing: **venir de** + infinitive is how French says *to have just done something*.",
+            "fr": "- **commencer à + infinitif** — *je commence à comprendre*\n- **finir de + infinitif** — *j'ai fini de travailler*\n- **continuer à / de + infinitif** — *je continue à apprendre*\n- **arrêter de + infinitif** — *j'ai arrêté de fumer*\n- **venir de + infinitif** — le passé tout récent : *je viens d'arriver*\n\nCette dernière structure mérite l'attention : **venir de** + infinitif exprime une action qui vient tout juste de se produire."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "écouter", "phonetic": "e.ku.te", "example": "J'écoute la radio en français tous les matins.", "gloss": { "en": "to listen to", "fr": "prêter attention à un son" } },
+        { "term": "regarder", "phonetic": "ʁ(ə).ɡaʁ.de", "example": "Nous regardons un film ce soir.", "gloss": { "en": "to watch, to look at", "fr": "porter le regard sur quelque chose" } },
+        { "term": "commencer", "phonetic": "kɔ.mɑ̃.se", "example": "Le cours commence à neuf heures.", "gloss": { "en": "to begin", "fr": "entamer une action" } },
+        { "term": "répondre", "phonetic": "ʁe.pɔ̃dʁ", "example": "Je réponds toujours aux courriels.", "gloss": { "en": "to answer", "fr": "donner une réponse" } },
+        { "term": "téléphoner", "phonetic": "te.le.fɔ.ne", "example": "Je téléphone à ma mère le dimanche.", "gloss": { "en": "to phone", "fr": "appeler par téléphone" } },
+        { "term": "arrêter", "phonetic": "a.ʁe.te", "example": "J'ai arrêté de fumer en janvier.", "gloss": { "en": "to stop", "fr": "cesser une action" } },
+        { "term": "venir de", "phonetic": "v(ə).niʁ.də", "example": "Je viens d'arriver en France.", "gloss": { "en": "to have just (done something)", "fr": "exprimer un passé très récent" } },
+        { "term": "tous les jours", "phonetic": "tu.le.ʒuʁ", "example": "J'étudie le français tous les jours.", "gloss": { "en": "every day", "fr": "chaque jour" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence is correct?", "fr": "Quelle phrase est correcte ?" },
+          "explanation": {
+            "en": "J'écoute la radio — écouter takes a direct object, with no preposition.",
+            "fr": "J'écoute la radio — écouter se construit avec un complément direct, sans préposition."
+          },
+          "options": [["J'écoute la radio.", true], ["J'écoute à la radio.", false], ["J'écoute de la radio.", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je téléphone ___ ma sœur. »", "fr": "Complétez : « Je téléphone ___ ma sœur. »" },
+          "explanation": {
+            "en": "à — téléphoner always takes à before the person called.",
+            "fr": "à — téléphoner se construit toujours avec à devant la personne appelée."
+          },
+          "options": [["à", true], ["∅ (rien)", false], ["de", false], ["pour", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Nous ___ le cours à neuf heures. » (commencer)", "fr": "Complétez : « Nous ___ le cours à neuf heures. » (commencer)" },
+          "explanation": {
+            "en": "commençons, with a cedilla — otherwise the c before o would be read [k].",
+            "fr": "commençons, avec une cédille — sans elle, le c devant o se lirait [k]."
+          },
+          "options": [["commençons", true], ["commencons", false], ["commencez", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Say that you have just arrived in France (use venir de).",
+            "fr": "Dites que vous venez tout juste d'arriver en France (employez venir de)."
+          },
+          "explanation": {
+            "en": "je viens d'arriver en France — venir de + infinitive expresses a very recent past.",
+            "fr": "je viens d'arriver en France — venir de + infinitif exprime un passé tout récent."
+          },
+          "answers": ["je viens d'arriver en france", "je viens darriver en france"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« J'attends pour le bus » is correct French.",
+            "fr": "« J'attends pour le bus » est du français correct."
+          },
+          "explanation": {
+            "en": "False. Attendre takes a direct object: j'attends le bus. The preposition is an English interference.",
+            "fr": "Faux. Attendre se construit sans préposition : j'attends le bus. La préposition est un calque de l'anglais."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l06-verbes-relation",
+      "position": 6,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Studying, giving, liking", "fr": "Étudier, donner, aimer" },
+      "summary": {
+        "en": "The verbs of study and relationships — and how to express taste.",
+        "fr": "Les verbes de l'étude et de la relation — et comment exprimer ses goûts."
+      },
+      "objective": {
+        "en": "Can express likes and dislikes and talk about study and everyday exchanges.",
+        "fr": "Peut exprimer ses goûts et parler de ses études et de ses échanges quotidiens."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Mettre and s'asseoir", "fr": "Mettre et s'asseoir" },
+          "media": { "url": "https://www.youtube.com/watch?v=rlhD7ARg9Ro", "type": "VIDEO" },
+          "body": {
+            "en": "| | mettre | s'asseoir |\n|---|---|---|\n| je | mets | m'assieds |\n| tu | mets | t'assieds |\n| il / elle | met | s'assied |\n| nous | mettons | nous asseyons |\n| vous | mettez | vous asseyez |\n| ils / elles | mettent | s'asseyent |\n\n**mettre** is far wider than *to put*: *mettre un manteau* (to put on a coat), *mettre la table* (to lay the table), *mettre une heure* (to take an hour).\n\nYou will mostly meet *s'asseoir* as a polite invitation: **Asseyez-vous, je vous en prie.**",
+            "fr": "| | mettre | s'asseoir |\n|---|---|---|\n| je | mets | m'assieds |\n| tu | mets | t'assieds |\n| il / elle | met | s'assied |\n| nous | mettons | nous asseyons |\n| vous | mettez | vous asseyez |\n| ils / elles | mettent | s'asseyent |\n\n**mettre** est bien plus large que « placer » : *mettre un manteau*, *mettre la table*, *mettre une heure* (pour dire une durée).\n\nOn rencontre surtout *s'asseoir* dans une invitation polie : **Asseyez-vous, je vous en prie.**"
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Expressing taste: aimer and its family", "fr": "Exprimer ses goûts : aimer et sa famille" },
+          "media": { "url": "https://www.youtube.com/watch?v=hEO30adZxHw", "type": "VIDEO" },
+          "body": {
+            "en": "From strongest to weakest:\n\n- **j'adore** — I love it\n- **j'aime beaucoup** — I like it a lot\n- **j'aime bien** — I quite like it\n- **je n'aime pas** — I don't like it\n- **je déteste** — I hate it\n\nTwo structures:\n- **aimer + noun**: *j'aime le café* — note the definite article, where English has none.\n- **aimer + infinitive**: *j'aime lire*, *je déteste attendre*.\n\nA cultural note: **j'aime bien** is weaker than **j'aime**. Saying *je t'aime bien* to someone is friendly; *je t'aime* is a declaration of love. The little *bien* changes everything.",
+            "fr": "Du plus fort au plus faible :\n\n- **j'adore**\n- **j'aime beaucoup**\n- **j'aime bien**\n- **je n'aime pas**\n- **je déteste**\n\nDeux constructions :\n- **aimer + nom** : *j'aime le café* — avec l'article défini, là où l'anglais n'en met pas.\n- **aimer + infinitif** : *j'aime lire*, *je déteste attendre*.\n\nUne remarque culturelle : **j'aime bien** est plus faible que **j'aime**. Dire *je t'aime bien* à quelqu'un est amical ; *je t'aime* est une déclaration d'amour. Le petit *bien* change tout."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Studying", "fr": "Étudier" },
+          "media": { "url": "https://www.youtube.com/watch?v=crBo-vd5CZQ", "type": "VIDEO" },
+          "body": {
+            "en": "étudier · apprendre · enseigner · un cours · une leçon · un exercice · un examen · une note · un diplôme · une formation · un stage\n\nUseful in France and Belgium:\n- **une formation** — a training course, often free and state-funded for job seekers\n- **un stage** — an internship or short practical course\n- **la validation des acquis** — recognition of prior learning, a route to certify skills you already have without redoing a full degree\n\nIf you hold a qualification from your country of origin, ask about **la reconnaissance des diplômes** at the local ENIC-NARIC centre. It is a slow procedure, but it changes which jobs you can apply for.",
+            "fr": "étudier · apprendre · enseigner · un cours · une leçon · un exercice · un examen · une note · un diplôme · une formation · un stage\n\nUtile en France et en Belgique :\n- **une formation** — souvent gratuite et financée par l'État pour les demandeurs d'emploi\n- **un stage** — période pratique en entreprise\n- **la validation des acquis** — reconnaissance de compétences déjà maîtrisées, sans refaire un cursus complet\n\nSi vous détenez un diplôme obtenu dans votre pays d'origine, renseignez-vous sur **la reconnaissance des diplômes** auprès du centre ENIC-NARIC. La procédure est lente, mais elle change la nature des emplois auxquels on peut postuler."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "étudier", "phonetic": "e.ty.dje", "example": "J'étudie le français depuis six mois.", "gloss": { "en": "to study", "fr": "apprendre par le travail intellectuel" } },
+        { "term": "apprendre", "phonetic": "a.pʁɑ̃dʁ", "example": "J'apprends vite quand je pratique.", "gloss": { "en": "to learn", "fr": "acquérir une connaissance" } },
+        { "term": "donner", "phonetic": "dɔ.ne", "example": "Donnez-moi votre numéro, s'il vous plaît.", "gloss": { "en": "to give", "fr": "remettre quelque chose à quelqu'un" } },
+        { "term": "mettre", "phonetic": "mɛtʁ", "example": "Je mets mon manteau, il fait froid.", "gloss": { "en": "to put, to put on", "fr": "placer ; enfiler un vêtement" } },
+        { "term": "aimer", "phonetic": "e.me", "example": "J'aime beaucoup la cuisine française.", "gloss": { "en": "to like, to love", "fr": "éprouver de l'attirance ou de l'affection" } },
+        { "term": "détester", "phonetic": "de.tɛs.te", "example": "Je déteste attendre au téléphone.", "gloss": { "en": "to hate", "fr": "avoir en aversion" } },
+        { "term": "une formation", "phonetic": "fɔʁ.ma.sjɔ̃", "example": "J'ai trouvé une formation gratuite en informatique.", "gloss": { "en": "a training course", "fr": "enseignement professionnel court" } },
+        { "term": "un diplôme", "phonetic": "di.plom", "example": "Mon diplôme n'est pas encore reconnu ici.", "gloss": { "en": "a diploma, a degree", "fr": "titre délivré après des études" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « J'aime ___ café. »", "fr": "Complétez : « J'aime ___ café. »" },
+          "explanation": {
+            "en": "le café — with aimer, French uses the definite article to speak about something in general.",
+            "fr": "le café — avec aimer, le français emploie l'article défini pour parler d'une chose en général."
+          },
+          "options": [["le", true], ["du", false], ["de", false], ["un", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which is the strongest expression?", "fr": "Quelle expression est la plus forte ?" },
+          "explanation": {
+            "en": "J'adore. Then j'aime beaucoup, then j'aime bien — which is in fact the mildest of the three.",
+            "fr": "J'adore. Viennent ensuite j'aime beaucoup, puis j'aime bien — qui est en réalité la plus faible des trois."
+          },
+          "options": [["J'adore", true], ["J'aime bien", false], ["J'aime beaucoup", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Il ___ son manteau. » (mettre)", "fr": "Complétez : « Il ___ son manteau. » (mettre)" },
+          "explanation": {
+            "en": "met — the third person singular of mettre has no ending after the t of the stem.",
+            "fr": "met — à la troisième personne du singulier, mettre ne prend pas de terminaison après le t du radical."
+          },
+          "options": [["met", true], ["mets", false], ["mette", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Say that you love reading (use adorer + infinitive).", "fr": "Dites que vous adorez lire (employez adorer + infinitif)." },
+          "explanation": {
+            "en": "j'adore lire — after a verb of taste, the second verb stays in the infinitive.",
+            "fr": "j'adore lire — après un verbe de goût, le second verbe reste à l'infinitif."
+          },
+          "answers": ["j'adore lire", "jadore lire"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "Saying « je t'aime bien » to someone is a declaration of love.",
+            "fr": "Dire « je t'aime bien » à quelqu'un est une déclaration d'amour."
+          },
+          "explanation": {
+            "en": "False. Je t'aime bien is friendly. Removing bien — je t'aime — turns it into a declaration of love.",
+            "fr": "Faux. Je t'aime bien est amical. C'est en retirant bien — je t'aime — que la phrase devient une déclaration d'amour."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l07-pouvoir-vouloir-devoir",
+      "position": 7,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Can, want, must", "fr": "Pouvoir, vouloir, devoir" },
+      "summary": {
+        "en": "Three verbs that let you request, refuse and explain an obligation — politely.",
+        "fr": "Trois verbes pour demander, refuser et expliquer une obligation — poliment."
+      },
+      "objective": {
+        "en": "Can make simple requests, express a wish and state an obligation.",
+        "fr": "Peut formuler une demande simple, exprimer un souhait et énoncer une obligation."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The three modal verbs", "fr": "Les trois verbes modaux" },
+          "media": { "url": "https://www.youtube.com/watch?v=KsfU9Qm7PpU", "type": "VIDEO" },
+          "body": {
+            "en": "| | pouvoir | vouloir | devoir |\n|---|---|---|---|\n| je | peux | veux | dois |\n| tu | peux | veux | dois |\n| il / elle | peut | veut | doit |\n| nous | pouvons | voulons | devons |\n| vous | pouvez | voulez | devez |\n| ils / elles | peuvent | veulent | doivent |\n\nAll three are followed by an **infinitive**:\n- *Je peux venir demain.*\n- *Je veux apprendre le français.*\n- *Je dois partir maintenant.*\n\nThey are the backbone of any practical exchange: asking permission, stating a need, explaining a constraint.",
+            "fr": "| | pouvoir | vouloir | devoir |\n|---|---|---|---|\n| je | peux | veux | dois |\n| tu | peux | veux | dois |\n| il / elle | peut | veut | doit |\n| nous | pouvons | voulons | devons |\n| vous | pouvez | voulez | devez |\n| ils / elles | peuvent | veulent | doivent |\n\nLes trois sont suivis d'un **infinitif** :\n- *Je peux venir demain.*\n- *Je veux apprendre le français.*\n- *Je dois partir maintenant.*\n\nCe sont les piliers de tout échange pratique : demander une autorisation, exprimer un besoin, expliquer une contrainte."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Il faut: impersonal obligation", "fr": "Il faut : l'obligation impersonnelle" },
+          "media": { "url": "https://www.youtube.com/watch?v=-COcPVEp5tw", "type": "VIDEO" },
+          "body": {
+            "en": "**Il faut** never changes form — there is no *je faut*. It expresses a general necessity:\n\n- *Il faut un justificatif de domicile.* — A proof of address is required.\n- *Il faut arriver à l'heure.* — One must arrive on time.\n- *Il ne faut pas oublier les originaux.* — You must not forget the originals.\n\nThe difference from **devoir** is who is concerned:\n- *Je dois partir* — I, personally, must leave.\n- *Il faut partir* — leaving is what the situation requires, for everyone.\n\nAt a counter, *il faut…* is the phrase you will hear most when a document is missing.",
+            "fr": "**Il faut** est invariable — il n'existe pas de *je faut*. Cette forme exprime une nécessité générale :\n\n- *Il faut un justificatif de domicile.*\n- *Il faut arriver à l'heure.*\n- *Il ne faut pas oublier les originaux.*\n\nLa différence avec **devoir** tient à la personne concernée :\n- *Je dois partir* — moi, personnellement.\n- *Il faut partir* — la situation l'exige, pour tout le monde.\n\nÀ un guichet, *il faut…* est la formule que l'on entend le plus lorsqu'un document manque."
+          }
+        },
+        {
+          "type": "CULTURE",
+          "title": { "en": "Asking politely: the conditional", "fr": "Demander poliment : le conditionnel" },
+          "body": {
+            "en": "A direct *je veux* sounds abrupt in French — close to *I demand*. In shops, offices and any formal setting, the polite form is used instead:\n\n| direct | polite |\n|---|---|\n| Je veux un café. | **Je voudrais** un café. |\n| Vous pouvez m'aider ? | **Pourriez-vous** m'aider ? |\n| Donnez-moi le formulaire. | **Pourrais-je avoir** le formulaire ? |\n\n**Je voudrais** and **pourriez-vous** are worth learning as fixed blocks right now, long before studying the conditional as a tense. They cost one word more and change how you are received.",
+            "fr": "Un *je veux* direct sonne brusque en français — proche de « j'exige ». Dans les commerces, les administrations et tout cadre formel, on emploie la forme polie :\n\n| direct | poli |\n|---|---|\n| Je veux un café. | **Je voudrais** un café. |\n| Vous pouvez m'aider ? | **Pourriez-vous** m'aider ? |\n| Donnez-moi le formulaire. | **Pourrais-je avoir** le formulaire ? |\n\n**Je voudrais** et **pourriez-vous** méritent d'être appris comme des blocs figés dès maintenant, bien avant d'étudier le conditionnel comme temps. Ils coûtent un mot de plus et changent l'accueil qui vous est réservé."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "pouvoir", "phonetic": "pu.vwaʁ", "example": "Est-ce que je peux poser une question ?", "gloss": { "en": "can, to be able to", "fr": "avoir la possibilité ou la permission" } },
+        { "term": "vouloir", "phonetic": "vu.lwaʁ", "example": "Je veux apprendre vite.", "gloss": { "en": "to want", "fr": "avoir la volonté de" } },
+        { "term": "devoir", "phonetic": "d(ə).vwaʁ", "example": "Je dois renouveler mon titre de séjour.", "gloss": { "en": "must, to have to", "fr": "être dans l'obligation de" } },
+        { "term": "il faut", "phonetic": "il.fo", "example": "Il faut deux photos d'identité.", "gloss": { "en": "it is necessary, you need", "fr": "expression impersonnelle d'obligation" } },
+        { "term": "je voudrais", "phonetic": "ʒə.vu.dʁɛ", "example": "Je voudrais un rendez-vous, s'il vous plaît.", "gloss": { "en": "I would like", "fr": "forme polie de « je veux »" } },
+        { "term": "possible", "phonetic": "pɔ.sibl", "example": "Est-ce que c'est possible aujourd'hui ?", "gloss": { "en": "possible", "fr": "qui peut se faire" } },
+        { "term": "interdit(e)", "phonetic": "ɛ̃.tɛʁ.di", "example": "Il est interdit de fumer ici.", "gloss": { "en": "forbidden", "fr": "qui n'est pas autorisé" } },
+        { "term": "obligatoire", "phonetic": "ɔ.bli.ɡa.twaʁ", "example": "Le rendez-vous est obligatoire.", "gloss": { "en": "compulsory", "fr": "que l'on ne peut pas éviter" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Ils ___ venir demain. » (pouvoir)", "fr": "Complétez : « Ils ___ venir demain. » (pouvoir)" },
+          "explanation": {
+            "en": "peuvent — an irregular third person plural worth memorising.",
+            "fr": "peuvent — une troisième personne du pluriel irrégulière, à mémoriser."
+          },
+          "options": [["peuvent", true], ["peux", false], ["pouvent", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "At a counter, which request is the most appropriate?", "fr": "À un guichet, quelle demande est la plus appropriée ?" },
+          "explanation": {
+            "en": "Je voudrais un rendez-vous, s'il vous plaît. The polite form is expected in any formal exchange.",
+            "fr": "Je voudrais un rendez-vous, s'il vous plaît. La forme polie est attendue dans tout échange formel."
+          },
+          "options": [
+            ["Je voudrais un rendez-vous, s'il vous plaît.", true],
+            ["Je veux un rendez-vous.", false],
+            ["Donnez-moi un rendez-vous.", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence uses « il faut » correctly?", "fr": "Quelle phrase emploie correctement « il faut » ?" },
+          "explanation": {
+            "en": "Il faut un justificatif. Il faut is impersonal: « je faut » does not exist.",
+            "fr": "Il faut un justificatif. Il faut est impersonnel : « je faut » n'existe pas."
+          },
+          "options": [["Il faut un justificatif.", true], ["Je faut un justificatif.", false], ["Nous fallons un justificatif.", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete: « Je ___ renouveler mon titre de séjour. » (personal obligation)",
+            "fr": "Complétez : « Je ___ renouveler mon titre de séjour. » (obligation personnelle)"
+          },
+          "explanation": {
+            "en": "dois — devoir expresses an obligation that concerns me personally.",
+            "fr": "dois — devoir exprime une obligation qui me concerne personnellement."
+          },
+          "answers": ["dois"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "After pouvoir, vouloir and devoir, the second verb is conjugated.",
+            "fr": "Après pouvoir, vouloir et devoir, le second verbe se conjugue."
+          },
+          "explanation": {
+            "en": "False. The second verb stays in the infinitive: je peux venir, not je peux viens.",
+            "fr": "Faux. Le second verbe reste à l'infinitif : je peux venir, et non je peux viens."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l08-prepositions-de-lieu",
+      "position": 8,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Prepositions of place", "fr": "Les prépositions de lieu" },
+      "summary": {
+        "en": "À, de, dans, sur, chez, en — six small words that decide where things are.",
+        "fr": "À, de, dans, sur, chez, en — six petits mots qui situent tout."
+      },
+      "objective": {
+        "en": "Can locate objects and places and give a simple address.",
+        "fr": "Peut situer des objets et des lieux et donner une adresse simple."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "The six essential prepositions", "fr": "Les six prépositions essentielles" },
+          "media": { "url": "https://www.youtube.com/watch?v=8UrgQq0OqWg", "type": "VIDEO" },
+          "body": {
+            "en": "| preposition | use | example |\n|---|---|---|\n| **à** | a point, a place | je suis **à** la maison |\n| **de** | origin, starting point | je viens **de** Madrid |\n| **dans** | inside something closed | les clés sont **dans** le sac |\n| **sur** | on a surface | le livre est **sur** la table |\n| **chez** | at someone's place | je vais **chez** le médecin |\n| **en** | a means, a material, a feminine country | **en** bus, **en** France |\n\n**chez** has no English equivalent: it means *at the home or premises of*. *Chez moi, chez le coiffeur, chez Renault.* Never *à la maison de Marie* — say *chez Marie*.",
+            "fr": "| préposition | emploi | exemple |\n|---|---|---|\n| **à** | un point, un lieu | je suis **à** la maison |\n| **de** | l'origine, le point de départ | je viens **de** Madrid |\n| **dans** | à l'intérieur d'un espace fermé | les clés sont **dans** le sac |\n| **sur** | sur une surface | le livre est **sur** la table |\n| **chez** | au domicile ou au local de quelqu'un | je vais **chez** le médecin |\n| **en** | un moyen, une matière, un pays féminin | **en** bus, **en** France |\n\n**chez** n'a pas d'équivalent simple en anglais : il désigne le domicile ou l'établissement d'une personne. *Chez moi, chez le coiffeur, chez Renault.* On ne dit pas *à la maison de Marie*, mais *chez Marie*."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Contractions with à and de", "fr": "Les contractions avec à et de" },
+          "body": {
+            "en": "This is the point where most written mistakes happen:\n\n| | + le | + la | + l' | + les |\n|---|---|---|---|---|\n| **à** | **au** | à la | à l' | **aux** |\n| **de** | **du** | de la | de l' | **des** |\n\n- je vais **au** marché (à + le)\n- je viens **du** travail (de + le)\n- je parle **aux** enfants (à + les)\n- la porte **des** voisins (de + les)\n\n*à le* and *de le* simply do not exist in written French.",
+            "fr": "C'est ici que se concentrent la plupart des fautes écrites :\n\n| | + le | + la | + l' | + les |\n|---|---|---|---|---|\n| **à** | **au** | à la | à l' | **aux** |\n| **de** | **du** | de la | de l' | **des** |\n\n- je vais **au** marché (à + le)\n- je viens **du** travail (de + le)\n- je parle **aux** enfants (à + les)\n- la porte **des** voisins (de + les)\n\n*à le* et *de le* n'existent tout simplement pas à l'écrit."
+          }
+        },
+        {
+          "type": "VOCABULARY",
+          "title": { "en": "Locating precisely", "fr": "Situer avec précision" },
+          "body": {
+            "en": "devant · derrière · à côté de · en face de · entre · sous · au-dessus de · au bout de · au coin de · près de · loin de\n\nA typical set of directions, as you would actually hear it:\n\n> *La pharmacie ? C'est au bout de la rue, à côté de la banque, en face de l'arrêt de bus. C'est à deux minutes.*\n\nWriting an address, French puts the number first, then the street: **12, rue Victor Hugo — 69003 Lyon**. The five-digit postcode comes before the city name.",
+            "fr": "devant · derrière · à côté de · en face de · entre · sous · au-dessus de · au bout de · au coin de · près de · loin de\n\nUn enchaînement d'indications tel qu'on l'entend réellement :\n\n> *La pharmacie ? C'est au bout de la rue, à côté de la banque, en face de l'arrêt de bus. C'est à deux minutes.*\n\nPour écrire une adresse, le français place le numéro avant la rue : **12, rue Victor Hugo — 69003 Lyon**. Le code postal à cinq chiffres précède le nom de la ville."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "chez", "phonetic": "ʃe", "example": "Je vais chez le médecin à 15 heures.", "gloss": { "en": "at / to someone's place", "fr": "au domicile ou au local de quelqu'un" } },
+        { "term": "dans", "phonetic": "dɑ̃", "example": "Mes papiers sont dans le tiroir.", "gloss": { "en": "in, inside", "fr": "à l'intérieur de" } },
+        { "term": "sur", "phonetic": "syʁ", "example": "Le formulaire est sur la table.", "gloss": { "en": "on", "fr": "au-dessus et en contact" } },
+        { "term": "à côté de", "phonetic": "a.ko.te.də", "example": "La banque est à côté de la poste.", "gloss": { "en": "next to", "fr": "tout près, juste à côté" } },
+        { "term": "entre", "phonetic": "ɑ̃tʁ", "example": "La pharmacie est entre l'école et la mairie.", "gloss": { "en": "between", "fr": "au milieu de deux éléments" } },
+        { "term": "près de / loin de", "phonetic": "pʁɛ.də / lwɛ̃.də", "example": "J'habite près de la gare.", "gloss": { "en": "near / far from", "fr": "à faible distance / à grande distance" } },
+        { "term": "une rue", "phonetic": "ʁy", "example": "J'habite 12, rue Victor Hugo.", "gloss": { "en": "a street", "fr": "voie de circulation en ville" } },
+        { "term": "le code postal", "phonetic": "kɔd.pɔs.tal", "example": "Le code postal de Lyon 3e est 69003.", "gloss": { "en": "the postcode", "fr": "numéro à cinq chiffres qui identifie la commune" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je vais ___ médecin. »", "fr": "Complétez : « Je vais ___ médecin. »" },
+          "explanation": {
+            "en": "chez le médecin — chez is used with people and professionals.",
+            "fr": "chez le médecin — chez s'emploie avec les personnes et les professionnels."
+          },
+          "options": [["chez le", true], ["à le", false], ["dans le", false], ["au", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Je reviens ___ travail. »", "fr": "Complétez : « Je reviens ___ travail. »" },
+          "explanation": {
+            "en": "du travail — de + le contracts to du.",
+            "fr": "du travail — de + le se contracte en du."
+          },
+          "options": [["du", true], ["de le", false], ["des", false], ["au", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Le livre est ___ la table. » (on the surface)", "fr": "Complétez : « Le livre est ___ la table. » (sur la surface)" },
+          "explanation": {
+            "en": "sur la table. Dans la table would mean inside the table itself.",
+            "fr": "sur la table. Dans la table signifierait à l'intérieur du meuble."
+          },
+          "options": [["sur", true], ["dans", false], ["à", false], ["chez", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": { "en": "Complete: « Je parle ___ enfants. » (à + les)", "fr": "Complétez : « Je parle ___ enfants. » (à + les)" },
+          "explanation": {
+            "en": "aux — à + les always contracts to aux.",
+            "fr": "aux — à + les se contracte toujours en aux."
+          },
+          "answers": ["aux"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "In a French address, the street name comes before the number.",
+            "fr": "Dans une adresse française, le nom de la rue précède le numéro."
+          },
+          "explanation": {
+            "en": "False. The number comes first: 12, rue Victor Hugo.",
+            "fr": "Faux. Le numéro vient en premier : 12, rue Victor Hugo."
+          },
+          "options": [["Vrai", false], ["Faux", true]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l09-adverbes-de-temps",
+      "position": 9,
+      "minutes": 30,
+      "published": true,
+      "title": { "en": "Adverbs of time and frequency", "fr": "Les adverbes de temps et de fréquence" },
+      "summary": {
+        "en": "Say when and how often — and place the adverb where a French speaker expects it.",
+        "fr": "Dire quand et à quelle fréquence — et placer l'adverbe là où un francophone l'attend."
+      },
+      "objective": {
+        "en": "Can situate actions in time and describe habits and their frequency.",
+        "fr": "Peut situer des actions dans le temps et décrire des habitudes et leur fréquence."
+      },
+      "sections": [
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "When: adverbs of time", "fr": "Quand : les adverbes de temps" },
+          "media": { "url": "https://www.youtube.com/watch?v=Ukc05X5h8J8", "type": "VIDEO" },
+          "body": {
+            "en": "| past | present | future |\n|---|---|---|\n| hier | aujourd'hui | demain |\n| avant-hier | maintenant | après-demain |\n| la semaine dernière | en ce moment | la semaine prochaine |\n| l'année dernière | actuellement | l'année prochaine |\n| autrefois | | bientôt |\n\nAlso useful: **d'abord** (first), **ensuite / puis** (then), **enfin** (finally), **tout de suite** (right away), **déjà** (already), **encore** (still, again), **ne … jamais** (never).\n\nThese linking words are what turn a list of sentences into a story: *D'abord je me lève, ensuite je prends le bus, enfin j'arrive au travail.*",
+            "fr": "| passé | présent | futur |\n|---|---|---|\n| hier | aujourd'hui | demain |\n| avant-hier | maintenant | après-demain |\n| la semaine dernière | en ce moment | la semaine prochaine |\n| l'année dernière | actuellement | l'année prochaine |\n| autrefois | | bientôt |\n\nÉgalement utiles : **d'abord**, **ensuite / puis**, **enfin**, **tout de suite**, **déjà**, **encore**, **ne … jamais**.\n\nCe sont ces connecteurs qui transforment une liste de phrases en récit : *D'abord je me lève, ensuite je prends le bus, enfin j'arrive au travail.*"
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "How often: adverbs of frequency", "fr": "À quelle fréquence : les adverbes de fréquence" },
+          "media": { "url": "https://www.youtube.com/watch?v=CUEJ48Og9nY", "type": "VIDEO" },
+          "body": {
+            "en": "From most to least frequent:\n\n**toujours** → **souvent** → **quelquefois / parfois** → **rarement** → **ne … jamais**\n\nAnd with a fixed rhythm: *tous les jours*, *toutes les semaines*, *une fois par mois*, *deux fois par an*.\n\n- *Je prends **toujours** le bus.*\n- *Je vais **souvent** à la bibliothèque.*\n- *Je ne regarde **jamais** la télévision.*",
+            "fr": "Du plus fréquent au moins fréquent :\n\n**toujours** → **souvent** → **quelquefois / parfois** → **rarement** → **ne … jamais**\n\nEt avec un rythme fixe : *tous les jours*, *toutes les semaines*, *une fois par mois*, *deux fois par an*.\n\n- *Je prends **toujours** le bus.*\n- *Je vais **souvent** à la bibliothèque.*\n- *Je ne regarde **jamais** la télévision.*"
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Where the adverb goes", "fr": "Où se place l'adverbe" },
+          "body": {
+            "en": "This is the part learners most often get wrong, because the rule differs from English.\n\n**Present tense — right after the verb:**\n- *Je mange **souvent** au restaurant.* (not *je souvent mange*)\n\n**Passé composé — between the auxiliary and the participle:**\n- *J'ai **souvent** mangé au restaurant.*\n- *Je n'ai **jamais** mangé au restaurant.*\n\n**Time adverbs can move to the front for emphasis:**\n- *Hier, j'ai travaillé.* / *J'ai travaillé hier.* — both correct.\n\nBut short frequency adverbs — souvent, toujours, jamais — stay glued to the verb.",
+            "fr": "C'est le point que les apprenants manquent le plus souvent, car la règle diffère de celle de l'anglais.\n\n**Au présent — juste après le verbe :**\n- *Je mange **souvent** au restaurant.* (et non *je souvent mange*)\n\n**Au passé composé — entre l'auxiliaire et le participe :**\n- *J'ai **souvent** mangé au restaurant.*\n- *Je n'ai **jamais** mangé au restaurant.*\n\n**Les adverbes de temps peuvent passer en tête pour insister :**\n- *Hier, j'ai travaillé.* / *J'ai travaillé hier.* — les deux sont corrects.\n\nEn revanche, les adverbes de fréquence courts — souvent, toujours, jamais — restent collés au verbe."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "toujours", "phonetic": "tu.ʒuʁ", "example": "Je prends toujours le même bus.", "gloss": { "en": "always", "fr": "à chaque fois, sans exception" } },
+        { "term": "souvent", "phonetic": "su.vɑ̃", "example": "Je vais souvent à la bibliothèque.", "gloss": { "en": "often", "fr": "de nombreuses fois" } },
+        { "term": "parfois", "phonetic": "paʁ.fwa", "example": "Parfois, je travaille le samedi.", "gloss": { "en": "sometimes", "fr": "de temps en temps" } },
+        { "term": "rarement", "phonetic": "ʁaʁ.mɑ̃", "example": "Je sors rarement le soir.", "gloss": { "en": "rarely", "fr": "peu souvent" } },
+        { "term": "ne … jamais", "phonetic": "nə.ʒa.mɛ", "example": "Je ne bois jamais de café le soir.", "gloss": { "en": "never", "fr": "à aucun moment" } },
+        { "term": "d'abord", "phonetic": "da.bɔʁ", "example": "D'abord, je remplis le formulaire.", "gloss": { "en": "first, to begin with", "fr": "en premier lieu" } },
+        { "term": "ensuite", "phonetic": "ɑ̃.sɥit", "example": "Ensuite, je vais au guichet.", "gloss": { "en": "then, next", "fr": "après cela" } },
+        { "term": "une fois par semaine", "phonetic": "yn.fwa.paʁ.s(ə).mɛn", "example": "J'ai un cours une fois par semaine.", "gloss": { "en": "once a week", "fr": "à raison d'une fois chaque semaine" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence is correct?", "fr": "Quelle phrase est correcte ?" },
+          "explanation": {
+            "en": "Je mange souvent au restaurant. In the present tense the adverb follows the verb.",
+            "fr": "Je mange souvent au restaurant. Au présent, l'adverbe suit le verbe."
+          },
+          "options": [["Je mange souvent au restaurant.", true], ["Je souvent mange au restaurant.", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Where does « jamais » go in the passé composé?", "fr": "Où se place « jamais » au passé composé ?" },
+          "explanation": {
+            "en": "Between the auxiliary and the participle: je n'ai jamais mangé.",
+            "fr": "Entre l'auxiliaire et le participe : je n'ai jamais mangé."
+          },
+          "options": [
+            ["Entre l'auxiliaire et le participe", true],
+            ["Après le participe", false],
+            ["Avant le sujet", false]
+          ]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which adverb expresses the highest frequency?", "fr": "Quel adverbe exprime la fréquence la plus élevée ?" },
+          "explanation": {
+            "en": "toujours — every single time. Then souvent, parfois, rarement, jamais.",
+            "fr": "toujours — à chaque fois. Viennent ensuite souvent, parfois, rarement, jamais."
+          },
+          "options": [["toujours", true], ["souvent", false], ["parfois", false], ["rarement", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Complete the sequence: « ___, je remplis le formulaire ; ensuite, je vais au guichet. »",
+            "fr": "Complétez la séquence : « ___, je remplis le formulaire ; ensuite, je vais au guichet. »"
+          },
+          "explanation": {
+            "en": "D'abord — it opens a sequence, with ensuite and enfin following.",
+            "fr": "D'abord — cet adverbe ouvre une séquence, que poursuivent ensuite et enfin."
+          },
+          "answers": ["d'abord", "dabord"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "« Hier, j'ai travaillé » and « J'ai travaillé hier » are both correct.",
+            "fr": "« Hier, j'ai travaillé » et « J'ai travaillé hier » sont tous deux corrects."
+          },
+          "explanation": {
+            "en": "True. Time adverbs may open or close the sentence; the front position adds emphasis.",
+            "fr": "Vrai. Les adverbes de temps peuvent ouvrir ou clore la phrase ; la position initiale insiste davantage."
+          },
+          "options": [["Vrai", true], ["Faux", false]]
+        }
+      ]
+    },
+    {
+      "slug": "a1-u2-l10-consolidation-conjugaison",
+      "position": 10,
+      "minutes": 35,
+      "published": true,
+      "title": { "en": "Consolidating your conjugation", "fr": "Consolider sa conjugaison" },
+      "summary": {
+        "en": "A method for making conjugation automatic, and a review of the whole unit.",
+        "fr": "Une méthode pour automatiser la conjugaison, et la révision de toute l'unité."
+      },
+      "objective": {
+        "en": "Can select the right tense and auxiliary in simple everyday sentences.",
+        "fr": "Peut choisir le temps et l'auxiliaire corrects dans des phrases simples du quotidien."
+      },
+      "sections": [
+        {
+          "type": "SUMMARY",
+          "title": { "en": "Six habits that actually work", "fr": "Six habitudes qui fonctionnent vraiment" },
+          "media": { "url": "https://www.youtube.com/watch?v=qmC89o87f_0", "type": "VIDEO" },
+          "body": {
+            "en": "1. **Work from frequency, not from the alphabet.** Twenty verbs cover most conversations. Master those before opening a conjugation book at page one.\n2. **One verb, one personal sentence.** *Je travaille dans un restaurant* sticks; a column of endings does not.\n3. **Say it out loud.** Three of the six present forms sound the same; only your ear will teach you that.\n4. **Revise little and often.** Ten minutes a day beats two hours once a week.\n5. **Write three sentences every evening** about your day, in the passé composé. It is the cheapest, most effective exercise there is.\n6. **Accept mistakes.** A sentence with an error that is understood is worth more than a perfect sentence you never said.",
+            "fr": "1. **Partez de la fréquence, non de l'alphabet.** Vingt verbes couvrent l'essentiel des conversations. Maîtrisez-les avant d'ouvrir un livre de conjugaison à la page un.\n2. **Un verbe, une phrase personnelle.** *Je travaille dans un restaurant* se retient ; une colonne de terminaisons non.\n3. **Prononcez à voix haute.** Trois des six formes du présent se prononcent de manière identique ; seule l'oreille l'apprend.\n4. **Révisez peu, mais souvent.** Dix minutes par jour valent mieux que deux heures par semaine.\n5. **Écrivez trois phrases chaque soir** sur votre journée, au passé composé. C'est l'exercice le plus rentable qui soit.\n6. **Acceptez l'erreur.** Une phrase fautive mais comprise vaut mieux qu'une phrase parfaite jamais prononcée."
+          }
+        },
+        {
+          "type": "GRAMMAR",
+          "title": { "en": "Choosing the right tense", "fr": "Choisir le bon temps" },
+          "body": {
+            "en": "| the action | tense | example |\n|---|---|---|\n| is happening now | présent | *je travaille* |\n| is a habit | présent | *je travaille tous les jours* |\n| started in the past, still true | présent + depuis | *je travaille ici depuis deux ans* |\n| just happened | venir de + inf. | *je viens de finir* |\n| is finished | passé composé | *j'ai travaillé hier* |\n| is about to happen | aller + inf. | *je vais travailler demain* |\n\nWith these six patterns, an A1 speaker can cover almost any everyday situation — without ever conjugating the futur simple or the subjunctive.",
+            "fr": "| l'action | temps | exemple |\n|---|---|---|\n| se déroule maintenant | présent | *je travaille* |\n| est une habitude | présent | *je travaille tous les jours* |\n| a commencé et dure encore | présent + depuis | *je travaille ici depuis deux ans* |\n| vient de se produire | venir de + inf. | *je viens de finir* |\n| est achevée | passé composé | *j'ai travaillé hier* |\n| va se produire | aller + inf. | *je vais travailler demain* |\n\nAvec ces six schémas, un locuteur de niveau A1 couvre presque toutes les situations du quotidien — sans jamais conjuguer le futur simple ni le subjonctif."
+          }
+        },
+        {
+          "type": "SUMMARY",
+          "title": { "en": "Unit 2 checklist", "fr": "Bilan de l'unité 2" },
+          "body": {
+            "en": "You should now be able to:\n\n- name the twenty most frequent verbs and use them in the present tense\n- build the passé composé and choose between avoir and être\n- describe your day using reflexive verbs\n- talk about your home, your town and its services\n- ask politely with *je voudrais* and *pourriez-vous*\n- explain an obligation with *devoir* and *il faut*\n- locate things with à, de, dans, sur, chez, en\n- say how often you do something, with the adverb in the right place\n\nIf two or three of these are still shaky, go back to that lesson rather than moving on. Unit 3 builds directly on the passé composé.",
+            "fr": "Vous devez maintenant être capable de :\n\n- nommer les vingt verbes les plus fréquents et les employer au présent\n- construire le passé composé et choisir entre avoir et être\n- décrire votre journée à l'aide des verbes pronominaux\n- parler de votre logement, de votre ville et de ses services\n- demander poliment avec *je voudrais* et *pourriez-vous*\n- exprimer une obligation avec *devoir* et *il faut*\n- situer avec à, de, dans, sur, chez, en\n- dire à quelle fréquence vous faites quelque chose, en plaçant correctement l'adverbe\n\nSi deux ou trois de ces points restent fragiles, revenez à la leçon concernée plutôt que d'avancer : l'unité 3 s'appuie directement sur le passé composé."
+          }
+        }
+      ],
+      "vocabulary": [
+        { "term": "réviser", "phonetic": "ʁe.vi.ze", "example": "Je révise dix minutes chaque soir.", "gloss": { "en": "to revise, to review", "fr": "reprendre ce que l'on a appris" } },
+        { "term": "une erreur", "phonetic": "e.ʁœʁ", "example": "Ce n'est pas grave, c'est une petite erreur.", "gloss": { "en": "a mistake", "fr": "ce qui n'est pas correct" } },
+        { "term": "progresser", "phonetic": "pʁɔ.ɡʁe.se", "example": "Je progresse lentement mais sûrement.", "gloss": { "en": "to make progress", "fr": "avancer, s'améliorer" } },
+        { "term": "s'entraîner", "phonetic": "sɑ̃.tʁe.ne", "example": "Je m'entraîne à parler tous les jours.", "gloss": { "en": "to practise, to train", "fr": "répéter un exercice pour s'améliorer" } },
+        { "term": "facile / difficile", "phonetic": "fa.sil / di.fi.sil", "example": "Le passé composé est difficile au début.", "gloss": { "en": "easy / difficult", "fr": "qui demande peu / beaucoup d'effort" } },
+        { "term": "petit à petit", "phonetic": "p(ə).ti.ta.p(ə).ti", "example": "Petit à petit, je comprends mieux.", "gloss": { "en": "little by little", "fr": "progressivement" } },
+        { "term": "un exercice", "phonetic": "ɛɡ.zɛʁ.sis", "example": "Faites l'exercice trois avant demain.", "gloss": { "en": "an exercise", "fr": "activité d'entraînement" } },
+        { "term": "se souvenir de", "phonetic": "sə.suv.niʁ.də", "example": "Je me souviens de cette règle.", "gloss": { "en": "to remember", "fr": "garder en mémoire" } }
+      ],
+      "exercises": [
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": {
+            "en": "« Je ___ ici depuis deux ans. » Which tense does French use?",
+            "fr": "« Je ___ ici depuis deux ans. » Quel temps emploie le français ?"
+          },
+          "explanation": {
+            "en": "travaille — the present. With depuis, an action that is still going on stays in the present, unlike English.",
+            "fr": "travaille — le présent. Avec depuis, une action encore en cours reste au présent, contrairement à l'anglais."
+          },
+          "options": [["travaille (présent)", true], ["ai travaillé (passé composé)", false], ["vais travailler", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Which sentence describes an action that has just happened?", "fr": "Quelle phrase décrit une action qui vient de se produire ?" },
+          "explanation": {
+            "en": "Je viens de finir. Venir de + infinitive is the immediate past.",
+            "fr": "Je viens de finir. Venir de + infinitif exprime le passé immédiat."
+          },
+          "options": [["Je viens de finir.", true], ["Je vais finir.", false], ["Je finis.", false]]
+        },
+        {
+          "type": "MULTIPLE_CHOICE",
+          "points": 1,
+          "prompt": { "en": "Complete: « Hier, nous ___ allés au marché. »", "fr": "Complétez : « Hier, nous ___ allés au marché. »" },
+          "explanation": {
+            "en": "sommes — aller takes être, and the participle agrees with the subject: allés.",
+            "fr": "sommes — aller se conjugue avec être, et le participe s'accorde avec le sujet : allés."
+          },
+          "options": [["sommes", true], ["avons", false], ["étions", false]]
+        },
+        {
+          "type": "FILL_BLANK",
+          "points": 2,
+          "prompt": {
+            "en": "Put into the passé composé: « Je me lève à six heures. » → « Je ___ ___ ___ à six heures. »",
+            "fr": "Mettez au passé composé : « Je me lève à six heures. » → « Je ___ ___ ___ à six heures. »"
+          },
+          "explanation": {
+            "en": "me suis levé — reflexive verbs always take être, and the pronoun stays before the auxiliary.",
+            "fr": "me suis levé — les verbes pronominaux prennent toujours être, et le pronom reste devant l'auxiliaire."
+          },
+          "answers": ["me suis levé", "me suis levée", "me suis leve"]
+        },
+        {
+          "type": "TRUE_FALSE",
+          "points": 1,
+          "prompt": {
+            "en": "A sentence with a mistake that is understood is more useful than a perfect sentence never spoken.",
+            "fr": "Une phrase fautive mais comprise est plus utile qu'une phrase parfaite jamais prononcée."
+          },
+          "explanation": {
+            "en": "True. Communication comes first; accuracy is built through use. Waiting to be perfect is the surest way never to speak.",
+            "fr": "Vrai. La communication prime ; la correction se construit par l'usage. Attendre d'être parfait est le moyen le plus sûr de ne jamais parler."
+          },
+          "options": [["Vrai", true], ["Faux", false]]
+        }
+      ]
+    }
+  ]
+}
