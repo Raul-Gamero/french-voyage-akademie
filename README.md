@@ -17,7 +17,8 @@ Auteur : Raul Antonio Gamero Navarrete · Licence : [MIT](LICENSE)
 | API REST Spring Boot : inscription, authentification JWT, catalogue, progression, évaluation, RGPD | ✅ 43 tests, couverture de lignes 59,9 % |
 | Application web progressive Ionic + Angular, interface anglais / français | ✅ build de production, tests unitaires |
 | Schéma PostgreSQL versionné par Flyway, extensible de A1 à C2 sans migration de structure | ✅ appliqué sur PostgreSQL 16 |
-| Conteneurs, Nginx + TLS, sauvegardes, Matomo, CI/CD GitHub Actions | ✅ écrit et validé syntaxiquement — à exécuter sur le VPS |
+| Intégration continue GitHub Actions : tests backend et frontend, cohérence du contenu, migrations sur PostgreSQL réel | ✅ exécutée, pipeline vert |
+| Conteneurs, Nginx + TLS, sauvegardes, Matomo, déploiement SSH | ⏳ écrit et validé syntaxiquement — à exécuter sur le VPS (déploiement désactivé par `DEPLOY_ENABLED`) |
 | Documentation technique (architecture, UML, API, déploiement, qualité) | ✅ [`docs/`](docs/) |
 
 ## Architecture en une image
