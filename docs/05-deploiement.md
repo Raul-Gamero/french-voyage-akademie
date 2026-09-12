@@ -17,7 +17,7 @@ sudo ufw enable
 
 # Code
 sudo mkdir -p /opt/fva && sudo chown fva:fva /opt/fva
-sudo -u fva git clone https://github.com/<compte>/french-voyage-akademie.git /opt/fva
+sudo -u fva git clone https://github.com/Raul-Gamero/french-voyage-akademie.git /opt/fva
 ```
 
 ## 5.2 Configuration
@@ -83,6 +83,11 @@ Le job `deploy` de [`.github/workflows/ci.yml`](../.github/workflows/ci.yml) s'e
 sur `main`, uniquement si les tests backend, la validation du contenu, l'application des migrations et
 le build frontend ont réussi. Il appelle [`infra/scripts/deploy.sh`](../infra/scripts/deploy.sh) par SSH,
 qui sauvegarde la base, reconstruit, redémarre, puis attend que `/actuator/health` réponde `UP`.
+
+Le job est **désactivé par défaut** : il ne s'exécute que si la variable de dépôt `DEPLOY_ENABLED`
+vaut `true` (*Settings → Secrets and variables → Actions → Variables*). À activer une fois le VPS
+prêt et les secrets ci-dessous créés ; tant qu'elle est absente, le job apparaît comme ignoré et la CI
+reste verte.
 
 Secrets à créer dans *Settings → Environments → production* :
 
