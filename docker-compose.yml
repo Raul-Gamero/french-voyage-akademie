@@ -1,0 +1,55 @@
+# =====================================================================
+# French Voyage Akademie — environnement de développement local
+#
+#   cp .env.example .env    puis    docker compose up -d
+#
+# API        : http://localhost:8080
+# Swagger    : http://localhost:8080/swagger-ui.html
+# Frontend   : http://localhost:8100  (npm start, hors conteneur)
+# =====================================================================
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: fva-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-fva}
+      POSTGRES_USER: ${POSTGRES_USER:-fva}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-fva}
+      # Le français est la langue du contenu : le tri alphabétique
+      # doit traiter correctement les caractères accentués.
+      LANG: fr_FR.utf8
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - fva-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-fva} -d ${POSTGRES_DB:-fva}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+    container_name: fva-backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      SPRING_PROFILES_ACTIVE: ${SPRING_PROFILES_ACTIVE:-dev}
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/${POSTGRES_DB:-fva}
+      POSTGRES_USER: ${POSTGRES_USER:-fva}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-fva}
+      FVA_JWT_SECRET: ${FVA_JWT_SECRET:?La variable FVA_JWT_SECRET est obligatoire. Voir .env.example}
+      FVA_JWT_EXPIRATION_MINUTES: ${FVA_JWT_EXPIRATION_MINUTES:-120}
+      FVA_CORS_ALLOWED_ORIGINS: ${FVA_CORS_ALLOWED_ORIGINS:-http://localhost:8100,http://localhost:4200}
+      FVA_ADMIN_EMAIL: ${FVA_ADMIN_EMAIL:-}
+      FVA_ADMIN_PASSWORD: ${FVA_ADMIN_PASSWORD:-}
+    ports:
+      - "${BACKEND_PORT:-8080}:8080"
+
+volumes:
+  fva-db-data:

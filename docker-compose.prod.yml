@@ -1,0 +1,118 @@
+# =====================================================================
+# French Voyage Akademie — production (VPS OVHcloud)
+#
+#   docker compose -f docker-compose.prod.yml up -d --build
+#
+# Premier déploiement : obtenir le certificat AVANT de lancer Nginx.
+#   ./infra/scripts/init-letsencrypt.sh
+#
+# Seuls les ports 80 et 443 sont exposés. PostgreSQL, le backend et Matomo
+# ne sont joignables que sur le réseau interne des conteneurs.
+# =====================================================================
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: always
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?POSTGRES_PASSWORD est obligatoire}
+    volumes:
+      - fva-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks: [internal]
+
+  backend:
+    build:
+      context: ./backend
+    restart: always
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      SPRING_PROFILES_ACTIVE: prod
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      FVA_JWT_SECRET: ${FVA_JWT_SECRET:?FVA_JWT_SECRET est obligatoire}
+      FVA_JWT_EXPIRATION_MINUTES: ${FVA_JWT_EXPIRATION_MINUTES:-120}
+      # Même domaine pour le frontend et l'API : CORS limité à l'origine publique.
+      FVA_CORS_ALLOWED_ORIGINS: https://${FVA_PUBLIC_DOMAIN}
+      # Volontairement vides en production : aucun compte par défaut.
+      FVA_ADMIN_EMAIL: ""
+      FVA_ADMIN_PASSWORD: ""
+    volumes:
+      - fva-backend-logs:/var/log/fva
+    networks: [internal]
+
+  web:
+    build:
+      context: ./frontend
+    restart: always
+    depends_on:
+      - backend
+    environment:
+      FVA_PUBLIC_DOMAIN: ${FVA_PUBLIC_DOMAIN:?FVA_PUBLIC_DOMAIN est obligatoire}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./infra/certbot/conf:/etc/letsencrypt:ro
+      - ./infra/certbot/www:/var/www/certbot:ro
+    networks: [internal]
+
+  certbot:
+    image: certbot/certbot:latest
+    restart: unless-stopped
+    volumes:
+      - ./infra/certbot/conf:/etc/letsencrypt
+      - ./infra/certbot/www:/var/www/certbot
+    # Tente un renouvellement toutes les douze heures ; certbot ne renouvelle
+    # réellement qu'à moins de trente jours de l'expiration.
+    entrypoint: >
+      /bin/sh -c "trap exit TERM; while :; do certbot renew --webroot -w /var/www/certbot --quiet; sleep 12h & wait $${!}; done"
+
+  matomo-db:
+    image: mariadb:11
+    restart: always
+    environment:
+      MARIADB_DATABASE: matomo
+      MARIADB_USER: matomo
+      MARIADB_PASSWORD: ${MATOMO_DB_PASSWORD:?MATOMO_DB_PASSWORD est obligatoire}
+      MARIADB_RANDOM_ROOT_PASSWORD: "yes"
+    volumes:
+      - fva-matomo-db:/var/lib/mysql
+    networks: [internal]
+
+  # Analytique auto-hébergée : aucune donnée de fréquentation ne quitte le VPS.
+  # Exposée en local seulement ; l'accès se fait par tunnel SSH
+  #   ssh -L 8081:localhost:8081 utilisateur@vps
+  matomo:
+    image: matomo:5-apache
+    restart: always
+    depends_on:
+      - matomo-db
+    environment:
+      MATOMO_DATABASE_HOST: matomo-db
+      MATOMO_DATABASE_DBNAME: matomo
+      MATOMO_DATABASE_USERNAME: matomo
+      MATOMO_DATABASE_PASSWORD: ${MATOMO_DB_PASSWORD}
+    ports:
+      - "127.0.0.1:8081:80"
+    volumes:
+      - fva-matomo-data:/var/www/html
+    networks: [internal]
+
+networks:
+  internal:
+
+volumes:
+  fva-db-data:
+  fva-backend-logs:
+  fva-matomo-db:
+  fva-matomo-data:
