@@ -1,0 +1,13 @@
+# Profil de développement local.
+spring:
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+
+logging:
+  level:
+    com.frenchvoyage.akademie: DEBUG
+    org.hibernate.SQL: WARN
+    org.flywaydb: INFO
