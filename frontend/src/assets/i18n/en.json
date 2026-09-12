@@ -1,0 +1,122 @@
+{
+  "app": {
+    "tagline": "Learn French for free"
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "progress": "My progress",
+    "profile": "My profile",
+    "login": "Sign in",
+    "logout": "Sign out",
+    "privacy": "Privacy policy",
+    "terms": "Legal notice"
+  },
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "chooseLanguage": "Choose the interface language"
+  },
+  "common": {
+    "loading": "Loading",
+    "loadError": "The content could not be loaded. Check your connection and try again.",
+    "networkError": "Connection problem. Please try again.",
+    "cancel": "Cancel"
+  },
+  "home": {
+    "title": "French, without paying for it",
+    "subtitle": "A complete course from A1, built for people who need French to live, study or work — and who cannot spend hundreds of euros on a language school.",
+    "startLearning": "Start learning",
+    "createAccount": "Create a free account",
+    "levels": "Levels",
+    "lessonCount": "{{count}} lessons available",
+    "comingSoon": "Coming soon",
+    "promise": {
+      "free": "Free, with no paid tier and no premium lessons",
+      "noAds": "No advertising and no third-party tracking",
+      "offline": "Installable on your phone, works partly offline",
+      "openSource": "Open source under the MIT licence"
+    },
+    "disclaimer": "Content follows the descriptors of the Common European Framework of Reference as a guide. This platform does not award any official certification."
+  },
+  "units": {
+    "title": "Level {{level}}",
+    "duration": "{{minutes}} min",
+    "exercises": "{{count}} exercises"
+  },
+  "lesson": {
+    "objective": "Objective",
+    "vocabulary": "Vocabulary",
+    "exercises": "Exercises",
+    "watchVideo": "Watch the video",
+    "yourAnswer": "Your answer",
+    "check": "Check",
+    "correct": "Correct",
+    "incorrect": "Not quite",
+    "score": "Score: {{score}} / {{max}}",
+    "scoreLabel": "Score for this lesson",
+    "markComplete": "Mark lesson as complete",
+    "completed": "Lesson completed",
+    "loginToTrack": "Exercises are free to read. To answer them and save your progress,"
+  },
+  "login": {
+    "title": "Sign in",
+    "email": "Email address",
+    "password": "Password",
+    "submit": "Sign in",
+    "noAccount": "No account yet?",
+    "createOne": "Create one",
+    "invalidCredentials": "Incorrect email address or password.",
+    "missingFields": "Please fill in both fields.",
+    "sessionExpired": "Your session has expired. Please sign in again."
+  },
+  "register": {
+    "title": "Create an account",
+    "intro": "We ask for as little as possible: an email address to sign in, a name of your choosing, and a password. Nothing about your nationality or your administrative situation.",
+    "displayName": "Display name",
+    "displayNameHelp": "Any name you like. It does not have to be your legal name.",
+    "email": "Email address",
+    "password": "Password",
+    "passwordHelp": "At least 8 characters, including one letter and one digit.",
+    "consent": "I have read and accept the privacy policy.",
+    "consentRequired": "Your consent is required to create an account.",
+    "checkFields": "Please check the fields above.",
+    "emailTaken": "An account already exists for this email address.",
+    "submit": "Create my account",
+    "haveAccount": "Already have an account?"
+  },
+  "progress": {
+    "title": "My progress",
+    "overview": "Overview",
+    "overallLabel": "Overall progress",
+    "completed": "Completed",
+    "inProgress": "In progress",
+    "available": "Available",
+    "points": "Points",
+    "byLesson": "Lesson by lesson",
+    "score": "Score {{score}} / {{max}}",
+    "done": "Done",
+    "ongoing": "Ongoing",
+    "empty": "You have not started a lesson yet."
+  },
+  "profile": {
+    "title": "My profile",
+    "identity": "Account",
+    "email": "Email address",
+    "emailFixed": "The email address is your sign-in identifier and cannot be changed here. Contact us if you need it changed.",
+    "displayName": "Display name",
+    "language": "Interface language",
+    "save": "Save",
+    "saved": "Changes saved.",
+    "changePassword": "Change password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "updatePassword": "Update password",
+    "passwordChanged": "Password updated.",
+    "passwordTooShort": "The new password must be at least 8 characters long.",
+    "wrongPassword": "The current password is incorrect.",
+    "deleteAccount": "Delete my account",
+    "deleteWarning": "This permanently deletes your account, your progress and your answer history. The action is immediate and cannot be undone.",
+    "deleteConfirm": "Are you sure? This cannot be undone.",
+    "deleteYes": "Yes, delete everything"
+  }
+}

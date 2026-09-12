@@ -1,0 +1,170 @@
+/* ---------------------------------------------------------------------
+   French Voyage Akademie — feuille de style globale
+   Ionic fournit la structure et les composants, Tailwind la mise en page.
+   --------------------------------------------------------------------- */
+
+@import '@ionic/angular/css/core.css';
+@import '@ionic/angular/css/normalize.css';
+@import '@ionic/angular/css/structure.css';
+@import '@ionic/angular/css/typography.css';
+@import '@ionic/angular/css/display.css';
+
+@import '@ionic/angular/css/padding.css';
+@import '@ionic/angular/css/flex-utils.css';
+@import '@ionic/angular/css/text-alignment.css';
+
+@import '@ionic/angular/css/palettes/dark.system.css';
+
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ion-color-primary: #2547d8;
+  --ion-color-primary-rgb: 37, 71, 216;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #203ebe;
+  --ion-color-primary-tint: #3a59dc;
+
+  --ion-font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ---------------------------------------------------------------------
+   Accessibilité — WCAG 2.1 AA
+   --------------------------------------------------------------------- */
+
+/* 2.4.7 Visibilité du focus : un contour net, jamais supprimé. */
+:focus-visible {
+  outline: 3px solid var(--ion-color-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* 2.4.1 Contourner des blocs : lien d'évitement révélé au clavier. */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  padding: 0.75rem 1rem;
+  background: var(--ion-color-primary);
+  color: #fff;
+  font-weight: 600;
+}
+
+.skip-link:focus {
+  left: 0.5rem;
+  top: 0.5rem;
+}
+
+/* 2.3.3 Animation à la demande : respecter la préférence système. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Réservé aux lecteurs d'écran : visible pour eux, invisible à l'écran. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------------------------------------------------------------------
+   Contenu pédagogique rendu depuis le Markdown des leçons
+   --------------------------------------------------------------------- */
+
+.lesson-prose {
+  max-width: 68ch;
+  line-height: 1.7;
+  color: var(--ion-text-color);
+}
+
+.lesson-prose h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.lesson-prose p {
+  margin: 0 0 1rem;
+}
+
+.lesson-prose ul,
+.lesson-prose ol {
+  margin: 0 0 1rem 1.25rem;
+  padding-left: 0.75rem;
+}
+
+.lesson-prose li {
+  margin-bottom: 0.35rem;
+  list-style: disc;
+}
+
+.lesson-prose ol li {
+  list-style: decimal;
+}
+
+.lesson-prose strong {
+  font-weight: 700;
+}
+
+.lesson-prose em {
+  font-style: italic;
+}
+
+.lesson-prose code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.9em;
+  padding: 0.1rem 0.3rem;
+  border-radius: 4px;
+  background: rgba(127, 127, 127, 0.16);
+}
+
+.lesson-prose blockquote {
+  margin: 0 0 1rem;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--ion-color-primary);
+  background: rgba(37, 71, 216, 0.07);
+  border-radius: 0 6px 6px 0;
+}
+
+/* Les tableaux de conjugaison sont larges : ils défilent dans leur cadre,
+   jamais la page entière. */
+.lesson-prose .table-wrapper {
+  overflow-x: auto;
+  margin: 0 0 1rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.lesson-prose table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 20rem;
+  font-size: 0.95rem;
+}
+
+.lesson-prose th,
+.lesson-prose td {
+  border: 1px solid rgba(127, 127, 127, 0.35);
+  padding: 0.45rem 0.7rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.lesson-prose th {
+  background: rgba(127, 127, 127, 0.12);
+  font-weight: 600;
+}

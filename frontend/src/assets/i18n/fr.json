@@ -1,0 +1,122 @@
+{
+  "app": {
+    "tagline": "Apprendre le français gratuitement"
+  },
+  "nav": {
+    "home": "Accueil",
+    "courses": "Cours",
+    "progress": "Ma progression",
+    "profile": "Mon profil",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "privacy": "Politique de confidentialité",
+    "terms": "Mentions légales"
+  },
+  "a11y": {
+    "skipToContent": "Aller au contenu principal",
+    "chooseLanguage": "Choisir la langue de l'interface"
+  },
+  "common": {
+    "loading": "Chargement",
+    "loadError": "Le contenu n'a pas pu être chargé. Vérifiez votre connexion et réessayez.",
+    "networkError": "Problème de connexion. Veuillez réessayer.",
+    "cancel": "Annuler"
+  },
+  "home": {
+    "title": "Le français, sans avoir à le payer",
+    "subtitle": "Un cours complet à partir du niveau A1, conçu pour celles et ceux qui ont besoin du français pour vivre, étudier ou travailler — et qui ne peuvent pas consacrer plusieurs centaines d'euros à une école de langues.",
+    "startLearning": "Commencer à apprendre",
+    "createAccount": "Créer un compte gratuit",
+    "levels": "Les niveaux",
+    "lessonCount": "{{count}} leçons disponibles",
+    "comingSoon": "Bientôt disponible",
+    "promise": {
+      "free": "Gratuit, sans version payante ni leçon réservée",
+      "noAds": "Aucune publicité, aucun traceur tiers",
+      "offline": "Installable sur votre téléphone, utilisable en partie hors connexion",
+      "openSource": "Code ouvert, sous licence MIT"
+    },
+    "disclaimer": "Les contenus s'appuient sur les descripteurs du Cadre européen commun de référence à titre indicatif. Cette plateforme ne délivre aucune certification officielle."
+  },
+  "units": {
+    "title": "Niveau {{level}}",
+    "duration": "{{minutes}} min",
+    "exercises": "{{count}} exercices"
+  },
+  "lesson": {
+    "objective": "Objectif",
+    "vocabulary": "Vocabulaire",
+    "exercises": "Exercices",
+    "watchVideo": "Voir la vidéo",
+    "yourAnswer": "Votre réponse",
+    "check": "Vérifier",
+    "correct": "Correct",
+    "incorrect": "Pas tout à fait",
+    "score": "Score : {{score}} / {{max}}",
+    "scoreLabel": "Score de cette leçon",
+    "markComplete": "Marquer la leçon comme terminée",
+    "completed": "Leçon terminée",
+    "loginToTrack": "Les exercices sont consultables librement. Pour y répondre et enregistrer votre progression,"
+  },
+  "login": {
+    "title": "Se connecter",
+    "email": "Adresse électronique",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "noAccount": "Pas encore de compte ?",
+    "createOne": "En créer un",
+    "invalidCredentials": "Adresse électronique ou mot de passe incorrect.",
+    "missingFields": "Veuillez remplir les deux champs.",
+    "sessionExpired": "Votre session a expiré. Veuillez vous reconnecter."
+  },
+  "register": {
+    "title": "Créer un compte",
+    "intro": "Nous demandons le strict minimum : une adresse électronique pour se connecter, un nom de votre choix et un mot de passe. Rien sur votre nationalité ni sur votre situation administrative.",
+    "displayName": "Nom d'affichage",
+    "displayNameHelp": "Le nom que vous voulez. Il n'a pas à être votre nom d'état civil.",
+    "email": "Adresse électronique",
+    "password": "Mot de passe",
+    "passwordHelp": "Au moins 8 caractères, dont une lettre et un chiffre.",
+    "consent": "J'ai lu et j'accepte la politique de confidentialité.",
+    "consentRequired": "Votre consentement est nécessaire pour créer un compte.",
+    "checkFields": "Veuillez vérifier les champs ci-dessus.",
+    "emailTaken": "Un compte existe déjà pour cette adresse électronique.",
+    "submit": "Créer mon compte",
+    "haveAccount": "Vous avez déjà un compte ?"
+  },
+  "progress": {
+    "title": "Ma progression",
+    "overview": "Vue d'ensemble",
+    "overallLabel": "Avancement global",
+    "completed": "Terminées",
+    "inProgress": "En cours",
+    "available": "Disponibles",
+    "points": "Points",
+    "byLesson": "Leçon par leçon",
+    "score": "Score {{score}} / {{max}}",
+    "done": "Terminée",
+    "ongoing": "En cours",
+    "empty": "Vous n'avez pas encore commencé de leçon."
+  },
+  "profile": {
+    "title": "Mon profil",
+    "identity": "Compte",
+    "email": "Adresse électronique",
+    "emailFixed": "L'adresse électronique est votre identifiant de connexion et ne se modifie pas ici. Écrivez-nous si vous devez la changer.",
+    "displayName": "Nom d'affichage",
+    "language": "Langue de l'interface",
+    "save": "Enregistrer",
+    "saved": "Modifications enregistrées.",
+    "changePassword": "Changer de mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "updatePassword": "Mettre à jour le mot de passe",
+    "passwordChanged": "Mot de passe mis à jour.",
+    "passwordTooShort": "Le nouveau mot de passe doit comporter au moins 8 caractères.",
+    "wrongPassword": "Le mot de passe actuel est incorrect.",
+    "deleteAccount": "Supprimer mon compte",
+    "deleteWarning": "Cette action supprime définitivement votre compte, votre progression et l'historique de vos réponses. Elle est immédiate et irréversible.",
+    "deleteConfirm": "Êtes-vous certain ? Cette action est irréversible.",
+    "deleteYes": "Oui, tout supprimer"
+  }
+}
