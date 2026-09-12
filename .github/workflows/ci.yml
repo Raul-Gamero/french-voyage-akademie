@@ -106,10 +106,46 @@ jobs:
       - name: Build de production
         run: npx ng build --configuration production
 
+  docker:
+    name: Images Docker — construction et configuration Nginx
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Construire l'image du backend
+        run: docker build -t fva-backend:ci ./backend
+
+      - name: Construire l'image web (frontend + Nginx)
+        run: docker build -t fva-web:ci ./frontend
+
+      # Nginx refuse de démarrer sans certificat : on en génère un de test pour
+      # valider la configuration de production exactement comme sur le VPS.
+      - name: Valider la configuration Nginx de production
+        run: |
+          mkdir -p certs/live/example.org
+          openssl req -x509 -nodes -newkey rsa:2048 -days 1 -subj "/CN=example.org" \
+            -keyout certs/live/example.org/privkey.pem \
+            -out certs/live/example.org/fullchain.pem
+          docker run --rm \
+            -e FVA_PUBLIC_DOMAIN=example.org \
+            --add-host backend:127.0.0.1 \
+            -v "$PWD/certs:/etc/letsencrypt:ro" \
+            fva-web:ci nginx -t
+
+      - name: Valider docker-compose.prod.yml
+        env:
+          POSTGRES_DB: fva
+          POSTGRES_USER: fva
+          POSTGRES_PASSWORD: ci
+          FVA_JWT_SECRET: ci-secret-with-at-least-thirty-two-chars
+          FVA_PUBLIC_DOMAIN: example.org
+          MATOMO_DB_PASSWORD: ci
+        run: docker compose -f docker-compose.prod.yml config --quiet
+
   deploy:
     name: Déploiement — VPS OVHcloud
     runs-on: ubuntu-latest
-    needs: [backend, content, migrations, frontend]
+    needs: [backend, content, migrations, frontend, docker]
     # Désactivé tant que le VPS n'est pas prêt : définir la variable de dépôt
     # DEPLOY_ENABLED=true (Settings → Secrets and variables → Actions → Variables).
     if: github.event_name == 'push' && github.ref == 'refs/heads/main' && vars.DEPLOY_ENABLED == 'true'

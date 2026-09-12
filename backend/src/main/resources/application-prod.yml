@@ -8,7 +8,8 @@ server:
   # IP journalisées seraient celles du conteneur, pas celles du client.
   forward-headers-strategy: native
   tomcat:
-    max-threads: 50
+    threads:
+      max: 50
     accesslog:
       enabled: false
 

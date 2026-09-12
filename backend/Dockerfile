@@ -13,7 +13,9 @@ WORKDIR /build
 # le pom ne change pas, cette couche reste en cache et la construction
 # suivante ne retélécharge rien.
 COPY pom.xml .
-RUN mvn -B dependency:go-offline
+# Solo precalienta la caché: si algún plugin no se resuelve aquí, la
+# compilación siguiente lo descarga y falla de verdad si algo falta.
+RUN mvn -B -q dependency:go-offline || true
 
 COPY src ./src
 RUN mvn -B clean package -DskipTests
@@ -26,7 +28,9 @@ RUN addgroup -S fva && adduser -S fva -G fva
 
 WORKDIR /app
 COPY --from=build /build/target/akademie-backend-*.jar app.jar
-RUN chown -R fva:fva /app
+# /var/log/fva recibe el volumen de registros del perfil prod: debe existir y
+# pertenecer al usuario del servicio antes de montarse.
+RUN mkdir -p /var/log/fva && chown -R fva:fva /app /var/log/fva
 
 USER fva
 EXPOSE 8080

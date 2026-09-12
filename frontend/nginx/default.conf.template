@@ -57,6 +57,12 @@ server {
         include /etc/nginx/snippets/proxy.conf;
     }
 
+    # Estado del servicio (sin detalles): supervisión externa y script de despliegue.
+    location = /actuator/health {
+        proxy_pass http://backend:8080;
+        include /etc/nginx/snippets/proxy.conf;
+    }
+
     # La documentation de l'API reste publique : elle fait partie des livrables.
     location ~ ^/(swagger-ui|v3/api-docs) {
         proxy_pass http://backend:8080;
