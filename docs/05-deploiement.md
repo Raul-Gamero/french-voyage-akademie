@@ -3,9 +3,38 @@
 Cible : un VPS OVHcloud sous Debian ou Ubuntu, Docker et le plugin Compose installés, nom de domaine
 pointant vers l'adresse IP du serveur.
 
+## 5.0 Pointer le domaine GoDaddy vers le VPS
+
+Dans GoDaddy : *Mes produits → Domaine → DNS → Gérer les enregistrements DNS*.
+
+| Type | Nom | Valeur | TTL |
+|---|---|---|---|
+| A | `@` | adresse IPv4 du VPS | 600 secondes |
+| A | `www` | adresse IPv4 du VPS | 600 secondes |
+
+Supprimer l'enregistrement A « Parked » créé par défaut et toute redirection de domaine
+(*Forwarding*). Les deux noms sont indispensables : le certificat est demandé pour le domaine et pour
+`www`, et Let's Encrypt refuse s'il n'arrive pas à joindre l'un des deux.
+
+Vérifier la propagation avant d'aller plus loin : `nslookup mondomaine.com` doit renvoyer l'IP du VPS.
+
+**TLS :** aucun certificat à acheter chez GoDaddy. Le certificat Let's Encrypt est gratuit, émis et
+renouvelé automatiquement par le conteneur `certbot`. Il suffit que le DNS pointe vers le VPS, que
+les ports 80 et 443 soient ouverts et qu'une adresse de notification figure dans `.env`.
+
 ## 5.1 Préparation du serveur (une seule fois)
 
+Commandes pour Ubuntu 24.04 (connecté en SSH avec l'utilisateur fourni par OVHcloud).
+
 ```bash
+# Docker et Compose depuis les dépôts Ubuntu
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y docker.io docker-compose-v2 git ufw
+
+# Mémoire d'échange : la compilation Maven et Angular dépasse 2 Go sur un petit VPS
+sudo fallocate -l 2G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+
 # Utilisateur de déploiement sans mot de passe root
 sudo adduser --disabled-password fva
 sudo usermod -aG docker fva
