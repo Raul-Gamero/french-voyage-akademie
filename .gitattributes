@@ -1,0 +1,22 @@
+# Fins de ligne : LF partout dans le dépôt.
+# Indispensable pour les scripts shell et les fichiers exécutés dans les
+# conteneurs Linux ; un script en CRLF échoue avec « bash\r: not found ».
+* text=auto eol=lf
+
+*.sh      text eol=lf
+Dockerfile text eol=lf
+*.conf    text eol=lf
+*.template text eol=lf
+*.yml     text eol=lf
+*.yaml    text eol=lf
+
+# Scripts Windows éventuels
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binaires
+*.png binary
+*.jpg binary
+*.ico binary
+*.jar binary
