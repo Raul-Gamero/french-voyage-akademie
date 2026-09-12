@@ -1,0 +1,36 @@
+# --- Java / Maven ---
+backend/target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# --- Node / Angular / Ionic ---
+node_modules/
+frontend/www/
+frontend/dist/
+frontend/.angular/
+frontend/coverage/
+npm-debug.log*
+yarn-error.log*
+
+# --- Environnement / secrets ---
+.env
+.env.local
+*.env
+!.env.example
+infra/nginx/certs/
+infra/backups/
+
+# --- IDE / OS ---
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# --- Divers ---
+*.log
+
+# --- Production : certificats et sauvegardes restent sur le VPS ---
+infra/certbot/
