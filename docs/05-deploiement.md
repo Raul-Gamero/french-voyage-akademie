@@ -1,0 +1,121 @@
+# 5. Déploiement et exploitation
+
+Cible : un VPS OVHcloud sous Debian ou Ubuntu, Docker et le plugin Compose installés, nom de domaine
+pointant vers l'adresse IP du serveur.
+
+## 5.1 Préparation du serveur (une seule fois)
+
+```bash
+# Utilisateur de déploiement sans mot de passe root
+sudo adduser --disabled-password fva
+sudo usermod -aG docker fva
+
+# Pare-feu : seuls SSH, HTTP et HTTPS
+sudo ufw allow OpenSSH
+sudo ufw allow 80,443/tcp
+sudo ufw enable
+
+# Code
+sudo mkdir -p /opt/fva && sudo chown fva:fva /opt/fva
+sudo -u fva git clone https://github.com/<compte>/french-voyage-akademie.git /opt/fva
+```
+
+## 5.2 Configuration
+
+```bash
+cd /opt/fva
+cp .env.example .env
+chmod 600 .env
+```
+
+Valeurs à renseigner impérativement :
+
+| Variable | Exigence |
+|---|---|
+| `POSTGRES_PASSWORD` | aléatoire, 32 caractères — `openssl rand -base64 32` |
+| `FVA_JWT_SECRET` | aléatoire, 48 caractères ou plus — `openssl rand -base64 48` |
+| `MATOMO_DB_PASSWORD` | aléatoire |
+| `FVA_PUBLIC_DOMAIN` | domaine public, sans `https://` |
+| `FVA_LETSENCRYPT_EMAIL` | adresse de notification d'expiration |
+| `SPRING_PROFILES_ACTIVE` | `prod` |
+
+`FVA_ADMIN_EMAIL` et `FVA_ADMIN_PASSWORD` restent vides : `docker-compose.prod.yml` les force à vide
+pour qu'aucun compte par défaut n'existe sur une installation publique.
+
+## 5.3 Premier lancement
+
+```bash
+chmod +x infra/scripts/*.sh
+./infra/scripts/init-letsencrypt.sh
+docker compose -f docker-compose.prod.yml up -d --build
+docker compose -f docker-compose.prod.yml logs -f backend
+```
+
+Attendre la ligne `Successfully applied 5 migrations`, puis vérifier :
+
+```bash
+curl -s https://$FVA_PUBLIC_DOMAIN/actuator/health
+curl -s "https://$FVA_PUBLIC_DOMAIN/api/v1/catalog/levels?locale=fr"
+```
+
+## 5.4 Sauvegardes
+
+```bash
+crontab -e
+```
+
+```
+30 3 * * * /opt/fva/infra/scripts/backup-db.sh >> /var/log/fva-backup.log 2>&1
+```
+
+- dump PostgreSQL au format *custom*, relu par `pg_restore --list` avant d'être conservé ;
+- rotation sur 14 jours ;
+- **copie hors serveur recommandée** : une sauvegarde sur le même disque ne protège pas d'une perte du
+  VPS. Option gratuite : `rclone` vers un stockage personnel, ou le stockage objet OVHcloud.
+
+Restauration : `./infra/scripts/restore-db.sh infra/backups/fva_AAAA-MM-JJ_HHMM.dump`.
+**Tester une restauration au moins une fois pendant le projet** — c'est l'élément de preuve attendu
+pour le critère de fiabilité.
+
+## 5.5 Déploiement continu
+
+Le job `deploy` de [`.github/workflows/ci.yml`](../.github/workflows/ci.yml) s'exécute sur chaque push
+sur `main`, uniquement si les tests backend, la validation du contenu, l'application des migrations et
+le build frontend ont réussi. Il appelle [`infra/scripts/deploy.sh`](../infra/scripts/deploy.sh) par SSH,
+qui sauvegarde la base, reconstruit, redémarre, puis attend que `/actuator/health` réponde `UP`.
+
+Secrets à créer dans *Settings → Environments → production* :
+
+| Secret | Contenu |
+|---|---|
+| `VPS_HOST` | adresse du serveur |
+| `VPS_USER` | `fva` |
+| `VPS_SSH_KEY` | clé privée dédiée au déploiement (générée pour cet usage seul) |
+| `VPS_SSH_KNOWN_HOSTS` | sortie de `ssh-keyscan <adresse>` |
+
+## 5.6 Mesure d'audience
+
+Matomo écoute sur `127.0.0.1:8081` et n'est jamais exposé publiquement :
+
+```bash
+ssh -L 8081:localhost:8081 fva@<adresse-du-vps>
+```
+
+puis ouvrir http://localhost:8081 pour l'assistant d'installation. Dans les réglages, activer
+l'anonymisation des adresses IP (deux octets) et le respect de *Do Not Track*.
+
+## 5.7 Supervision de la disponibilité
+
+L'objectif engagé est une disponibilité d'au moins 90 % au troisième mois. Pour la mesurer
+gratuitement, configurer une sonde externe (UptimeRobot ou équivalent) sur
+`https://<domaine>/actuator/health` à intervalle de 5 minutes, et exporter son rapport pour l'Avance 3.
+
+## 5.8 Mise à jour du contenu en production
+
+1. Modifier `content/a1/unit-N.json`.
+2. `python tools/generate_seed.py` régénère la migration de l'unité.
+3. **Une migration déjà appliquée ne doit jamais être modifiée** : Flyway refuserait de démarrer
+   (somme de contrôle différente). Pour corriger une leçon déjà publiée, créer une migration corrective
+   `V6__correction_…sql` contenant des `UPDATE` ciblés.
+
+La régénération complète d'une unité n'est donc possible que tant qu'elle n'a pas été déployée.
